@@ -120,7 +120,8 @@ async function scrape() {
   mkdirSync(outDir, { recursive: true });
 
   const outPath = resolve(outDir, "jobs.json");
-  writeFileSync(outPath, JSON.stringify(allJobs, null, 2));
+  const output = { scrapedAt: new Date().toISOString(), jobs: allJobs };
+  writeFileSync(outPath, JSON.stringify(output, null, 2));
   console.log(`\nDone! Scraped ${allJobs.length} jobs → ${outPath}`);
 }
 

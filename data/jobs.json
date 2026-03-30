@@ -1,6 +1,36 @@
 {
-  "scrapedAt": "2026-03-29T12:14:16.622Z",
+  "scrapedAt": "2026-03-30T12:24:26.634Z",
   "jobs": [
+    {
+      "id": "87730421856",
+      "title": "Manager, Risk",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "03/30/2026"
+    },
+    {
+      "id": "90956355600",
+      "title": "Senior Manager of Technical Program Management",
+      "location": "Richmond, VA",
+      "datePosted": "01/23/2026"
+    },
+    {
+      "id": "90920813200",
+      "title": "Manager, Product Management - Retail Bank Data",
+      "location": "New York, NY",
+      "datePosted": "01/22/2026"
+    },
+    {
+      "id": "90427997600",
+      "title": "Lead Data Engineer (Bank Tech)",
+      "location": "McLean, VA",
+      "datePosted": "01/09/2026"
+    },
+    {
+      "id": "91333906144",
+      "title": "Principal Data Scientist",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "03/29/2026"
+    },
     {
       "id": "91911067616",
       "title": "Lead Software Engineer, Back End (Java, SPARK, EMR)",
@@ -431,12 +461,6 @@
       "id": "93265680496",
       "title": "Area Sales Manager - Boston",
       "location": "Boston, MA",
-      "datePosted": "03/27/2026"
-    },
-    {
-      "id": "91204182352",
-      "title": "Principal Associate - Data Engineering",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "03/27/2026"
     },
     {
@@ -2786,12 +2810,6 @@
       "datePosted": "02/25/2026"
     },
     {
-      "id": "92321940832",
-      "title": "Director, Enterprise Risk Organization - Chief of Staff Team",
-      "location": "McLean, VA",
-      "datePosted": "03/17/2026"
-    },
-    {
       "id": "92886061744",
       "title": "Sr Associate - Product Management",
       "location": "McLean, VA",
@@ -3431,12 +3449,6 @@
       "id": "92690973504",
       "title": "Manager, Controls Testing | Retail Risk",
       "location": "McLean, VA",
-      "datePosted": "03/12/2026"
-    },
-    {
-      "id": "92690973376",
-      "title": "Principal Associate, Project Manager, HR Activate PMO",
-      "location": "Richmond, VA",
       "datePosted": "03/12/2026"
     },
     {
@@ -4326,12 +4338,6 @@
       "title": "Senior Lead Software Engineer, Full Stack",
       "location": "Plano, TX",
       "datePosted": "03/06/2026"
-    },
-    {
-      "id": "90956355600",
-      "title": "Senior Manager of Technical Program Management",
-      "location": "Richmond, VA",
-      "datePosted": "01/23/2026"
     },
     {
       "id": "91377102128",
@@ -5966,12 +5972,6 @@
       "datePosted": "02/16/2026"
     },
     {
-      "id": "90920813200",
-      "title": "Manager, Product Management - Retail Bank Data",
-      "location": "New York, NY",
-      "datePosted": "01/22/2026"
-    },
-    {
       "id": "90831746816",
       "title": "Distinguished Machine Learning Engineer - Bank Tech",
       "location": "McLean, VA",
@@ -6162,12 +6162,6 @@
       "title": "Partner Marketing Manager, Capital One Software (Remote)",
       "location": "Richmond, VA",
       "datePosted": "02/11/2026"
-    },
-    {
-      "id": "90427997600",
-      "title": "Lead Data Engineer (Bank Tech)",
-      "location": "McLean, VA",
-      "datePosted": "01/09/2026"
     },
     {
       "id": "91608000448",

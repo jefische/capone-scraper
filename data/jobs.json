@@ -1,6 +1,30 @@
 {
-  "scrapedAt": "2026-04-05T12:15:42.852Z",
+  "scrapedAt": "2026-04-06T12:22:41.029Z",
   "jobs": [
+    {
+      "id": "93622510752",
+      "title": "Business Analysis  Manager-Global Payment Network Strategy",
+      "location": "Chicago, IL",
+      "datePosted": "04/05/2026"
+    },
+    {
+      "id": "93622510736",
+      "title": "Senior Manager, Product Management - Correspondence Platform",
+      "location": "New York, NY",
+      "datePosted": "04/05/2026"
+    },
+    {
+      "id": "91386385872",
+      "title": "Manager, Product Management - Enterprise Document Management Platform",
+      "location": "New York, NY",
+      "datePosted": "04/05/2026"
+    },
+    {
+      "id": "92195849680",
+      "title": "Global Payments Network Risk Program Manager",
+      "location": "McLean, VA",
+      "datePosted": "02/27/2026"
+    },
     {
       "id": "93585526128",
       "title": "Senior Manager, Product Manager-Small Business Bank Associate Servicing",
@@ -54,12 +78,6 @@
       "title": "Director, Data Analysis - Card Customer Management Platforms",
       "location": "McLean, VA",
       "datePosted": "03/30/2026"
-    },
-    {
-      "id": "92195849680",
-      "title": "Global Payments Network Risk Program Manager",
-      "location": "McLean, VA",
-      "datePosted": "02/27/2026"
     },
     {
       "id": "93540114096",
@@ -234,12 +252,6 @@
       "title": "Principal Data Scientist",
       "location": "McLean, VA",
       "datePosted": "03/30/2026"
-    },
-    {
-      "id": "86854132352",
-      "title": "Senior Data Engineer",
-      "location": "McLean, VA",
-      "datePosted": "04/03/2026"
     },
     {
       "id": "91377102608",
@@ -930,12 +942,6 @@
       "title": "Manager, Product Manager - Enterprise Payments - OnePay",
       "location": "McLean, VA",
       "datePosted": "11/04/2025"
-    },
-    {
-      "id": "86477248624",
-      "title": "Senior Associate, Accounting",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "04/01/2026"
     },
     {
       "id": "93435438176",
@@ -2273,12 +2279,6 @@
       "id": "93225976688",
       "title": "Senior Lead Data Engineer (Enterprise Platforms Technology)",
       "location": "McLean, VA",
-      "datePosted": "03/26/2026"
-    },
-    {
-      "id": "93225976656",
-      "title": "Software Engineer, Full Stack (People Tech, Intelligent Foundations and Experiences)",
-      "location": "Plano, TX",
       "datePosted": "03/26/2026"
     },
     {
@@ -4532,12 +4532,6 @@
       "datePosted": "03/10/2026"
     },
     {
-      "id": "91422077280",
-      "title": "Senior Manager, Product Management - Recoveries - Discover Integration Product Manager",
-      "location": "New York, NY",
-      "datePosted": "02/05/2026"
-    },
-    {
       "id": "92624121840",
       "title": "Manager, Process Manager- Global Payment Network",
       "location": "Riverwoods, IL",
@@ -5342,12 +5336,6 @@
       "datePosted": "03/03/2026"
     },
     {
-      "id": "92340989984",
-      "title": "Manager, Product Management - Collections Product and Platforms",
-      "location": "McLean, VA",
-      "datePosted": "03/03/2026"
-    },
-    {
       "id": "92340989664",
       "title": "Compliance Tester II",
       "location": "Plano, TX",
@@ -5762,12 +5750,6 @@
       "datePosted": "02/18/2026"
     },
     {
-      "id": "91115325280",
-      "title": "Lead Software Engineer",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "01/28/2026"
-    },
-    {
       "id": "92122051792",
       "title": "Sr. Operations Representative",
       "location": "City of Muntinglupa, Calabarzon",
@@ -5844,12 +5826,6 @@
       "title": "Director, Product Management- Associate Experience Product",
       "location": "McLean, VA",
       "datePosted": "02/24/2026"
-    },
-    {
-      "id": "89627386352",
-      "title": "Sr. Distinguished AI Engineer",
-      "location": "Cambridge, MA",
-      "datePosted": "12/17/2025"
     },
     {
       "id": "92083762576",
@@ -7678,12 +7654,6 @@
     {
       "id": "88043855808",
       "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "11/04/2025"
-    },
-    {
-      "id": "88043855376",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
       "location": "New York, NY",
       "datePosted": "11/04/2025"
     },

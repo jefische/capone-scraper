@@ -1,6 +1,18 @@
 {
-  "scrapedAt": "2026-04-12T12:16:46.992Z",
+  "scrapedAt": "2026-04-13T12:28:58.717Z",
   "jobs": [
+    {
+      "id": "92288257424",
+      "title": "Sr. Operations Representative",
+      "location": "City of Muntinglupa, Calabarzon",
+      "datePosted": "04/12/2026"
+    },
+    {
+      "id": "93891329152",
+      "title": "Senior Manager, Software Engineer (Full Stack) - Intelligent Foundations and Experiences (IFX)",
+      "location": "Richmond, VA",
+      "datePosted": "04/12/2026"
+    },
     {
       "id": "92962724992",
       "title": "Sr. Process Manager - Personal Loans",
@@ -389,12 +401,6 @@
       "id": "93797045904",
       "title": "Manager, Product Management - Card Core Team",
       "location": "McLean, VA",
-      "datePosted": "04/10/2026"
-    },
-    {
-      "id": "93797045856",
-      "title": "Manager, Product Management",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "04/10/2026"
     },
     {
@@ -1230,12 +1236,6 @@
       "title": "Business Director, In-Person CX Strategy & Delivery",
       "location": "McLean, VA",
       "datePosted": "04/07/2026"
-    },
-    {
-      "id": "91625131504",
-      "title": "Lead Software Engineer, Back End (Java, Python, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "03/20/2026"
     },
     {
       "id": "93687685088",
@@ -4886,12 +4886,6 @@
       "datePosted": "03/12/2026"
     },
     {
-      "id": "92654054224",
-      "title": "Principal Financial Analyst, HR Finance",
-      "location": "Richmond, VA",
-      "datePosted": "03/11/2026"
-    },
-    {
       "id": "92690971968",
       "title": "Manager, Product Management- CAPS",
       "location": "New York, NY",
@@ -6698,12 +6692,6 @@
       "datePosted": "02/09/2026"
     },
     {
-      "id": "91072257072",
-      "title": "Distinguished Engineer",
-      "location": "McLean, VA",
-      "datePosted": "01/26/2026"
-    },
-    {
       "id": "90393009568",
       "title": "Senior Associate, Financial Planning and Analysis",
       "location": "McLean, VA",
@@ -7674,12 +7662,6 @@
       "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
       "location": "New York, NY",
       "datePosted": "11/03/2025"
-    },
-    {
-      "id": "85950571296",
-      "title": "Treasury Management Sales Officer (TMSO)",
-      "location": "New York, NY",
-      "datePosted": "09/09/2025"
     },
     {
       "id": "89087260752",

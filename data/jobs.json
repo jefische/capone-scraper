@@ -1,6 +1,48 @@
 {
-  "scrapedAt": "2026-05-03T12:22:37.084Z",
+  "scrapedAt": "2026-05-04T12:40:23.401Z",
   "jobs": [
+    {
+      "id": "92454674304",
+      "title": "Lead Software Engineer, Back End",
+      "location": "McLean, VA",
+      "datePosted": "04/17/2026"
+    },
+    {
+      "id": "91873409328",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "McLean, VA",
+      "datePosted": "04/02/2026"
+    },
+    {
+      "id": "94497012992",
+      "title": "Lead Data Engineer",
+      "location": "Richmond, VA",
+      "datePosted": "05/03/2026"
+    },
+    {
+      "id": "94672353104",
+      "title": "Senior Manager, Product Management - Credit Bureau Disputes Lead",
+      "location": "McLean, VA",
+      "datePosted": "05/03/2026"
+    },
+    {
+      "id": "93002530208",
+      "title": "Sr. Director, Technical Program Management (Remote-Eligible)",
+      "location": "McLean, VA",
+      "datePosted": "05/03/2026"
+    },
+    {
+      "id": "93918839840",
+      "title": "Senior Lead Software Engineer, DevOps",
+      "location": "McLean, VA",
+      "datePosted": "04/13/2026"
+    },
+    {
+      "id": "94654794144",
+      "title": "Manager, Process Manager- Global Payment Network",
+      "location": "Riverwoods, IL",
+      "datePosted": "05/03/2026"
+    },
     {
       "id": "94610598048",
       "title": "Distinguished Engineer",
@@ -1040,12 +1082,6 @@
       "datePosted": "04/28/2026"
     },
     {
-      "id": "94497012992",
-      "title": "Lead Data Engineer",
-      "location": "Richmond, VA",
-      "datePosted": "04/28/2026"
-    },
-    {
       "id": "94497012976",
       "title": "Lead Software Engineer - Python + PySpark",
       "location": "Richmond, VA",
@@ -1604,22 +1640,10 @@
       "datePosted": "04/27/2026"
     },
     {
-      "id": "94240555744",
-      "title": "Principal Associate, Business Analysis",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "04/22/2026"
-    },
-    {
       "id": "94441479952",
       "title": "Principal Associate, Physical Access Control, Global Workplace Services",
       "location": "Richmond, VA",
       "datePosted": "04/27/2026"
-    },
-    {
-      "id": "94061870160",
-      "title": "Business Analysis",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "04/24/2026"
     },
     {
       "id": "94441479744",
@@ -1686,12 +1710,6 @@
       "title": "Lead Data Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
       "location": "McLean, VA",
       "datePosted": "04/06/2026"
-    },
-    {
-      "id": "92993596448",
-      "title": "Senior Associate, Brand Advertising",
-      "location": "McLean, VA",
-      "datePosted": "04/24/2026"
     },
     {
       "id": "93649703984",
@@ -2178,12 +2196,6 @@
       "title": "Associate, Process Excellence",
       "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "04/23/2026"
-    },
-    {
-      "id": "91873409328",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "datePosted": "04/02/2026"
     },
     {
       "id": "94268142672",
@@ -2918,12 +2930,6 @@
       "datePosted": "04/17/2026"
     },
     {
-      "id": "92454674304",
-      "title": "Lead Software Engineer, Back End",
-      "location": "McLean, VA",
-      "datePosted": "04/17/2026"
-    },
-    {
       "id": "91440802768",
       "title": "Lead Software Engineer, Full Stack",
       "location": "Plano, TX",
@@ -3462,12 +3468,6 @@
       "title": "Senior Lead Data Engineer (Enterprise Platform Technology) (Java, Python, Scala, AWS)",
       "location": "McLean, VA",
       "datePosted": "04/07/2026"
-    },
-    {
-      "id": "93918839840",
-      "title": "Senior Lead Software Engineer, DevOps",
-      "location": "McLean, VA",
-      "datePosted": "04/13/2026"
     },
     {
       "id": "93918839776",
@@ -5966,12 +5966,6 @@
       "datePosted": "03/10/2026"
     },
     {
-      "id": "91341507264",
-      "title": "Sr Associate, Product Management - Network Authorization Data Team",
-      "location": "Chicago, IL",
-      "datePosted": "02/03/2026"
-    },
-    {
       "id": "93245649088",
       "title": "Commercial Credit Review, Sr. Manager",
       "location": "Plano, TX",
@@ -7602,12 +7596,6 @@
       "title": "Director, Risk Management",
       "location": "Mexico City, Mexico City",
       "datePosted": "02/18/2026"
-    },
-    {
-      "id": "90510322720",
-      "title": "Pr. Coordinator, Paralegal",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "01/12/2026"
     },
     {
       "id": "91837701616",

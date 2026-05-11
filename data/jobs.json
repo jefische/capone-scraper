@@ -1,6 +1,18 @@
 {
-  "scrapedAt": "2026-05-10T12:24:26.442Z",
+  "scrapedAt": "2026-05-11T13:06:27.184Z",
   "jobs": [
+    {
+      "id": "94953411920",
+      "title": "Principal Associate, Data Science",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "05/11/2026"
+    },
+    {
+      "id": "94268142592",
+      "title": "Product Design Manager",
+      "location": "New York, NY",
+      "datePosted": "05/11/2026"
+    },
     {
       "id": "93225976688",
       "title": "Senior Lead Data Engineer (Enterprise Platforms Technology)",
@@ -124,12 +136,6 @@
     {
       "id": "94867457840",
       "title": "Manager, Product Management - Card Customer Resiliency: Delinquency Offers",
-      "location": "McLean, VA",
-      "datePosted": "05/08/2026"
-    },
-    {
-      "id": "93454459904",
-      "title": "Associate, Project Manager",
       "location": "McLean, VA",
       "datePosted": "05/08/2026"
     },
@@ -281,12 +287,6 @@
       "id": "94848949952",
       "title": "Manager, Product Management",
       "location": "Bengaluru, Karnataka",
-      "datePosted": "05/08/2026"
-    },
-    {
-      "id": "82976259232",
-      "title": "Sr. Operations Representative",
-      "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "05/08/2026"
     },
     {
@@ -743,12 +743,6 @@
       "id": "94789243088",
       "title": "Senior Associate, Business Risk Control Testing Specialist",
       "location": "Riverwoods, IL",
-      "datePosted": "05/06/2026"
-    },
-    {
-      "id": "92348738960",
-      "title": "Principal Risk Associate, Risk Advisor",
-      "location": "McLean, VA",
       "datePosted": "05/06/2026"
     },
     {
@@ -2306,12 +2300,6 @@
       "datePosted": "04/23/2026"
     },
     {
-      "id": "94534914080",
-      "title": "Senior Administrative Assistant (Administrative Support Assistant III) - Card (Servicing Strategy)",
-      "location": "Chicago, IL",
-      "datePosted": "04/29/2026"
-    },
-    {
       "id": "91448939232",
       "title": "Senior Associate, Compensation Analytics",
       "location": "McLean, VA",
@@ -2882,12 +2870,6 @@
       "datePosted": "03/13/2026"
     },
     {
-      "id": "94449706480",
-      "title": "Principal Associate, Data Scientist - US Card (Generative AI Systems)",
-      "location": "McLean, VA",
-      "datePosted": "04/27/2026"
-    },
-    {
       "id": "94449706384",
       "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
       "location": "New York, NY",
@@ -3419,12 +3401,6 @@
       "id": "94298041904",
       "title": "Manager, Global Enterprise Communications - Capital One Software",
       "location": "McLean, VA",
-      "datePosted": "04/23/2026"
-    },
-    {
-      "id": "94289281280",
-      "title": "Café Coach- Seaport",
-      "location": "Boston, MA",
       "datePosted": "04/23/2026"
     },
     {
@@ -4038,12 +4014,6 @@
       "title": "Senior Manager, Product Manager - Retail Bank",
       "location": "McLean, VA",
       "datePosted": "04/20/2026"
-    },
-    {
-      "id": "92288257424",
-      "title": "Sr. Operations Representative",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "04/19/2026"
     },
     {
       "id": "94082906304",
@@ -6720,12 +6690,6 @@
       "title": "IT SOX Risk Principal Associate, SOX Advisory Team",
       "location": "Richmond, VA",
       "datePosted": "01/07/2026"
-    },
-    {
-      "id": "93535934688",
-      "title": "Core Ops Data Integrity Reviewer (QC)",
-      "location": "Richmond, VA",
-      "datePosted": "04/03/2026"
     },
     {
       "id": "93245649216",

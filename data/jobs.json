@@ -1,6 +1,24 @@
 {
-  "scrapedAt": "2026-05-16T12:26:35.548Z",
+  "scrapedAt": "2026-05-17T12:25:37.963Z",
   "jobs": [
+    {
+      "id": "93423452960",
+      "title": "Director, Technical Program Management (EPTech)",
+      "location": "McLean, VA",
+      "datePosted": "05/16/2026"
+    },
+    {
+      "id": "94525204336",
+      "title": "Director, Technical Program Management (EPTech)",
+      "location": "McLean, VA",
+      "datePosted": "05/16/2026"
+    },
+    {
+      "id": "95066504944",
+      "title": "Sr. Distinguished Engineer, Front End (Angular)",
+      "location": "New York, NY",
+      "datePosted": "05/16/2026"
+    },
     {
       "id": "92433900576",
       "title": "Product Design Director, Online Car Buying Experience",
@@ -119,12 +137,6 @@
       "id": "95135398448",
       "title": "Senior Associate, Project Manager Market Research Operations| Retail Bank",
       "location": "McLean, VA",
-      "datePosted": "05/15/2026"
-    },
-    {
-      "id": "94750867456",
-      "title": "Lead Software Engineer - Full Stack",
-      "location": "Mexico City, Mexico City",
       "datePosted": "05/15/2026"
     },
     {
@@ -3484,12 +3496,6 @@
     {
       "id": "94525204368",
       "title": "Manager, Product Management - Workforce & Intelligent Routing Data Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "04/29/2026"
-    },
-    {
-      "id": "94525204336",
-      "title": "Director, Technical Program Management",
       "location": "McLean, VA",
       "datePosted": "04/29/2026"
     },

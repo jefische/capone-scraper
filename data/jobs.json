@@ -1,6 +1,42 @@
 {
-  "scrapedAt": "2026-05-25T13:15:27.958Z",
+  "scrapedAt": "2026-05-26T13:06:33.481Z",
   "jobs": [
+    {
+      "id": "93423454368",
+      "title": "Manager, Compensation",
+      "location": "McLean, VA",
+      "datePosted": "03/31/2026"
+    },
+    {
+      "id": "86194263456",
+      "title": "Senior Data Scientist, AI Foundations",
+      "location": "New York, NY",
+      "datePosted": "05/25/2026"
+    },
+    {
+      "id": "95050712752",
+      "title": "Manager, Product Manager, Payment Platforms",
+      "location": "McLean, VA",
+      "datePosted": "05/13/2026"
+    },
+    {
+      "id": "90518714416",
+      "title": "Administrative Assistant",
+      "location": "Mexico City, Mexico City",
+      "datePosted": "05/25/2026"
+    },
+    {
+      "id": "93265680144",
+      "title": "Lead Software Engineer",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "05/25/2026"
+    },
+    {
+      "id": "95247961152",
+      "title": "Distinguished AI Engineer",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "05/25/2026"
+    },
     {
       "id": "95529972880",
       "title": "Lead Account Executive - Merchant and Acquirer Support",
@@ -222,12 +258,6 @@
       "title": "Senior Lead Software Engineer, Full Stack (Global Payment Network)",
       "location": "Riverwoods, IL",
       "datePosted": "05/01/2026"
-    },
-    {
-      "id": "95144883984",
-      "title": "Sr Manager, Anti-Money Laundering (AML) Global Payment Network (GPN) Advisory",
-      "location": "Richmond, VA",
-      "datePosted": "05/22/2026"
     },
     {
       "id": "94691755200",
@@ -461,12 +491,6 @@
       "id": "95340773472",
       "title": "Senior Software Engineer, Salesforce (Global Payment Network)",
       "location": "Houston, TX",
-      "datePosted": "05/21/2026"
-    },
-    {
-      "id": "95383054304",
-      "title": "Senior Risk Associate",
-      "location": "Richmond, VA",
       "datePosted": "05/21/2026"
     },
     {
@@ -2162,12 +2186,6 @@
       "datePosted": "08/29/2025"
     },
     {
-      "id": "95050712752",
-      "title": "Manager, Product Manager, Payment Platforms",
-      "location": "McLean, VA",
-      "datePosted": "05/13/2026"
-    },
-    {
       "id": "94963415776",
       "title": "Senior Manager, Senior Counsel - US Commercial & Product (Pulse Network)",
       "location": "Riverwoods, IL",
@@ -3632,12 +3650,6 @@
       "datePosted": "05/05/2026"
     },
     {
-      "id": "93956354768",
-      "title": "Data Engineer",
-      "location": "McLean, VA",
-      "datePosted": "05/05/2026"
-    },
-    {
       "id": "94740454080",
       "title": "Manager, Project Management - Global Payment Network (Network Products and Platforms)",
       "location": "Riverwoods, IL",
@@ -3732,12 +3744,6 @@
       "title": "Senior Business Analyst - Liquidity, Market, and Capital Risk Oversight",
       "location": "McLean, VA",
       "datePosted": "05/04/2026"
-    },
-    {
-      "id": "89115596352",
-      "title": "Principal Coordinator, Admin and Facilities Management",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "01/16/2026"
     },
     {
       "id": "91422075136",
@@ -5646,12 +5652,6 @@
       "title": "Lead Machine Learning Engineer",
       "location": "McLean, VA",
       "datePosted": "04/16/2026"
-    },
-    {
-      "id": "93423454368",
-      "title": "Manager, Compensation",
-      "location": "McLean, VA",
-      "datePosted": "03/31/2026"
     },
     {
       "id": "93548871616",

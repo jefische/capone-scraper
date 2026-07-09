@@ -15,10 +15,10 @@ const locations = [...new Set(jobs.map((j) => j.location))].sort()
 const EXCLUDE_KEYWORDS = ['senior', 'lead', 'director', 'manager'] as const
 
 function App() {
-  const [search, setSearch] = useState('')
+  const [search, setSearch] = useState('software')
   const [selectedLocations, setSelectedLocations] = useState<Set<string>>(new Set(['McLean, VA']))
   const [dropdownOpen, setDropdownOpen] = useState(false)
-  const [excludedKeywords, setExcludedKeywords] = useState<Set<string>>(new Set())
+  const [excludedKeywords, setExcludedKeywords] = useState<Set<string>>(new Set(['senior', 'lead', 'director', 'manager']))
   const [sortKey, setSortKey] = useState<keyof Job>('datePosted')
   const [sortAsc, setSortAsc] = useState(false)
   const dropdownRef = useRef<HTMLDivElement>(null)

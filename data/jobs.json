@@ -1,6 +1,72 @@
 {
-  "scrapedAt": "2026-07-12T13:19:10.216Z",
+  "scrapedAt": "2026-07-13T14:33:39.543Z",
   "jobs": [
+    {
+      "id": "97737400640",
+      "title": "Part-Time Branch Ambassador, Nanuet",
+      "location": "Nanuet, NY",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97580607920",
+      "title": "Senior Associate, Product Manager - Debit Experiences",
+      "location": "McLean, VA",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97737400512",
+      "title": "Manager, Product Management - Card Customer Resiliency: Delinquency Offers",
+      "location": "McLean, VA",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97737400464",
+      "title": "Principal Coordinator, Support Operations",
+      "location": "Chicago, IL",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97737400432",
+      "title": "Part Time Branch Ambassador, White Plains",
+      "location": "White Plains, NY",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "95723761376",
+      "title": "Dispute Analytics Representative",
+      "location": "Riverwoods, IL",
+      "datePosted": "07/08/2026"
+    },
+    {
+      "id": "97737400160",
+      "title": "Manager, Product Manager - Incentive Platform",
+      "location": "McLean, VA",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97737400096",
+      "title": "Manager, Product Management - Workforce & Intelligent Routing Data Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97725947696",
+      "title": "Senior Manager, Product Manager, Move & Manage Decisioning",
+      "location": "New York, NY",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "92331246992",
+      "title": "Service Desk Coordinator",
+      "location": "City of Muntinglupa, Calabarzon",
+      "datePosted": "03/03/2026"
+    },
+    {
+      "id": "97721160432",
+      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "McLean, VA",
+      "datePosted": "07/12/2026"
+    },
     {
       "id": "97421687536",
       "title": "Commercial Internship Program - Summer 2027",
@@ -248,12 +314,6 @@
       "datePosted": "07/09/2026"
     },
     {
-      "id": "94770784592",
-      "title": "Sr Lead Software Engineer, Full Stack (AI) - Shopping (Remote-Eligible)",
-      "location": "McLean, VA",
-      "datePosted": "07/10/2026"
-    },
-    {
       "id": "97627387136",
       "title": "Director, Data Analytics - Global Payment Network- PULSE",
       "location": "Plano, TX",
@@ -456,12 +516,6 @@
       "title": "Director, Product Manager, Product Practice and Enablement",
       "location": "McLean, VA",
       "datePosted": "07/08/2026"
-    },
-    {
-      "id": "97559058416",
-      "title": "Senior Manager, Product Manager, Move & Manage Decisioning",
-      "location": "New York, NY",
-      "datePosted": "07/09/2026"
     },
     {
       "id": "97576313936",
@@ -1214,12 +1268,6 @@
       "datePosted": "07/08/2026"
     },
     {
-      "id": "95723761376",
-      "title": "Dispute Analytics Representative",
-      "location": "Riverwoods, IL",
-      "datePosted": "07/08/2026"
-    },
-    {
       "id": "94042209776",
       "title": "Lead Machine Learning Engineer",
       "location": "New York, NY",
@@ -1910,12 +1958,6 @@
       "datePosted": "07/06/2026"
     },
     {
-      "id": "96040434656",
-      "title": "Lead Data Engineer",
-      "location": "San Francisco, CA",
-      "datePosted": "06/05/2026"
-    },
-    {
       "id": "97433217104",
       "title": "Business Manager-Customer Experience",
       "location": "Chicago, IL",
@@ -2003,12 +2045,6 @@
       "id": "97421687120",
       "title": "Finance Coordinator",
       "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "07/06/2026"
-    },
-    {
-      "id": "97421687104",
-      "title": "Senior Manager, Project Management (Enterprise Platform Technology)",
-      "location": "McLean, VA",
       "datePosted": "07/06/2026"
     },
     {
@@ -3869,12 +3905,6 @@
       "id": "96776410320",
       "title": "Lead Software Engineer (Python, Scala, Spark, AWS)",
       "location": "Richmond, VA",
-      "datePosted": "06/22/2026"
-    },
-    {
-      "id": "95893691728",
-      "title": "Distinguished Engineer",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "06/22/2026"
     },
     {
@@ -6368,12 +6398,6 @@
       "datePosted": "05/27/2026"
     },
     {
-      "id": "95667300912",
-      "title": "Senior Learning Manager",
-      "location": "Riverwoods, IL",
-      "datePosted": "05/28/2026"
-    },
-    {
       "id": "95667300864",
       "title": "Manager, Product Design",
       "location": "Plano, TX",
@@ -7418,12 +7442,6 @@
       "datePosted": "05/01/2026"
     },
     {
-      "id": "94577986336",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "Richmond, VA",
-      "datePosted": "04/30/2026"
-    },
-    {
       "id": "94562721728",
       "title": "Distinguished Engineer - Autonomous Deployments",
       "location": "New York, NY",
@@ -7607,12 +7625,6 @@
       "id": "94298043888",
       "title": "Senior Manager, Strategic Business Development - Capital One Ad Solutions (Remote)",
       "location": "Richmond, VA",
-      "datePosted": "04/23/2026"
-    },
-    {
-      "id": "94299208720",
-      "title": "Senior Business Manager",
-      "location": "McLean, VA",
       "datePosted": "04/23/2026"
     },
     {
@@ -8046,12 +8058,6 @@
       "title": "AML-TMO Sr. Coordinator",
       "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "02/13/2026"
-    },
-    {
-      "id": "92331246992",
-      "title": "Service Desk Coordinator",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "03/03/2026"
     },
     {
       "id": "91333906144",

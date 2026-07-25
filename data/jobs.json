@@ -1,6 +1,354 @@
 {
-  "scrapedAt": "2026-07-24T13:44:56.474Z",
+  "scrapedAt": "2026-07-25T13:25:33.585Z",
   "jobs": [
+    {
+      "id": "98262935664",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "Plano, TX",
+      "datePosted": "07/25/2026"
+    },
+    {
+      "id": "98254475376",
+      "title": "Lead Software Engineer, Back End",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98254474880",
+      "title": "Lead Software Engineer, Back End",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98251329856",
+      "title": "Senior Manager, Software Engineering, Full Stack",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98251329600",
+      "title": "Sr. Lead AI Engineer (GenAI Platform)",
+      "location": "San Jose, CA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96006546576",
+      "title": "Lead, User Intelligence Research",
+      "location": "New York, NY",
+      "datePosted": "07/15/2026"
+    },
+    {
+      "id": "97143091344",
+      "title": "Principal Associate, Process Manager",
+      "location": "Plano, TX",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "94299209328",
+      "title": "Senior Manager, Risk Management - Card Data",
+      "location": "Richmond, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98246877056",
+      "title": "Executive Assistant",
+      "location": "San Jose, CA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "97792462624",
+      "title": "Lead Software Engineer, Full Stack (GoLang)",
+      "location": "McLean, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "97792459760",
+      "title": "Lead Software Engineer, Full Stack-IC",
+      "location": "Richmond, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "97792462560",
+      "title": "Lead Software Engineer, Full Stack (GoLang)",
+      "location": "McLean, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "96216661264",
+      "title": "Lead Software Engineer",
+      "location": "McLean, VA",
+      "datePosted": "06/09/2026"
+    },
+    {
+      "id": "98246876656",
+      "title": "Sr Product Manager GRCx",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "95869624832",
+      "title": "Principal Associate, Brand Governance, Operations and Enablement",
+      "location": "Richmond, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96250438032",
+      "title": "Lead Software Engineer - Manager IC (Python, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "06/10/2026"
+    },
+    {
+      "id": "96920868176",
+      "title": "Lead Software Engineer - Back End (Golang, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "06/25/2026"
+    },
+    {
+      "id": "98246876496",
+      "title": "Senior Data Analyst - Risk Product Data",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96776410256",
+      "title": "Sr. Lead Software Engineer (Python, Scala, Spark, AWS)",
+      "location": "Chicago, IL",
+      "datePosted": "06/22/2026"
+    },
+    {
+      "id": "97537055312",
+      "title": "Senior Manager, Product Management - US Card Core Platforms & Servicing",
+      "location": "McLean, VA",
+      "datePosted": "07/08/2026"
+    },
+    {
+      "id": "97520526592",
+      "title": "Lead Software Engineer (Python, Scala, Spark, AWS)",
+      "location": "Richmond, VA",
+      "datePosted": "07/08/2026"
+    },
+    {
+      "id": "97792460592",
+      "title": "Lead Software Engineer - Back End (Golang, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "97747878928",
+      "title": "Manager, Product Manager - Hotels Tax & Compliance, Capital One Travel",
+      "location": "New York, NY",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "96910186608",
+      "title": "Senior Associate, Project Manager",
+      "location": "McLean, VA",
+      "datePosted": "06/25/2026"
+    },
+    {
+      "id": "98246875904",
+      "title": "Sr. Manager, Data Analyst - Risk Mgmt Product",
+      "location": "Chicago, IL",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98246875888",
+      "title": "Lead Software Engineer, Back End",
+      "location": "Plano, TX",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98246875696",
+      "title": "Data Analysis Manager - Risk Product Data",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96776410320",
+      "title": "Lead Software Engineer (Python, Scala, Spark, AWS)",
+      "location": "Richmond, VA",
+      "datePosted": "06/22/2026"
+    },
+    {
+      "id": "97792460000",
+      "title": "Director, Product Design - Accelerator",
+      "location": "McLean, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "98052319360",
+      "title": "Lead Software Engineer (Python, TypeScript, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "07/20/2026"
+    },
+    {
+      "id": "95435354080",
+      "title": "Distinguished Engineer , Bank Tech (Remote- Eligible)",
+      "location": "New York, NY",
+      "datePosted": "05/22/2026"
+    },
+    {
+      "id": "92575050704",
+      "title": "Senior Product Manager, AppSec",
+      "location": "McLean, VA",
+      "datePosted": "03/09/2026"
+    },
+    {
+      "id": "97914574048",
+      "title": "Senior Manager, Outbound Marketing Strategy & Operations - Performance Marketing (Hybrid)",
+      "location": "Richmond, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98234998864",
+      "title": "Principal Coordinator, Support Operations",
+      "location": "Plano, TX",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98234998176",
+      "title": "Cyber Product Owner",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98234998096",
+      "title": "Full Time Branch Ambassador - NYC",
+      "location": "New York, NY",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98234998032",
+      "title": "Senior Manager, Product Management - Feature Flagging and Experimentation Platform",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422624",
+      "title": "Principal Associate, Process Manager - Hybrid",
+      "location": "Richmond, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96234438800",
+      "title": "Lead Software Engineer (Python)",
+      "location": "McLean, VA",
+      "datePosted": "06/09/2026"
+    },
+    {
+      "id": "98233422544",
+      "title": "Director, Product Management-GRCx",
+      "location": "Richmond, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96250437840",
+      "title": "Manager, Project Management | Retail Bank Operations Case",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "97847092784",
+      "title": "Senior Lead Software Engineer",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96041917568",
+      "title": "Business Director, Strategic Decisioning & Growth",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96932623968",
+      "title": "Principal Associate, Project Management - Business Cards & Payments",
+      "location": "Richmond, VA",
+      "datePosted": "06/25/2026"
+    },
+    {
+      "id": "98233422368",
+      "title": "Senior Associate, Data Scientist - Model Risk Audit",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422352",
+      "title": "Senior Administrative Assistant (Administrative Support Assistant III) - Cyber",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422320",
+      "title": "Creative Lead, Capital One Shopping (Remote-Eligible)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "96359807616",
+      "title": "Senior Data Analyst",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422272",
+      "title": "Senior Administrative Assistant (Administrative Support Assistant III)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422256",
+      "title": "Sr. Lead Machine Learning Engineer (IC)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422176",
+      "title": "Manager, Data Scientist - Model Risk Audit",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "93687683728",
+      "title": "Sr. Lead Data Engineer (Enterprise Platforms Technology)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422080",
+      "title": "Business Director, Enterprise Strategy",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422064",
+      "title": "Sr. Associate, Product Management",
+      "location": "Houston, TX",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422048",
+      "title": "Distinguished Engineer (Message Delivery & Dispatch)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "95994957872",
+      "title": "Lead Software Engineer, BackEnd (Java, Scala, AWS)",
+      "location": "New York, NY",
+      "datePosted": "06/04/2026"
+    },
+    {
+      "id": "98233421792",
+      "title": "Senior Lead Software Engineer, Front End",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "86825844704",
+      "title": "Sr. Distinguished Applied Researcher",
+      "location": "McLean, VA",
+      "datePosted": "10/02/2025"
+    },
     {
       "id": "98222385728",
       "title": "Senior Manager, Tech Program Lead",
@@ -72,18 +420,6 @@
       "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
       "location": "San Jose, CA",
       "datePosted": "07/24/2026"
-    },
-    {
-      "id": "97881380560",
-      "title": "Director, Card Risk Strategic Projects",
-      "location": "McLean, VA",
-      "datePosted": "07/24/2026"
-    },
-    {
-      "id": "86825844704",
-      "title": "Sr. Distinguished Applied Researcher",
-      "location": "McLean, VA",
-      "datePosted": "10/02/2025"
     },
     {
       "id": "92186213952",
@@ -370,24 +706,6 @@
     {
       "id": "95994958032",
       "title": "Sr. Manager, Data Analyst - Network Compliance",
-      "location": "McLean, VA",
-      "datePosted": "07/23/2026"
-    },
-    {
-      "id": "97792462560",
-      "title": "Lead Software Engineer, Full Stack (GoLang)",
-      "location": "McLean, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
-      "id": "97792462624",
-      "title": "Lead Software Engineer, Full Stack (GoLang)",
-      "location": "McLean, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
-      "id": "98185759984",
-      "title": "Risk Manager",
       "location": "McLean, VA",
       "datePosted": "07/23/2026"
     },
@@ -1352,12 +1670,6 @@
       "datePosted": "07/20/2026"
     },
     {
-      "id": "98052319360",
-      "title": "Lead Software Engineer (Python, TypeScript, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "07/20/2026"
-    },
-    {
       "id": "98052319312",
       "title": "Lead Software Engineer, Full Stack (Risk Tech)",
       "location": "McLean, VA",
@@ -1502,12 +1814,6 @@
       "datePosted": "07/20/2026"
     },
     {
-      "id": "96234438800",
-      "title": "Lead Software Engineer (Python, Kubernetes)",
-      "location": "McLean, VA",
-      "datePosted": "06/09/2026"
-    },
-    {
       "id": "98052317456",
       "title": "Lead Data Engineer - Risk Tech (Python, AWS)",
       "location": "McLean, VA",
@@ -1626,12 +1932,6 @@
       "title": "Principal Auditor (Experienced Senior Auditor), Consumer Lending (Hybrid)",
       "location": "Richmond, VA",
       "datePosted": "07/20/2026"
-    },
-    {
-      "id": "97201958256",
-      "title": "Director, Software Engineer Finance Tech - (Remote Eligible)",
-      "location": "McLean, VA",
-      "datePosted": "07/19/2026"
     },
     {
       "id": "97545095664",
@@ -1916,12 +2216,6 @@
       "datePosted": "07/17/2026"
     },
     {
-      "id": "97914574048",
-      "title": "Senior Manager, Outbound Marketing Strategy & Operations - Performance Marketing (Hybrid)",
-      "location": "Richmond, VA",
-      "datePosted": "07/17/2026"
-    },
-    {
       "id": "97914573936",
       "title": "Sr. Director, Product Management - Capital Markets & Analytics",
       "location": "McLean, VA",
@@ -2084,12 +2378,6 @@
       "datePosted": "07/16/2026"
     },
     {
-      "id": "97880097328",
-      "title": "Product Support & Resolution Principal Ops Coordinator, Empower Dealer Success Team - Work from Home",
-      "location": "Richmond, VA",
-      "datePosted": "07/16/2026"
-    },
-    {
       "id": "97749224544",
       "title": "Product Manager - Mainstreet Card Team",
       "location": "McLean, VA",
@@ -2150,12 +2438,6 @@
       "datePosted": "07/09/2026"
     },
     {
-      "id": "96006546576",
-      "title": "Lead, User Intelligence Research",
-      "location": "New York, NY",
-      "datePosted": "07/15/2026"
-    },
-    {
       "id": "97576313664",
       "title": "Senior Manager, Product Management - Enterprise Product & Experience",
       "location": "McLean, VA",
@@ -2194,12 +2476,6 @@
     {
       "id": "97847092896",
       "title": "Lead Software Engineer, Full stack",
-      "location": "McLean, VA",
-      "datePosted": "07/15/2026"
-    },
-    {
-      "id": "96304026144",
-      "title": "Senior Manager, Research & User Intelligence (Card Platforms & Data)",
       "location": "McLean, VA",
       "datePosted": "07/15/2026"
     },
@@ -2510,12 +2786,6 @@
       "datePosted": "07/14/2026"
     },
     {
-      "id": "97537055312",
-      "title": "Senior Manager, Product Management - US Card Core Platforms & Servicing",
-      "location": "McLean, VA",
-      "datePosted": "07/08/2026"
-    },
-    {
       "id": "97835775040",
       "title": "Product Director - Finance Data",
       "location": "McLean, VA",
@@ -2574,12 +2844,6 @@
       "title": "Senior Associate, Product Management - Pay Over Time (Business Cards & Payments)",
       "location": "McLean, VA",
       "datePosted": "07/15/2026"
-    },
-    {
-      "id": "97737400096",
-      "title": "Manager, Product Management - Workforce & Intelligent Routing Data Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "07/13/2026"
     },
     {
       "id": "97835744176",
@@ -2696,12 +2960,6 @@
       "datePosted": "07/14/2026"
     },
     {
-      "id": "97783205360",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "location": "Cambridge, MA",
-      "datePosted": "07/14/2026"
-    },
-    {
       "id": "97807247792",
       "title": "Principal Associate, Project Manager - Card Data Products & Experiences Team (Hybrid)",
       "location": "Richmond, VA",
@@ -2801,12 +3059,6 @@
       "id": "97803861872",
       "title": "Distinguished Engineer ( Card Tech)",
       "location": "Richmond, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
-      "id": "97803861856",
-      "title": "Lead AI Engineer (AI Foundations, RecSys)",
-      "location": "San Jose, CA",
       "datePosted": "07/14/2026"
     },
     {
@@ -3056,12 +3308,6 @@
       "datePosted": "07/14/2026"
     },
     {
-      "id": "97792460592",
-      "title": "Lead Software Engineer - Back End (Golang, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
       "id": "97615798096",
       "title": "Manager, Risk Data Product Manager",
       "location": "McLean, VA",
@@ -3092,12 +3338,6 @@
       "datePosted": "07/13/2026"
     },
     {
-      "id": "97792460000",
-      "title": "Director, Product Design - Global Enterprise Affairs & Accelerator",
-      "location": "McLean, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
       "id": "97792459952",
       "title": "Lead Software Engineer, Full Stack (Risk Tech, Intelligent Foundations & Experiences)",
       "location": "McLean, VA",
@@ -3119,12 +3359,6 @@
       "id": "97792459808",
       "title": "Café Ambassador - Pioneer Courthouse Square - Portland",
       "location": "Portland, OR",
-      "datePosted": "07/14/2026"
-    },
-    {
-      "id": "97792459760",
-      "title": "Lead Software Engineer, Full Stack-IC",
-      "location": "Richmond, VA",
       "datePosted": "07/14/2026"
     },
     {
@@ -3305,24 +3539,6 @@
       "id": "97747879088",
       "title": "Senior Associate, Product Management - Card Integration Team",
       "location": "McLean, VA",
-      "datePosted": "07/13/2026"
-    },
-    {
-      "id": "97520526592",
-      "title": "Lead Software Engineer (Python, Scala, Spark, AWS)",
-      "location": "Richmond, VA",
-      "datePosted": "07/08/2026"
-    },
-    {
-      "id": "96776410320",
-      "title": "Lead Software Engineer (Python, Scala, Spark, AWS)",
-      "location": "Richmond, VA",
-      "datePosted": "06/22/2026"
-    },
-    {
-      "id": "97747878928",
-      "title": "Manager, Product Manager - Hotels Tax & Compliance, Capital One Travel",
-      "location": "New York, NY",
       "datePosted": "07/13/2026"
     },
     {
@@ -3534,12 +3750,6 @@
       "title": "Service Desk Coordinator",
       "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "03/03/2026"
-    },
-    {
-      "id": "97421687280",
-      "title": "Business Analyst Associate - August 2027",
-      "location": "McLean, VA",
-      "datePosted": "07/06/2026"
     },
     {
       "id": "97627388944",
@@ -4070,12 +4280,6 @@
       "datePosted": "07/08/2026"
     },
     {
-      "id": "97533432768",
-      "title": "Manager, Project Management",
-      "location": "Plano, TX",
-      "datePosted": "07/08/2026"
-    },
-    {
       "id": "96530827104",
       "title": "Senior Cyber Program Manager",
       "location": "McLean, VA",
@@ -4084,12 +4288,6 @@
     {
       "id": "97533432576",
       "title": "Senior Associate, Product Management - Upmarket Card Team",
-      "location": "McLean, VA",
-      "datePosted": "07/08/2026"
-    },
-    {
-      "id": "97527989600",
-      "title": "Senior Manager, Product Management - Consumer Experience / MarTech",
       "location": "McLean, VA",
       "datePosted": "07/08/2026"
     },
@@ -4308,12 +4506,6 @@
       "title": "Sr. Director, Technical Program Management (Remote-Eligible)",
       "location": "McLean, VA",
       "datePosted": "07/08/2026"
-    },
-    {
-      "id": "97488222672",
-      "title": "Senior Associate, Product Marketing Strategy, New-To-Credit (Hybrid)",
-      "location": "McLean, VA",
-      "datePosted": "07/07/2026"
     },
     {
       "id": "97488222592",
@@ -4536,12 +4728,6 @@
       "title": "Principal Associate, Business Analysis",
       "location": "Bengaluru, Karnataka",
       "datePosted": "07/07/2026"
-    },
-    {
-      "id": "93235763440",
-      "title": "Senior Manager, Risk Management - Policy Analyst",
-      "location": "McLean, VA",
-      "datePosted": "07/06/2026"
     },
     {
       "id": "97434543936",
@@ -5432,20 +5618,8 @@
       "datePosted": "06/25/2026"
     },
     {
-      "id": "96965506896",
-      "title": "Lead Platform Engineer, Workday Functional (HCM)",
-      "location": "McLean, VA",
-      "datePosted": "06/26/2026"
-    },
-    {
       "id": "93530799344",
       "title": "Senior Manager, Premium Support Engineer (Databolt) - Capital One Software (Remote)",
-      "location": "Richmond, VA",
-      "datePosted": "06/25/2026"
-    },
-    {
-      "id": "96932623968",
-      "title": "Principal Associate, Project Management - Business Cards & Payments",
       "location": "Richmond, VA",
       "datePosted": "06/25/2026"
     },
@@ -5510,12 +5684,6 @@
       "datePosted": "06/30/2026"
     },
     {
-      "id": "96920868176",
-      "title": "Lead Software Engineer - Back End (Golang, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "06/25/2026"
-    },
-    {
       "id": "96920867936",
       "title": "Manager, Data Analysis - Capital One Travel",
       "location": "McLean, VA",
@@ -5543,12 +5711,6 @@
       "id": "96920866816",
       "title": "Director, Technical Program Management",
       "location": "Richmond, VA",
-      "datePosted": "06/25/2026"
-    },
-    {
-      "id": "96910186608",
-      "title": "Senior Associate, Project Manager",
-      "location": "McLean, VA",
       "datePosted": "06/25/2026"
     },
     {
@@ -5870,12 +6032,6 @@
       "datePosted": "06/22/2026"
     },
     {
-      "id": "96798247808",
-      "title": "Senior Associate, HR Delivery",
-      "location": "Mexico City, Mexico City",
-      "datePosted": "06/22/2026"
-    },
-    {
       "id": "96786789456",
       "title": "Senior Financial Analyst (Card OpEx Central)",
       "location": "McLean, VA",
@@ -5987,12 +6143,6 @@
       "id": "96776410288",
       "title": "Senior Analyst, Payments Operations (Hybrid)",
       "location": "McLean, VA",
-      "datePosted": "06/22/2026"
-    },
-    {
-      "id": "96776410256",
-      "title": "Sr. Lead Software Engineer (Python, Scala, Spark, AWS)",
-      "location": "Chicago, IL",
       "datePosted": "06/22/2026"
     },
     {
@@ -6818,12 +6968,6 @@
       "datePosted": "06/11/2026"
     },
     {
-      "id": "96316252352",
-      "title": "Full Time Branch Ambassador - DFW Area",
-      "location": "Dallas, TX",
-      "datePosted": "06/11/2026"
-    },
-    {
       "id": "96305535264",
       "title": "Lead AI Engineer (Vision model customization, VML)",
       "location": "New York, NY",
@@ -7046,12 +7190,6 @@
       "datePosted": "06/10/2026"
     },
     {
-      "id": "96250438032",
-      "title": "Lead Software Engineer - Manager IC (Python, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "06/10/2026"
-    },
-    {
       "id": "96262040464",
       "title": "Senior Manager, Software Engineering, Full Stack (Enterprise Platform Technology)",
       "location": "McLean, VA",
@@ -7090,12 +7228,6 @@
     {
       "id": "96227705936",
       "title": "Sr. Associate, Business Development - Hotel Connectivity Account Manager",
-      "location": "McLean, VA",
-      "datePosted": "06/09/2026"
-    },
-    {
-      "id": "93698173344",
-      "title": "Director, Chief of Staff (Marketing Technology)",
       "location": "McLean, VA",
       "datePosted": "06/09/2026"
     },
@@ -7211,12 +7343,6 @@
       "id": "95582373824",
       "title": "Distinguished Engineer",
       "location": "Richmond, VA",
-      "datePosted": "06/09/2026"
-    },
-    {
-      "id": "96216661264",
-      "title": "Lead Software Engineer",
-      "location": "McLean, VA",
       "datePosted": "06/09/2026"
     },
     {
@@ -7472,12 +7598,6 @@
       "datePosted": "03/10/2026"
     },
     {
-      "id": "95994957872",
-      "title": "Lead Software Engineer, BackEnd (Java, Scala, AWS)",
-      "location": "New York, NY",
-      "datePosted": "06/04/2026"
-    },
-    {
       "id": "95994957840",
       "title": "Manager, Market Research (IC)",
       "location": "Chicago, IL",
@@ -7578,12 +7698,6 @@
       "title": "Senior Lead Data Engineer (Bank Tech)",
       "location": "McLean, VA",
       "datePosted": "06/02/2026"
-    },
-    {
-      "id": "92575050704",
-      "title": "Senior Product Manager, AppSec",
-      "location": "McLean, VA",
-      "datePosted": "03/09/2026"
     },
     {
       "id": "95903710736",
@@ -7814,12 +7928,6 @@
       "datePosted": "05/28/2026"
     },
     {
-      "id": "95257941872",
-      "title": "Principal Project Manager, Enterprise Learning Risk Management Lead",
-      "location": "McLean, VA",
-      "datePosted": "05/18/2026"
-    },
-    {
       "id": "95676405040",
       "title": "Lead Software Engineer, Full Stack  (JavaScript, NodeJs, AWS)",
       "location": "Plano, TX",
@@ -7976,12 +8084,6 @@
       "datePosted": "05/08/2026"
     },
     {
-      "id": "95435354080",
-      "title": "Distinguished Engineer , Bank Tech (Remote- Eligible)",
-      "location": "New York, NY",
-      "datePosted": "05/22/2026"
-    },
-    {
       "id": "95435354000",
       "title": "Senior Business Manager, Product Analytics",
       "location": "McLean, VA",
@@ -8044,12 +8146,6 @@
     {
       "id": "95383054208",
       "title": "Lead Software Engineer (Full Stack)",
-      "location": "McLean, VA",
-      "datePosted": "05/21/2026"
-    },
-    {
-      "id": "93385538784",
-      "title": "Senior Business Analyst, Commercial Fraud Strategy",
       "location": "McLean, VA",
       "datePosted": "05/21/2026"
     },
@@ -8135,12 +8231,6 @@
       "id": "95309752496",
       "title": "Senior Administrative Assistant (Administrative Support Assistant III) - AI Foundations",
       "location": "New York, NY",
-      "datePosted": "05/19/2026"
-    },
-    {
-      "id": "95309752416",
-      "title": "Senior Administrative Assistant (Administrative Support Assistant III) - AI Foundations",
-      "location": "San Jose, CA",
       "datePosted": "05/19/2026"
     },
     {
@@ -8600,12 +8690,6 @@
       "datePosted": "05/04/2026"
     },
     {
-      "id": "93687685424",
-      "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
-      "location": "McLean, VA",
-      "datePosted": "05/04/2026"
-    },
-    {
       "id": "94592052864",
       "title": "Sr. Manager, Sr. Counsel - Bank Regulation and Policy (Hybrid)",
       "location": "McLean, VA",
@@ -8807,12 +8891,6 @@
       "id": "94184340000",
       "title": "Sr. Manager, Process Management - Partner Testing and Certification",
       "location": "Chicago, IL",
-      "datePosted": "04/20/2026"
-    },
-    {
-      "id": "94183094864",
-      "title": "Senior Manager, Data Engineering (People Leader)",
-      "location": "New York, NY",
       "datePosted": "04/20/2026"
     },
     {

@@ -1,6 +1,42 @@
 {
-  "scrapedAt": "2026-08-08T12:47:01.991Z",
+  "scrapedAt": "2026-08-09T12:49:04.991Z",
   "jobs": [
+    {
+      "id": "96965508336",
+      "title": "Senior Lead Software Engineer, Full Stack (Go/Java, Angular, AWS)",
+      "location": "Chicago, IL",
+      "datePosted": "06/26/2026"
+    },
+    {
+      "id": "97096754624",
+      "title": "Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS)",
+      "location": "Richmond, VA",
+      "datePosted": "06/29/2026"
+    },
+    {
+      "id": "96573396944",
+      "title": "Senior Lead Software Engineer, Full Stack (Java, Angular, AWS)",
+      "location": "Chicago, IL",
+      "datePosted": "06/17/2026"
+    },
+    {
+      "id": "97520527040",
+      "title": "Lead Software Engineer, Back End (Go, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "07/08/2026"
+    },
+    {
+      "id": "95939085104",
+      "title": "Lead Software Engineer, Full Stack (Java, Scala, AWS)",
+      "location": "New York, NY",
+      "datePosted": "06/03/2026"
+    },
+    {
+      "id": "98939339104",
+      "title": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "08/08/2026"
+    },
     {
       "id": "98910197984",
       "title": "Lead Software Engineer (Python, Vector Databases, AWS)",
@@ -962,12 +998,6 @@
       "datePosted": "08/03/2026"
     },
     {
-      "id": "91940332736",
-      "title": "Data Annotator",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/07/2026"
-    },
-    {
       "id": "95091806832",
       "title": "Senior Risk Specialist | Retail Bank",
       "location": "Richmond, VA",
@@ -1598,12 +1628,6 @@
       "datePosted": "07/10/2026"
     },
     {
-      "id": "98778281248",
-      "title": "Sr. Unit Manager",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/05/2026"
-    },
-    {
       "id": "94183093744",
       "title": "Distinguished Engineer (Remote - Eligible)",
       "location": "Cambridge, MA",
@@ -1776,12 +1800,6 @@
       "title": "Essential Onsite - Production Operator Coordinator",
       "location": "Salt Lake City, UT",
       "datePosted": "08/04/2026"
-    },
-    {
-      "id": "98707315408",
-      "title": "Risk Manager",
-      "location": "McLean, VA",
-      "datePosted": "08/03/2026"
     },
     {
       "id": "98753713792",
@@ -4010,12 +4028,6 @@
       "datePosted": "10/08/2025"
     },
     {
-      "id": "97520527040",
-      "title": "Lead Software Engineer, Back End (Go, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "07/08/2026"
-    },
-    {
       "id": "98365500848",
       "title": "Lead Software Engineer - Full Stack",
       "location": "McLean, VA",
@@ -4046,12 +4058,6 @@
       "datePosted": "07/13/2026"
     },
     {
-      "id": "97096754624",
-      "title": "Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS)",
-      "location": "Richmond, VA",
-      "datePosted": "06/29/2026"
-    },
-    {
       "id": "98365500464",
       "title": "Senior Lead Software Engineer, Full Stack",
       "location": "McLean, VA",
@@ -4068,12 +4074,6 @@
       "title": "Principal Coordinator, Support Operations",
       "location": "Plano, TX",
       "datePosted": "07/24/2026"
-    },
-    {
-      "id": "95939085104",
-      "title": "Lead Software Engineer, Full Stack (Java, Scala, AWS)",
-      "location": "New York, NY",
-      "datePosted": "06/03/2026"
     },
     {
       "id": "98365500288",
@@ -7550,12 +7550,6 @@
       "datePosted": "06/26/2026"
     },
     {
-      "id": "96965508336",
-      "title": "Senior Lead Software Engineer, Full Stack (Go/Java, Angular, AWS)",
-      "location": "Chicago, IL",
-      "datePosted": "06/26/2026"
-    },
-    {
       "id": "96965508096",
       "title": "Senior Cyber Program Manager",
       "location": "McLean, VA",
@@ -8028,12 +8022,6 @@
       "title": "Lead Software Engineer",
       "location": "McLean, VA",
       "datePosted": "06/18/2026"
-    },
-    {
-      "id": "96573396944",
-      "title": "Senior Lead Software Engineer, Full Stack (Java, Angular, AWS)",
-      "location": "Chicago, IL",
-      "datePosted": "06/17/2026"
     },
     {
       "id": "96573396864",

@@ -1,6 +1,36 @@
 {
-  "scrapedAt": "2026-08-15T12:36:18.988Z",
+  "scrapedAt": "2026-08-16T12:37:34.936Z",
   "jobs": [
+    {
+      "id": "86825844704",
+      "title": "Sr. Distinguished Applied Researcher",
+      "location": "McLean, VA",
+      "datePosted": "10/02/2025"
+    },
+    {
+      "id": "99286938256",
+      "title": "Lead Software Engineer, DevOps (Cloud Operations Resilience Engineering)",
+      "location": "Riverwoods, IL",
+      "datePosted": "08/16/2026"
+    },
+    {
+      "id": "99281946656",
+      "title": "Lead Software Engineer",
+      "location": "New York, NY",
+      "datePosted": "08/15/2026"
+    },
+    {
+      "id": "97803861008",
+      "title": "Senior Manager, Mobile Engineering, Android (Enterprise Platforms Technology)",
+      "location": "McLean, VA",
+      "datePosted": "08/15/2026"
+    },
+    {
+      "id": "99253970320",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "New York, NY",
+      "datePosted": "08/15/2026"
+    },
     {
       "id": "98425606064",
       "title": "Senior Lead Software Engineer, Back End (GraphDB & API Platform) (Enterprise Platforms Technology)",
@@ -2766,12 +2796,6 @@
       "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
       "location": "New York, NY",
       "datePosted": "11/04/2025"
-    },
-    {
-      "id": "86825844704",
-      "title": "Sr. Distinguished Applied Researcher",
-      "location": "McLean, VA",
-      "datePosted": "10/02/2025"
     },
     {
       "id": "98891971024",

@@ -1,6 +1,60 @@
 {
-  "scrapedAt": "2026-08-23T12:38:51.989Z",
+  "scrapedAt": "2026-08-24T12:49:27.794Z",
   "jobs": [
+    {
+      "id": "98563866192",
+      "title": "Lead AI Engineer",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "99051845920",
+      "title": "Manager, Product Management",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "98859226880",
+      "title": "Lead Software Engineer, Full Stack (Enterprise Platforms Technology)",
+      "location": "McLean, VA",
+      "datePosted": "08/06/2026"
+    },
+    {
+      "id": "98753713648",
+      "title": "Lead Software Engineer, Full Stack (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering)",
+      "location": "McLean, VA",
+      "datePosted": "08/04/2026"
+    },
+    {
+      "id": "99051845968",
+      "title": "Senior Manager, Product Management",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "92288257424",
+      "title": "Sr. Operations Representative",
+      "location": "City of Muntinglupa, Calabarzon",
+      "datePosted": "08/23/2026"
+    },
+    {
+      "id": "97545095664",
+      "title": "Senior Associate, Product Manager-Small Business Bank",
+      "location": "New York, NY",
+      "datePosted": "07/09/2026"
+    },
+    {
+      "id": "98110348256",
+      "title": "Senior Associate, Product Manager, Small Business Bank Fraud Decisioning",
+      "location": "McLean, VA",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "99448990000",
+      "title": "Senior Associate, Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "08/19/2026"
+    },
     {
       "id": "99555013872",
       "title": "Part Time Branch Ambassador - Timbercreek (6161 Retail Rd)",
@@ -278,12 +332,6 @@
       "datePosted": "08/21/2026"
     },
     {
-      "id": "97545095664",
-      "title": "Senior Associate, Product Manager-Small Business Bank",
-      "location": "New York, NY",
-      "datePosted": "07/09/2026"
-    },
-    {
       "id": "99543045360",
       "title": "Senior Manager, People Leader - Product Design",
       "location": "McLean, VA",
@@ -374,22 +422,10 @@
       "datePosted": "07/06/2026"
     },
     {
-      "id": "99448990000",
-      "title": "Senior Associate, Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "08/19/2026"
-    },
-    {
       "id": "97810234192",
       "title": "Senior Manager, Product Manager-Data Analysis & Governance",
       "location": "McLean, VA",
       "datePosted": "07/14/2026"
-    },
-    {
-      "id": "98110348256",
-      "title": "Senior Associate, Product Manager, Small Business Bank Fraud Decisioning",
-      "location": "McLean, VA",
-      "datePosted": "07/21/2026"
     },
     {
       "id": "95373749888",
@@ -4280,12 +4316,6 @@
       "datePosted": "08/06/2026"
     },
     {
-      "id": "98859226880",
-      "title": "Lead Software Engineer, Full Stack (Enterprise Platforms Technology)",
-      "location": "McLean, VA",
-      "datePosted": "08/06/2026"
-    },
-    {
       "id": "98859226832",
       "title": "Principal Associate, Art Director",
       "location": "Mexico City, Mexico City",
@@ -4781,12 +4811,6 @@
       "id": "98753713728",
       "title": "Principal Associate, Process Manager- Auto and Dealer Risk",
       "location": "Plano, TX",
-      "datePosted": "08/04/2026"
-    },
-    {
-      "id": "98753713648",
-      "title": "Lead Software Engineer, Full Stack (Cloud Security for Multi Cloud) (Cloud Operations Resilience Engineering)",
-      "location": "McLean, VA",
       "datePosted": "08/04/2026"
     },
     {
@@ -7124,12 +7148,6 @@
       "datePosted": "07/20/2026"
     },
     {
-      "id": "98052318912",
-      "title": "Assistant Relationship Manager",
-      "location": "Plano, TX",
-      "datePosted": "07/20/2026"
-    },
-    {
       "id": "97759093680",
       "title": "Senior Lead Software Engineer, Fullstack (Nodejs/Go/Angularjs)",
       "location": "McLean, VA",
@@ -8912,12 +8930,6 @@
       "datePosted": "06/24/2026"
     },
     {
-      "id": "96875711760",
-      "title": "Flex Relationship Manager",
-      "location": "Downers Grove, IL",
-      "datePosted": "06/24/2026"
-    },
-    {
       "id": "96842556848",
       "title": "Senior Business Banker - Los Angeles/Orange County, CA Market",
       "location": "Los Angeles, CA",
@@ -10440,12 +10452,6 @@
       "title": "Manager, Data Science - AI Foundations",
       "location": "New York, NY",
       "datePosted": "08/07/2025"
-    },
-    {
-      "id": "86704828992",
-      "title": "Sr. Manager, Control Testing",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "09/29/2025"
     },
     {
       "id": "86070871904",

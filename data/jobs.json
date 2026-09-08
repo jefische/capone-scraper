@@ -1,16 +1,364 @@
 {
-  "scrapedAt": "2026-09-07T17:21:04.311Z",
+  "scrapedAt": "2026-09-08T16:05:33.014Z",
   "jobs": [
     {
-      "id": "100297747248",
-      "title": "Risk Manager - Network Participant Risk Oversight: Testing & Monitoring",
+      "id": "100341360912",
+      "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341360880",
+      "title": "Current Master's, AI Engineering Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "99533577744",
+      "title": "MBA, Investment Banking Associate - 2027",
+      "location": "McLean, VA",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "98043168960",
+      "title": "Current PhD - Data Science Internship - Summer 2027",
+      "location": "McLean, VA",
+      "datePosted": "07/20/2026"
+    },
+    {
+      "id": "98043168880",
+      "title": "Current Master's - Data Science Internship - Summer 2027",
+      "location": "McLean, VA",
+      "datePosted": "07/20/2026"
+    },
+    {
+      "id": "100343170592",
+      "title": "Director, Technical Program Manager (Core TPM Tower)",
+      "location": "McLean, VA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100131946320",
+      "title": "Sr. Business Analyst- Sr Business Analyst - AI Strategy & Tooling",
+      "location": "McLean, VA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100343170128",
+      "title": "Unit Manager, Operations (AML)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100343168592",
+      "title": "Manager, Product Manager - Retail Bank, Money Management",
+      "location": "McLean, VA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "81746455776",
+      "title": "Sr. Manager, Data Analysis",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/26/2025"
+    },
+    {
+      "id": "91940332736",
+      "title": "Data Annotator",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "99843994960",
+      "title": "Coordinator, Shopping Customer Service Operations",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "08/28/2026"
+    },
+    {
+      "id": "94240556048",
+      "title": "Sr. Analyst, Data Analysis",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "04/22/2026"
+    },
+    {
+      "id": "81537009200",
+      "title": "Sr. Analyst, Data Analysis",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/21/2025"
+    },
+    {
+      "id": "99498713856",
+      "title": "Workforce Manager",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99488457072",
+      "title": "Principal Coordinator, HR - Payroll",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99403529280",
+      "title": "Pr. Coordinator, Bank Operations Levies and Garnishments",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "08/18/2026"
+    },
+    {
+      "id": "98870980112",
+      "title": "Sr. HR Coordinator (Benefits)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "08/07/2026"
+    },
+    {
+      "id": "98512512896",
+      "title": "Director, Control Management Shared Services",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "07/30/2026"
+    },
+    {
+      "id": "94507325408",
+      "title": "Sr. Coordinator, Enterprise Payments Exceptions",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "07/30/2026"
+    },
+    {
+      "id": "98087176432",
+      "title": "Unit Manager, Emerging Tech Enablement",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "96030558992",
+      "title": "Pr. Coordinator, Estate Operations - Planning",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "06/05/2026"
+    },
+    {
+      "id": "97914574064",
+      "title": "AML List Screening Investigator",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "07/17/2026"
+    },
+    {
+      "id": "97826003616",
+      "title": "Process Specialist (ADP)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "07/15/2026"
+    },
+    {
+      "id": "92331246992",
+      "title": "Service Desk Coordinator",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "03/03/2026"
+    },
+    {
+      "id": "87290716064",
+      "title": "Fixed Term Associate - HR Help Center Coordinator",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/13/2026"
+    },
+    {
+      "id": "96164444320",
+      "title": "Senior Manager for Operations (Card Servicing)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "06/08/2026"
+    },
+    {
+      "id": "96030558928",
+      "title": "Principal Risk Specialist, Control Testing",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "06/05/2026"
+    },
+    {
+      "id": "93805251056",
+      "title": "Manager, Data Annotation Operations / Emerging Technology Enablement (ETE)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/20/2026"
+    },
+    {
+      "id": "95082885504",
+      "title": "Technology Specialist",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/14/2026"
+    },
+    {
+      "id": "95002483184",
+      "title": "Sr. Manager, Compliance Advisor",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/12/2026"
+    },
+    {
+      "id": "94052362336",
+      "title": "Principal Risk Specialist",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "04/17/2026"
+    },
+    {
+      "id": "92558597936",
+      "title": "Data Manager, Extended Operations (Well Managed Solutions)",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "03/09/2026"
+    },
+    {
+      "id": "92122051792",
+      "title": "Sr. Operations Representative",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "02/25/2026"
+    },
+    {
+      "id": "81611796560",
+      "title": "Pr. Analyst, Data Analysis",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "05/23/2025"
+    },
+    {
+      "id": "100341245712",
+      "title": "Part Time Branch Ambassador - Denham Springs",
+      "location": "Denham Springs, LA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245696",
+      "title": "Lead Software Engineer, Full Stack (Scala, React, AWS)",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245648",
+      "title": "Current PhD, Applied Research Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "98390874336",
+      "title": "Senior Manager, Software Engineering, Full Stack (Global Payment Network)",
+      "location": "Riverwoods, IL",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245392",
+      "title": "Senior Associate, Business Analysis",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245152",
+      "title": "Lead Data Engineer (Python, Spark, AWS, ETL)",
+      "location": "Richmond, VA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245104",
+      "title": "Lead Software Engineer, Full Stack (Scala, React, AWS)",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "99796872480",
+      "title": "Part Time Branch Ambassador - NYC",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100009626576",
+      "title": "Lead Software Engineer",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "97880097904",
+      "title": "Lead Software Engineer",
+      "location": "Richmond, VA",
+      "datePosted": "07/16/2026"
+    },
+    {
+      "id": "97807247648",
+      "title": "Senior Manager, Software Engineering, Full Stack (Java/Go, Postgres, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "95967850656",
+      "title": "Lead Data Engineer (Python, Scala, Spark)",
+      "location": "McLean, VA",
+      "datePosted": "06/03/2026"
+    },
+    {
+      "id": "97891637952",
+      "title": "Lead Data Engineer (Intelligent Foundations and Experiences)",
+      "location": "McLean, VA",
+      "datePosted": "07/16/2026"
+    },
+    {
+      "id": "98137565168",
+      "title": "Lead Software Engineer, Full Stack (React, Java, AWS)",
+      "location": "New York, NY",
+      "datePosted": "07/22/2026"
+    },
+    {
+      "id": "100317321552",
+      "title": "Lead Software Engineer, Full Stack-IC",
       "location": "Richmond, VA",
       "datePosted": "09/07/2026"
     },
     {
-      "id": "99098279328",
-      "title": "Senior Associate, Business Analysis",
-      "location": "Bengaluru, Karnataka",
+      "id": "100317321472",
+      "title": "Senior Manager, Software Engineering, Full Stack (People Leader)",
+      "location": "Richmond, VA",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "100317321376",
+      "title": "Senior Lead Software Engineer, Full Stack-IC",
+      "location": "Richmond, VA",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "100317321296",
+      "title": "Contracts Manager",
+      "location": "Mexico City, Mexico City",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "92064910096",
+      "title": "Lead Software Engineer - Backend",
+      "location": "Mexico City, Mexico City",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "86329394656",
+      "title": "Director, Product Management",
+      "location": "Mexico City, Mexico City",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "100317320176",
+      "title": "Lead Data Engineer-IC",
+      "location": "Richmond, VA",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "100317320096",
+      "title": "Senior Lead Software Engineer, Full Stack (Python, Angular)",
+      "location": "McLean, VA",
+      "datePosted": "09/07/2026"
+    },
+    {
+      "id": "99208721504",
+      "title": "Senior Technical Product Manager - Capital One Travel Platform",
+      "location": "New York, NY",
+      "datePosted": "08/28/2026"
+    },
+    {
+      "id": "98707315152",
+      "title": "Data Product Manager - Travel Engagement & Purchases",
+      "location": "New York, NY",
+      "datePosted": "08/03/2026"
+    },
+    {
+      "id": "100297747248",
+      "title": "Risk Manager - Network Participant Risk Oversight: Testing & Monitoring",
+      "location": "Richmond, VA",
       "datePosted": "09/07/2026"
     },
     {
@@ -52,12 +400,6 @@
     {
       "id": "100287040480",
       "title": "Director - HR Operations and Risk",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "09/07/2026"
-    },
-    {
-      "id": "99051845920",
-      "title": "Manager, Product Management",
       "location": "Bengaluru, Karnataka",
       "datePosted": "09/07/2026"
     },
@@ -740,12 +1082,6 @@
       "datePosted": "08/25/2026"
     },
     {
-      "id": "99806094896",
-      "title": "Senior Counsel, Senior Manager - Capital Markets Legal (Corporate)",
-      "location": "McLean, VA",
-      "datePosted": "08/27/2026"
-    },
-    {
       "id": "97737400432",
       "title": "Part Time Branch Ambassador, White Plains",
       "location": "White Plains, NY",
@@ -840,12 +1176,6 @@
       "title": "Principal Associate, Data Science - US Card Fraud Authentication Team",
       "location": "New York, NY",
       "datePosted": "09/03/2026"
-    },
-    {
-      "id": "81746455776",
-      "title": "Sr. Manager, Data Analysis",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/26/2025"
     },
     {
       "id": "97237806448",
@@ -1280,12 +1610,6 @@
       "datePosted": "09/02/2026"
     },
     {
-      "id": "86329394656",
-      "title": "Director, Product Management",
-      "location": "Mexico City, Mexico City",
-      "datePosted": "09/02/2026"
-    },
-    {
       "id": "100081970208",
       "title": "Principal Associate, Financial Planning & Analysis - Financial Services",
       "location": "Plano, TX",
@@ -1350,12 +1674,6 @@
       "title": "Director, Software Engineering - Bank Tech",
       "location": "New York, NY",
       "datePosted": "08/31/2026"
-    },
-    {
-      "id": "91940332736",
-      "title": "Data Annotator",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "09/02/2026"
     },
     {
       "id": "99951089216",
@@ -1757,12 +2075,6 @@
       "id": "100021422160",
       "title": "Manager, Counsel - Retail Bank Legal (Hybrid)",
       "location": "McLean, VA",
-      "datePosted": "09/01/2026"
-    },
-    {
-      "id": "100009626576",
-      "title": "Lead Software Engineer",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "09/01/2026"
     },
     {
@@ -2546,21 +2858,9 @@
       "datePosted": "08/28/2026"
     },
     {
-      "id": "99843994960",
-      "title": "Coordinator, Shopping Customer Service Operations",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/28/2026"
-    },
-    {
       "id": "99843994944",
       "title": "Café Ambassador- West County Center ( Part Time)",
       "location": "Des Peres, MO",
-      "datePosted": "08/28/2026"
-    },
-    {
-      "id": "99208721504",
-      "title": "Senior Technical Product Manager - Capital One Travel Platform",
-      "location": "New York, NY",
       "datePosted": "08/28/2026"
     },
     {
@@ -2808,12 +3108,6 @@
       "title": "Staff Engineer - Global Payments Network",
       "location": "New York, NY",
       "datePosted": "08/27/2026"
-    },
-    {
-      "id": "98436292512",
-      "title": "Financial Crimes Specialist",
-      "location": "McLean, VA",
-      "datePosted": "07/28/2026"
     },
     {
       "id": "99806094976",
@@ -3578,22 +3872,10 @@
       "datePosted": "08/24/2026"
     },
     {
-      "id": "94240556048",
-      "title": "Sr. Analyst, Data Analysis",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "04/22/2026"
-    },
-    {
       "id": "99666130992",
       "title": "SA, Horizontal HR Partner",
       "location": "Richmond, VA",
       "datePosted": "08/24/2026"
-    },
-    {
-      "id": "81537009200",
-      "title": "Sr. Analyst, Data Analysis",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/21/2025"
     },
     {
       "id": "92195849616",
@@ -3824,22 +4106,10 @@
       "datePosted": "08/21/2026"
     },
     {
-      "id": "98707315152",
-      "title": "Data Product Manager - Travel Engagement & Purchases",
-      "location": "New York, NY",
-      "datePosted": "08/03/2026"
-    },
-    {
       "id": "99403529472",
       "title": "Director, Technical Program Manager - Bank Tech",
       "location": "McLean, VA",
       "datePosted": "08/18/2026"
-    },
-    {
-      "id": "99533577744",
-      "title": "MBA, Investment Banking Associate - 2027",
-      "location": "McLean, VA",
-      "datePosted": "08/21/2026"
     },
     {
       "id": "98837480848",
@@ -3950,12 +4220,6 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "99498713856",
-      "title": "Workforce Manager",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/20/2026"
-    },
-    {
       "id": "92195849728",
       "title": "Applied Researcher II (AI Foundations)",
       "location": "New York, NY",
@@ -3971,12 +4235,6 @@
       "id": "99498713712",
       "title": "Senior Lead AI Engineer (Gen AI Platform Services: Distributed Systems)",
       "location": "Cambridge, MA",
-      "datePosted": "08/20/2026"
-    },
-    {
-      "id": "99498713648",
-      "title": "Senior Manager, Software Engineering, Full Stack",
-      "location": "Richmond, VA",
       "datePosted": "08/20/2026"
     },
     {
@@ -4070,12 +4328,6 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "99488457072",
-      "title": "Principal Coordinator, HR - Payroll",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/20/2026"
-    },
-    {
       "id": "99469388944",
       "title": "Manager, Product Management GRCx Data Products",
       "location": "McLean, VA",
@@ -4116,12 +4368,6 @@
       "title": "Senior Associate, Enterprise Valuation Group (EVG)",
       "location": "Chicago, IL",
       "datePosted": "08/11/2026"
-    },
-    {
-      "id": "98719924240",
-      "title": "Senior Manager, Portfolio Delivery & Strategy (Enterprise Platforms Technology)",
-      "location": "Plano, TX",
-      "datePosted": "08/19/2026"
     },
     {
       "id": "99462922336",
@@ -4412,12 +4658,6 @@
       "datePosted": "08/17/2026"
     },
     {
-      "id": "99403529280",
-      "title": "Pr. Coordinator, Bank Operations Levies and Garnishments",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/18/2026"
-    },
-    {
       "id": "99403529120",
       "title": "Senior Manager, Product Design",
       "location": "McLean, VA",
@@ -4463,12 +4703,6 @@
       "id": "99392993920",
       "title": "Senior Associate, Compensation Analyst",
       "location": "McLean, VA",
-      "datePosted": "08/18/2026"
-    },
-    {
-      "id": "99392993872",
-      "title": "Senior Manager, Software Engineering, Full Stack (Global Payment Network)",
-      "location": "Riverwoods, IL",
       "datePosted": "08/18/2026"
     },
     {
@@ -4530,12 +4764,6 @@
       "title": "Senior Administrative Assistant (Administrative Support Assistant III)- Legal",
       "location": "Plano, TX",
       "datePosted": "08/17/2026"
-    },
-    {
-      "id": "97880097904",
-      "title": "Lead Software Engineer",
-      "location": "Richmond, VA",
-      "datePosted": "07/16/2026"
     },
     {
       "id": "99354651216",
@@ -4694,30 +4922,6 @@
       "datePosted": "08/16/2026"
     },
     {
-      "id": "97891637952",
-      "title": "Lead Data Engineer (Intelligent Foundations and Experiences)",
-      "location": "McLean, VA",
-      "datePosted": "07/16/2026"
-    },
-    {
-      "id": "95967850656",
-      "title": "Lead Data Engineer (Python, Scala, Spark)",
-      "location": "McLean, VA",
-      "datePosted": "06/03/2026"
-    },
-    {
-      "id": "98137565168",
-      "title": "Lead Software Engineer, Full Stack (React, Java, AWS)",
-      "location": "New York, NY",
-      "datePosted": "07/22/2026"
-    },
-    {
-      "id": "97807247648",
-      "title": "Senior Manager, Software Engineering, Full Stack (Java/Go, Postgres, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "07/14/2026"
-    },
-    {
       "id": "99286938256",
       "title": "Lead Software Engineer, DevOps (Cloud Operations Resilience Engineering)",
       "location": "Riverwoods, IL",
@@ -4786,12 +4990,6 @@
     {
       "id": "99219547520",
       "title": "Senior Financial Analyst, Commercial FP&A",
-      "location": "Richmond, VA",
-      "datePosted": "08/14/2026"
-    },
-    {
-      "id": "99219547440",
-      "title": "Sr. Director, Enterprise Payments Risk and Oversight (Hybrid)",
       "location": "Richmond, VA",
       "datePosted": "08/14/2026"
     },
@@ -5105,12 +5303,6 @@
       "id": "99132577856",
       "title": "Principal Associate, Process Manager - Customer Resiliency, Recoveries Team (Hybrid)",
       "location": "Richmond, VA",
-      "datePosted": "08/12/2026"
-    },
-    {
-      "id": "98222385472",
-      "title": "Senior Product Manager - Technical Integration Lead, Capital One Business Travel",
-      "location": "McLean, VA",
       "datePosted": "08/12/2026"
     },
     {
@@ -6476,12 +6668,6 @@
       "datePosted": "08/07/2026"
     },
     {
-      "id": "98870980112",
-      "title": "Sr. HR Coordinator (Benefits)",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "08/07/2026"
-    },
-    {
       "id": "98862574240",
       "title": "Principal Associate, Cyber Risk & Analysis",
       "location": "McLean, VA",
@@ -6566,12 +6752,6 @@
       "datePosted": "08/06/2026"
     },
     {
-      "id": "96052176912",
-      "title": "Business Manager, Marketing, Analytics & Product Strategy",
-      "location": "McLean, VA",
-      "datePosted": "08/06/2026"
-    },
-    {
       "id": "98847420128",
       "title": "Lead Software Engineer, Full Stack (Cloud Operations Resilience Engineering)",
       "location": "McLean, VA",
@@ -6600,12 +6780,6 @@
       "title": "Business Analysis Manager - EP Strategy & Analytics",
       "location": "McLean, VA",
       "datePosted": "08/06/2026"
-    },
-    {
-      "id": "95711812656",
-      "title": "Business Manager - Sales Analytics, Capital One Travel",
-      "location": "New York, NY",
-      "datePosted": "05/29/2026"
     },
     {
       "id": "98820767504",
@@ -7250,18 +7424,6 @@
       "datePosted": "07/30/2026"
     },
     {
-      "id": "98512512896",
-      "title": "Director, Control Management Shared Services",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "07/30/2026"
-    },
-    {
-      "id": "94507325408",
-      "title": "Sr. Coordinator, Enterprise Payments Exceptions",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "07/30/2026"
-    },
-    {
       "id": "98489984256",
       "title": "Sr. Manager, Chief of Staff - Community Finance",
       "location": "McLean, VA",
@@ -7814,12 +7976,6 @@
       "datePosted": "06/01/2026"
     },
     {
-      "id": "95645139488",
-      "title": "Distinguished Engineer ( Card Tech)",
-      "location": "McLean, VA",
-      "datePosted": "05/27/2026"
-    },
-    {
       "id": "95011333968",
       "title": "Senior Lead Data Engineer",
       "location": "New York, NY",
@@ -7908,12 +8064,6 @@
       "title": "Lead Software Engineer - Back End (Golang, AWS)",
       "location": "McLean, VA",
       "datePosted": "06/25/2026"
-    },
-    {
-      "id": "98246876496",
-      "title": "Senior Data Analyst - Risk Product Data",
-      "location": "McLean, VA",
-      "datePosted": "07/24/2026"
     },
     {
       "id": "97520526592",
@@ -8276,21 +8426,9 @@
       "datePosted": "07/21/2026"
     },
     {
-      "id": "96030558992",
-      "title": "Pr. Coordinator, Estate Operations - Planning",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "06/05/2026"
-    },
-    {
       "id": "98096049568",
       "title": "Senior Project Manager (Chief of Staff)",
       "location": "Riverwoods, IL",
-      "datePosted": "07/21/2026"
-    },
-    {
-      "id": "98087176432",
-      "title": "Unit Manager, Emerging Tech Enablement",
-      "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "07/21/2026"
     },
     {
@@ -8438,18 +8576,6 @@
       "datePosted": "07/20/2026"
     },
     {
-      "id": "98043168960",
-      "title": "Current PhD - Data Science Internship - Summer 2027",
-      "location": "McLean, VA",
-      "datePosted": "07/20/2026"
-    },
-    {
-      "id": "98043168880",
-      "title": "Current Master's - Data Science Internship - Summer 2027",
-      "location": "McLean, VA",
-      "datePosted": "07/20/2026"
-    },
-    {
       "id": "97936012848",
       "title": "Lead Software Engineer, Full Stack",
       "location": "Richmond, VA",
@@ -8483,12 +8609,6 @@
       "id": "97914574096",
       "title": "Manager, Product Manager - Case Servicing",
       "location": "New York, NY",
-      "datePosted": "07/17/2026"
-    },
-    {
-      "id": "97914574064",
-      "title": "AML List Screening Investigator",
-      "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "07/17/2026"
     },
     {
@@ -8738,12 +8858,6 @@
       "datePosted": "07/15/2026"
     },
     {
-      "id": "97826003616",
-      "title": "Process Specialist (ADP)",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "07/15/2026"
-    },
-    {
       "id": "97810232656",
       "title": "Senior Business Banker - Denver, CO Market",
       "location": "Denver, CO",
@@ -8946,12 +9060,6 @@
       "title": "Dispute Analytics Representative",
       "location": "Riverwoods, IL",
       "datePosted": "07/08/2026"
-    },
-    {
-      "id": "92331246992",
-      "title": "Service Desk Coordinator",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "03/03/2026"
     },
     {
       "id": "97627388944",
@@ -9380,12 +9488,6 @@
       "datePosted": "06/30/2026"
     },
     {
-      "id": "82343232720",
-      "title": "Sr. Associate, Associate Relations",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "06/30/2026"
-    },
-    {
       "id": "97108464656",
       "title": "Manager, eHR Strategic Operations",
       "location": "McLean, VA",
@@ -9464,12 +9566,6 @@
       "datePosted": "06/26/2026"
     },
     {
-      "id": "87290716064",
-      "title": "Fixed Term Associate - HR Help Center Coordinator",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/13/2026"
-    },
-    {
       "id": "96932623872",
       "title": "Sr Lead Software Engineer",
       "location": "McLean, VA",
@@ -9534,12 +9630,6 @@
       "title": "Senior Associate, Risk Manager",
       "location": "Houston, TX",
       "datePosted": "06/25/2026"
-    },
-    {
-      "id": "95633896912",
-      "title": "Lead Software Engineer - Full Stack",
-      "location": "McLean, VA",
-      "datePosted": "05/27/2026"
     },
     {
       "id": "96887257168",
@@ -9986,12 +10076,6 @@
       "datePosted": "06/08/2026"
     },
     {
-      "id": "96164444320",
-      "title": "Senior Manager for Operations (Card Servicing)",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "06/08/2026"
-    },
-    {
       "id": "96052176832",
       "title": "Director, Technical Program Manager - Bank Tech",
       "location": "McLean, VA",
@@ -10001,12 +10085,6 @@
       "id": "96056129040",
       "title": "Principal Associate, Project Management - DaaS Acquisitions Delivery Team (Hybrid)",
       "location": "Richmond, VA",
-      "datePosted": "06/05/2026"
-    },
-    {
-      "id": "96030558928",
-      "title": "Principal Risk Specialist, Control Testing",
-      "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "06/05/2026"
     },
     {
@@ -10142,12 +10220,6 @@
       "datePosted": "05/21/2026"
     },
     {
-      "id": "93805251056",
-      "title": "Manager, Data Annotation Operations / Emerging Technology Enablement (ETE)",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/20/2026"
-    },
-    {
       "id": "77417542096",
       "title": "Senior Director, Software Engineering",
       "location": "Mexico City, Mexico City",
@@ -10226,12 +10298,6 @@
       "datePosted": "05/15/2026"
     },
     {
-      "id": "95082885504",
-      "title": "Technology Specialist",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/14/2026"
-    },
-    {
       "id": "95060668528",
       "title": "Distinguished Engineer",
       "location": "McLean, VA",
@@ -10259,12 +10325,6 @@
       "id": "95011333472",
       "title": "Lead Software Engineer, Full Stack (Python/AWS)",
       "location": "New York, NY",
-      "datePosted": "05/12/2026"
-    },
-    {
-      "id": "95002483184",
-      "title": "Sr. Manager, Compliance Advisor",
-      "location": "City of Muntinglupa, Calabarzon",
       "datePosted": "05/12/2026"
     },
     {
@@ -10418,12 +10478,6 @@
       "datePosted": "04/16/2026"
     },
     {
-      "id": "94052362336",
-      "title": "Principal Risk Specialist",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "04/17/2026"
-    },
-    {
       "id": "93802134944",
       "title": "Principal Financial Analyst",
       "location": "Richmond, VA",
@@ -10496,12 +10550,6 @@
       "datePosted": "03/19/2026"
     },
     {
-      "id": "92558597936",
-      "title": "Data Manager, Extended Operations (Well Managed Solutions)",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "03/09/2026"
-    },
-    {
       "id": "92585205072",
       "title": "Senior Manager (VP), UWPM, Alternative Renewable Energy",
       "location": "New York, NY",
@@ -10518,12 +10566,6 @@
       "title": "Senior Associate, Data Science - Consumer Credit Risk Models and Data",
       "location": "McLean, VA",
       "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92122051792",
-      "title": "Sr. Operations Representative",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "02/25/2026"
     },
     {
       "id": "91213337840",
@@ -10602,12 +10644,6 @@
       "title": "Senior Manager, Data Science - AI Foundations",
       "location": "New York, NY",
       "datePosted": "08/28/2025"
-    },
-    {
-      "id": "81611796560",
-      "title": "Pr. Analyst, Data Analysis",
-      "location": "City of Muntinglupa, Calabarzon",
-      "datePosted": "05/23/2025"
     }
   ]
 }

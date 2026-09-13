@@ -1,6 +1,1032 @@
 {
-  "scrapedAt": "2026-09-12T15:05:56.860Z",
+  "scrapedAt": "2026-09-13T15:42:43.835Z",
   "jobs": [
+    {
+      "id": "100461268672",
+      "title": "Director, AI Engineering (Remote - eligible)",
+      "location": "McLean, VA",
+      "datePosted": "09/10/2026"
+    },
+    {
+      "id": "100492580832",
+      "title": "Senior Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "99029112880",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "datePosted": "08/10/2026"
+    },
+    {
+      "id": "100492581184",
+      "title": "Applied Researcher II (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "100493786944",
+      "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
+      "location": "San Jose, CA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "100492580944",
+      "title": "Lead AI Engineer (AI Foundations)",
+      "location": "Cambridge, MA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "98813407632",
+      "title": "Lead Machine Learning Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
+      "location": "New York, NY",
+      "datePosted": "08/05/2026"
+    },
+    {
+      "id": "97747878400",
+      "title": "Lead AI Engineer (MLX Emerging AI Patterns)",
+      "location": "San Jose, CA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "100481908272",
+      "title": "Senior AI Engineer (AI Foundations)",
+      "location": "McLean, VA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "97747878720",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Plano, TX",
+      "datePosted": "07/13/2026"
+    },
+    {
+      "id": "97155161104",
+      "title": "Senior Lead AI Engineer (MLX Emerging AI Patterns)",
+      "location": "San Jose, CA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "93538940912",
+      "title": "Lead AI Engineer (AI Foundations)",
+      "location": "Cambridge, MA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "91589940128",
+      "title": "Sr. Staff Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "06/05/2026"
+    },
+    {
+      "id": "100456527840",
+      "title": "Senior AI Engineer",
+      "location": "New York, NY",
+      "datePosted": "09/10/2026"
+    },
+    {
+      "id": "100481907040",
+      "title": "Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "09/11/2026"
+    },
+    {
+      "id": "100456526784",
+      "title": "Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "09/10/2026"
+    },
+    {
+      "id": "100399472864",
+      "title": "Senior Director, AI Engineering -Agentic AI Platform",
+      "location": "San Jose, CA",
+      "datePosted": "09/09/2026"
+    },
+    {
+      "id": "100364149600",
+      "title": "Lead AI Engineer (IFX)",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100388134416",
+      "title": "Senior AI Engineer (AI Foundations)",
+      "location": "McLean, VA",
+      "datePosted": "09/09/2026"
+    },
+    {
+      "id": "100352508752",
+      "title": "Senior Lead AI Engineering (GenAI Platform Services: Agentic Systems)",
+      "location": "San Francisco, CA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100352508576",
+      "title": "Lead Machine Learning Engineer (Python, GoLang, AWS)",
+      "location": "McLean, VA",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341245648",
+      "title": "Current PhD, Applied Research Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100175949600",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco, CA",
+      "datePosted": "09/04/2026"
+    },
+    {
+      "id": "100175949504",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "09/04/2026"
+    },
+    {
+      "id": "93265680064",
+      "title": "Sr. Lead, Machine Learning Engineer (Enterprise Platforms Technology)",
+      "location": "New York, NY",
+      "datePosted": "03/27/2026"
+    },
+    {
+      "id": "100129600080",
+      "title": "Senior Lead AI Engineer (LLM Gateway, FM Hosting)",
+      "location": "San Jose, CA",
+      "datePosted": "09/03/2026"
+    },
+    {
+      "id": "100129599952",
+      "title": "Senior Lead AI Engineer (AI Foundations, VLM Customization)",
+      "location": "New York, NY",
+      "datePosted": "09/03/2026"
+    },
+    {
+      "id": "100107626816",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
+      "location": "New York, NY",
+      "datePosted": "09/03/2026"
+    },
+    {
+      "id": "100107626000",
+      "title": "Senior Manager, AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
+      "location": "New York, NY",
+      "datePosted": "09/03/2026"
+    },
+    {
+      "id": "100081971424",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services, Agentic)",
+      "location": "San Jose, CA",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "100095709920",
+      "title": "Applied Researcher I (AI Foundations, VLM)",
+      "location": "New York, NY",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "94268141072",
+      "title": "Applied Researcher I",
+      "location": "New York, NY",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "100081971056",
+      "title": "Lead AI Engineer (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)",
+      "location": "New York, NY",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "100071486864",
+      "title": "Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "datePosted": "09/02/2026"
+    },
+    {
+      "id": "100045810688",
+      "title": "Senior Staff AI Engineer",
+      "location": "San Francisco, CA",
+      "datePosted": "09/01/2026"
+    },
+    {
+      "id": "93385540096",
+      "title": "Distinguished AI Engineer",
+      "location": "San Francisco, CA",
+      "datePosted": "03/30/2026"
+    },
+    {
+      "id": "100033485504",
+      "title": "Staff AI Engineer (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "09/01/2026"
+    },
+    {
+      "id": "90553986752",
+      "title": "Applied Researcher II",
+      "location": "McLean, VA",
+      "datePosted": "09/01/2026"
+    },
+    {
+      "id": "99544269152",
+      "title": "Staff AI Engineer (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "94848949808",
+      "title": "Senior Staff Engineer, AI Compute (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "05/08/2026"
+    },
+    {
+      "id": "99983711584",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
+      "location": "San Francisco, CA",
+      "datePosted": "08/31/2026"
+    },
+    {
+      "id": "99973058688",
+      "title": "Lead Machine Learning Engineer - Intelligent Foundations and Experiences (IFX)",
+      "location": "New York, NY",
+      "datePosted": "08/31/2026"
+    },
+    {
+      "id": "99867465184",
+      "title": "Staff AI Engineer - Enterprise Analysis Platform (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "08/28/2026"
+    },
+    {
+      "id": "99856140080",
+      "title": "Staff AI Engineer role  (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "08/28/2026"
+    },
+    {
+      "id": "99867464528",
+      "title": "Lead AI Engineer (Gen AI Platform Services: Agentic AI, Agent Guardrails, Agent Evaluation, Agent Memory)",
+      "location": "San Francisco, CA",
+      "datePosted": "08/28/2026"
+    },
+    {
+      "id": "99820974928",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services, Agentic Platform)",
+      "location": "San Jose, CA",
+      "datePosted": "08/27/2026"
+    },
+    {
+      "id": "86825844704",
+      "title": "Sr. Staff Applied Researcher",
+      "location": "McLean, VA",
+      "datePosted": "10/02/2025"
+    },
+    {
+      "id": "95633896880",
+      "title": "Sr Director, AI Engineering",
+      "location": "San Francisco, CA",
+      "datePosted": "08/27/2026"
+    },
+    {
+      "id": "93650794080",
+      "title": "Sr. Staff Machine Learning Engineer (Remote-Eligible)",
+      "location": "McLean, VA",
+      "datePosted": "04/06/2026"
+    },
+    {
+      "id": "92312419520",
+      "title": "Staff Applied Researcher",
+      "location": "McLean, VA",
+      "datePosted": "03/02/2026"
+    },
+    {
+      "id": "99773353520",
+      "title": "Senior Lead AI Engineer (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)",
+      "location": "New York, NY",
+      "datePosted": "08/26/2026"
+    },
+    {
+      "id": "99761824880",
+      "title": "Lead AI Engineer (AI Foundations, VLM Customization)",
+      "location": "New York, NY",
+      "datePosted": "08/26/2026"
+    },
+    {
+      "id": "99676162960",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "99676162896",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Chicago, IL",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "98563866192",
+      "title": "Lead AI Engineer",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "92131829760",
+      "title": "Applied Researcher I (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "99544268944",
+      "title": "Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "88080157328",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "88080156704",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "08/21/2026"
+    },
+    {
+      "id": "99516612848",
+      "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99498713984",
+      "title": "Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "92195849728",
+      "title": "Applied Researcher II (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99498713712",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services: Distributed Systems)",
+      "location": "Cambridge, MA",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99498713488",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
+      "location": "New York, NY",
+      "datePosted": "08/20/2026"
+    },
+    {
+      "id": "99462922336",
+      "title": "Sr. Lead AI Engineer (AI Foundations)",
+      "location": "San Jose, CA",
+      "datePosted": "08/19/2026"
+    },
+    {
+      "id": "97982748752",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "07/18/2026"
+    },
+    {
+      "id": "99354650272",
+      "title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "08/17/2026"
+    },
+    {
+      "id": "99216129392",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Plano, TX",
+      "datePosted": "08/14/2026"
+    },
+    {
+      "id": "99173227440",
+      "title": "Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "08/13/2026"
+    },
+    {
+      "id": "99120455632",
+      "title": "Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "08/12/2026"
+    },
+    {
+      "id": "99029111904",
+      "title": "Senior Lead AI Engineer - (Gen AI Platform Services, Agentic AI)",
+      "location": "McLean, VA",
+      "datePosted": "08/10/2026"
+    },
+    {
+      "id": "94042209776",
+      "title": "Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "datePosted": "04/16/2026"
+    },
+    {
+      "id": "91053153680",
+      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "McLean, VA",
+      "datePosted": "08/03/2026"
+    },
+    {
+      "id": "97201957872",
+      "title": "Lead AI Engineer",
+      "location": "McLean, VA",
+      "datePosted": "08/03/2026"
+    },
+    {
+      "id": "96184839808",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Cambridge, MA",
+      "datePosted": "06/08/2026"
+    },
+    {
+      "id": "98486192016",
+      "title": "Senior Lead AI Engineer (MLXT)",
+      "location": "McLean, VA",
+      "datePosted": "07/29/2026"
+    },
+    {
+      "id": "96786788352",
+      "title": "Senior Lead AI Engineer (GenAI Platform, Agentic Infrastructure)",
+      "location": "New York, NY",
+      "datePosted": "07/29/2026"
+    },
+    {
+      "id": "96821031184",
+      "title": "Sr Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "06/23/2026"
+    },
+    {
+      "id": "98436292208",
+      "title": "Lead AI Engineer (AI Foundations)",
+      "location": "McLean, VA",
+      "datePosted": "07/28/2026"
+    },
+    {
+      "id": "96846031728",
+      "title": "Distinguished AI Engineer - Agentic AI Platform (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "06/23/2026"
+    },
+    {
+      "id": "94298043968",
+      "title": "Senior Director, Applied Research",
+      "location": "San Francisco, CA",
+      "datePosted": "07/27/2026"
+    },
+    {
+      "id": "98251329600",
+      "title": "Sr. Lead AI Engineer (GenAI Platform)",
+      "location": "San Jose, CA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98233422256",
+      "title": "Sr. Lead Machine Learning Engineer (IC)",
+      "location": "McLean, VA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "93177762736",
+      "title": "Lead AI Engineer (MLX)",
+      "location": "New York, NY",
+      "datePosted": "03/25/2026"
+    },
+    {
+      "id": "92348739088",
+      "title": "Applied Researcher II (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "03/03/2026"
+    },
+    {
+      "id": "91904716160",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "07/24/2026"
+    },
+    {
+      "id": "98197008272",
+      "title": "Applied Researcher II",
+      "location": "San Jose, CA",
+      "datePosted": "07/23/2026"
+    },
+    {
+      "id": "92348739136",
+      "title": "Applied Researcher I (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "03/03/2026"
+    },
+    {
+      "id": "88015279248",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "11/03/2025"
+    },
+    {
+      "id": "87914721168",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "10/31/2025"
+    },
+    {
+      "id": "93138394688",
+      "title": "Applied Researcher II",
+      "location": "New York, NY",
+      "datePosted": "03/24/2026"
+    },
+    {
+      "id": "94779280784",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "05/06/2026"
+    },
+    {
+      "id": "98137566240",
+      "title": "Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "07/22/2026"
+    },
+    {
+      "id": "98137565920",
+      "title": "Sr. Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "07/22/2026"
+    },
+    {
+      "id": "93138394976",
+      "title": "Applied Researcher I",
+      "location": "New York, NY",
+      "datePosted": "03/24/2026"
+    },
+    {
+      "id": "98113847904",
+      "title": "Applied Researcher I",
+      "location": "San Jose, CA",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "98106882672",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "98097296880",
+      "title": "Senior Lead AI Engineer (SDK's: Gen AI Evaluation and MCP)",
+      "location": "McLean, VA",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "96173809296",
+      "title": "Lead Machine Learning Engineer (Manager IC)",
+      "location": "Cambridge, MA",
+      "datePosted": "06/08/2026"
+    },
+    {
+      "id": "93482740288",
+      "title": "Lead AI Engineer (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "04/02/2026"
+    },
+    {
+      "id": "95091807248",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "05/14/2026"
+    },
+    {
+      "id": "97721160432",
+      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "McLean, VA",
+      "datePosted": "07/12/2026"
+    },
+    {
+      "id": "93482740720",
+      "title": "Sr. Lead AI Engineer (AI Foundations)",
+      "location": "New York, NY",
+      "datePosted": "04/02/2026"
+    },
+    {
+      "id": "95091807360",
+      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "05/14/2026"
+    },
+    {
+      "id": "97936013664",
+      "title": "Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)",
+      "location": "McLean, VA",
+      "datePosted": "07/17/2026"
+    },
+    {
+      "id": "96890760608",
+      "title": "Senior. Distinguished AI Engineer - Agentic AI Platform (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "06/24/2026"
+    },
+    {
+      "id": "97837229792",
+      "title": "Senior Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "07/15/2026"
+    },
+    {
+      "id": "97792461376",
+      "title": "Lead Machine Learning Engineer (Finance Tech - AI Enablement)",
+      "location": "Cambridge, MA",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "97627387888",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "07/10/2026"
+    },
+    {
+      "id": "97520528384",
+      "title": "Lead Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "datePosted": "07/08/2026"
+    },
+    {
+      "id": "97491496256",
+      "title": "Lead Machine Learning Engineer",
+      "location": "Plano, TX",
+      "datePosted": "07/07/2026"
+    },
+    {
+      "id": "97237807680",
+      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "07/02/2026"
+    },
+    {
+      "id": "97201958176",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "07/01/2026"
+    },
+    {
+      "id": "97191343504",
+      "title": "Sr. Distinguished AI Engineer (Remote Eligible)",
+      "location": "San Francisco, CA",
+      "datePosted": "07/01/2026"
+    },
+    {
+      "id": "90567703184",
+      "title": "Sr. Distinguished Engineer",
+      "location": "McLean, VA",
+      "datePosted": "01/13/2026"
+    },
+    {
+      "id": "96359807552",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "datePosted": "06/12/2026"
+    },
+    {
+      "id": "96359807344",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "New York, NY",
+      "datePosted": "06/12/2026"
+    },
+    {
+      "id": "96359806720",
+      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "06/12/2026"
+    },
+    {
+      "id": "96250438272",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "06/10/2026"
+    },
+    {
+      "id": "96250438048",
+      "title": "Sr. Lead Machine Learning Engineer",
+      "location": "McLean, VA",
+      "datePosted": "06/10/2026"
+    },
+    {
+      "id": "94828675648",
+      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
+      "location": "Cambridge, MA",
+      "datePosted": "05/07/2026"
+    },
+    {
+      "id": "93118130192",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "New York, NY",
+      "datePosted": "03/23/2026"
+    },
+    {
+      "id": "92130106464",
+      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "02/25/2026"
+    },
+    {
+      "id": "90589088672",
+      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
+      "location": "New York, NY",
+      "datePosted": "06/09/2026"
+    },
+    {
+      "id": "96216662208",
+      "title": "Lead AI Engineer (Vision model customization, VLM)",
+      "location": "New York, NY",
+      "datePosted": "06/09/2026"
+    },
+    {
+      "id": "95939085792",
+      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
+      "location": "San Jose, CA",
+      "datePosted": "06/03/2026"
+    },
+    {
+      "id": "95869625376",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "06/01/2026"
+    },
+    {
+      "id": "95869625152",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "06/01/2026"
+    },
+    {
+      "id": "95722186608",
+      "title": "Lead AI Engineer (GenAI Platform, AI Foundations, LLM Core and Agentic AI)",
+      "location": "McLean, VA",
+      "datePosted": "05/29/2026"
+    },
+    {
+      "id": "93265680560",
+      "title": "Senior Manager, Machine Learning Engineering",
+      "location": "McLean, VA",
+      "datePosted": "03/27/2026"
+    },
+    {
+      "id": "94848949888",
+      "title": "Senior Lead AI Engineer",
+      "location": "San Jose, CA",
+      "datePosted": "05/08/2026"
+    },
+    {
+      "id": "94982107088",
+      "title": "Sr. Lead AI Engineer (GenAI Platform)",
+      "location": "San Jose, CA",
+      "datePosted": "05/11/2026"
+    },
+    {
+      "id": "94779281216",
+      "title": "Lead AI/ML Engineer (Platform, kubeflow)",
+      "location": "San Jose, CA",
+      "datePosted": "05/06/2026"
+    },
+    {
+      "id": "94534914784",
+      "title": "Applied Researcher I",
+      "location": "New York, NY",
+      "datePosted": "04/29/2026"
+    },
+    {
+      "id": "94298044288",
+      "title": "Applied Researcher II",
+      "location": "New York, NY",
+      "datePosted": "04/23/2026"
+    },
+    {
+      "id": "94268142208",
+      "title": "Senior Lead AI Engineer",
+      "location": "New York, NY",
+      "datePosted": "04/22/2026"
+    },
+    {
+      "id": "94268141936",
+      "title": "Lead AI Engineer",
+      "location": "New York, NY",
+      "datePosted": "04/22/2026"
+    },
+    {
+      "id": "93736800944",
+      "title": "Lead Machine Learning Engineer (Enterprise Platforms Technology)",
+      "location": "New York, NY",
+      "datePosted": "04/08/2026"
+    },
+    {
+      "id": "93138394800",
+      "title": "Lead AI Engineer ( MLX, Gen AI Platform Services, Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "03/24/2026"
+    },
+    {
+      "id": "93698172720",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "04/07/2026"
+    },
+    {
+      "id": "92217063744",
+      "title": "Sr. Lead AI Engineer (Gen AI Platform Services)",
+      "location": "San Jose, CA",
+      "datePosted": "02/27/2026"
+    },
+    {
+      "id": "93665155376",
+      "title": "Senior Lead AI Engineer (Gen AI Platform Services, Agentic AI)",
+      "location": "Cambridge, MA",
+      "datePosted": "04/06/2026"
+    },
+    {
+      "id": "93501459392",
+      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "04/02/2026"
+    },
+    {
+      "id": "93501459360",
+      "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
+      "location": "McLean, VA",
+      "datePosted": "04/02/2026"
+    },
+    {
+      "id": "92627124256",
+      "title": "Applied Researcher I",
+      "location": "McLean, VA",
+      "datePosted": "03/10/2026"
+    },
+    {
+      "id": "92474028032",
+      "title": "Applied Researcher II (AI Foundations)",
+      "location": "San Jose, CA",
+      "datePosted": "03/06/2026"
+    },
+    {
+      "id": "92219156768",
+      "title": "Lead AI Engineer",
+      "location": "San Jose, CA",
+      "datePosted": "02/27/2026"
+    },
+    {
+      "id": "92168538672",
+      "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92168538528",
+      "title": "Applied Researcher I",
+      "location": "New York, NY",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92168538464",
+      "title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92168538416",
+      "title": "Applied Researcher II",
+      "location": "McLean, VA",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92168538400",
+      "title": "Applied Researcher I (AI Foundations)",
+      "location": "San Jose, CA",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92168538208",
+      "title": "Applied Researcher II",
+      "location": "McLean, VA",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "92067548992",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "02/23/2026"
+    },
+    {
+      "id": "88175972992",
+      "title": "Senior Lead AI Engineer (FM Hosting)",
+      "location": "New York, NY",
+      "datePosted": "11/07/2025"
+    },
+    {
+      "id": "87905567072",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "Cambridge, MA",
+      "datePosted": "10/31/2025"
+    },
+    {
+      "id": "91350494320",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "San Jose, CA",
+      "datePosted": "02/03/2026"
+    },
+    {
+      "id": "89198368640",
+      "title": "Sr. Lead AI Engineer",
+      "location": "McLean, VA",
+      "datePosted": "12/05/2025"
+    },
+    {
+      "id": "87905566864",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "10/31/2025"
+    },
+    {
+      "id": "91350493856",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "Cambridge, MA",
+      "datePosted": "02/03/2026"
+    },
+    {
+      "id": "90965409648",
+      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
+      "location": "New York, NY",
+      "datePosted": "01/23/2026"
+    },
+    {
+      "id": "87914720832",
+      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "10/31/2025"
+    },
+    {
+      "id": "87914721088",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "01/15/2026"
+    },
+    {
+      "id": "88043855808",
+      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
+      "location": "New York, NY",
+      "datePosted": "11/04/2025"
+    },
+    {
+      "id": "100341360912",
+      "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "100341360880",
+      "title": "Current Master's, AI Engineering Internship Program - Summer 2027",
+      "location": "New York, NY",
+      "datePosted": "09/08/2026"
+    },
+    {
+      "id": "99448990000",
+      "title": "Senior Associate, Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "08/19/2026"
+    },
+    {
+      "id": "99447500176",
+      "title": "Manager, Product Manager- Move & Manage Decisioning",
+      "location": "New York, NY",
+      "datePosted": "08/19/2026"
+    },
+    {
+      "id": "98110348256",
+      "title": "Senior Associate, Product Manager, Small Business Bank Fraud Decisioning",
+      "location": "McLean, VA",
+      "datePosted": "07/21/2026"
+    },
+    {
+      "id": "97783205344",
+      "title": "Manager, Product Manager-Small Business Bank Digital Servicing",
+      "location": "New York, NY",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "97925521936",
+      "title": "Director, Enterprise Risk Management Issues & Events",
+      "location": "McLean, VA",
+      "datePosted": "09/12/2026"
+    },
     {
       "id": "100516855760",
       "title": "Lead Software Engineer, DevOps (Network Automation)",
@@ -24,12 +1050,6 @@
       "title": "Director, Project Management - Bank Tech Operations",
       "location": "Richmond, VA",
       "datePosted": "09/11/2026"
-    },
-    {
-      "id": "100461268672",
-      "title": "Director, AI Engineering (Remote - eligible)",
-      "location": "McLean, VA",
-      "datePosted": "09/10/2026"
     },
     {
       "id": "97880097904",
@@ -176,22 +1196,10 @@
       "datePosted": "09/11/2026"
     },
     {
-      "id": "100492580832",
-      "title": "Senior Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "09/11/2026"
-    },
-    {
       "id": "99817712480",
       "title": "Senior Lead Software Engineer, Full Stack - Shopping (Remote- Eligible)",
       "location": "Richmond, VA",
       "datePosted": "09/11/2026"
-    },
-    {
-      "id": "99029112880",
-      "title": "Senior Lead Machine Learning Engineer",
-      "location": "Chicago, IL",
-      "datePosted": "08/10/2026"
     },
     {
       "id": "96965508640",
@@ -326,12 +1334,6 @@
       "datePosted": "09/11/2026"
     },
     {
-      "id": "100493786944",
-      "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
-      "location": "San Jose, CA",
-      "datePosted": "09/11/2026"
-    },
-    {
       "id": "100493786848",
       "title": "Lead Software Engineer, Full Stack (Java, Python, Docker, AI) (Enterprise Platforms Technology)",
       "location": "Plano, TX",
@@ -347,12 +1349,6 @@
       "id": "100492581264",
       "title": "Senior Manager, Software Engineering, Full Stack",
       "location": "McLean, VA",
-      "datePosted": "09/11/2026"
-    },
-    {
-      "id": "100492581184",
-      "title": "Applied Researcher II (AI Foundations)",
-      "location": "New York, NY",
       "datePosted": "09/11/2026"
     },
     {
@@ -389,12 +1385,6 @@
       "id": "100492580976",
       "title": "Senior Administrative Assistant (Administrative Support Assistant III)- Card",
       "location": "McLean, VA",
-      "datePosted": "09/11/2026"
-    },
-    {
-      "id": "100492580944",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "Cambridge, MA",
       "datePosted": "09/11/2026"
     },
     {
@@ -468,12 +1458,6 @@
       "title": "Sr. Data Analyst - Retail Bank",
       "location": "McLean, VA",
       "datePosted": "09/11/2026"
-    },
-    {
-      "id": "98813407632",
-      "title": "Lead Machine Learning Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
-      "location": "New York, NY",
-      "datePosted": "08/05/2026"
     },
     {
       "id": "99029112816",
@@ -572,12 +1556,6 @@
       "datePosted": "09/11/2026"
     },
     {
-      "id": "97747878400",
-      "title": "Lead AI Engineer (MLX Emerging AI Patterns)",
-      "location": "San Jose, CA",
-      "datePosted": "09/11/2026"
-    },
-    {
       "id": "100034674992",
       "title": "Lead Software Engineer, Full Stack",
       "location": "New York, NY",
@@ -590,12 +1568,6 @@
       "datePosted": "09/11/2026"
     },
     {
-      "id": "97155161104",
-      "title": "Senior Lead AI Engineer (MLX Emerging AI Patterns)",
-      "location": "San Jose, CA",
-      "datePosted": "09/11/2026"
-    },
-    {
       "id": "100481908464",
       "title": "Manager, Product Design",
       "location": "McLean, VA",
@@ -605,12 +1577,6 @@
       "id": "100033485200",
       "title": "Relationship Manager",
       "location": "Plano, TX",
-      "datePosted": "09/11/2026"
-    },
-    {
-      "id": "100481908272",
-      "title": "Senior AI Engineer (AI Foundations)",
-      "location": "McLean, VA",
       "datePosted": "09/11/2026"
     },
     {
@@ -629,12 +1595,6 @@
       "id": "100481907232",
       "title": "Associate, Support Operations",
       "location": "New York, NY",
-      "datePosted": "09/11/2026"
-    },
-    {
-      "id": "100481907040",
-      "title": "Lead AI Engineer (Gen AI Platform Services)",
-      "location": "San Jose, CA",
       "datePosted": "09/11/2026"
     },
     {
@@ -662,12 +1622,6 @@
       "datePosted": "07/08/2026"
     },
     {
-      "id": "93538940912",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "Cambridge, MA",
-      "datePosted": "09/11/2026"
-    },
-    {
       "id": "100469416432",
       "title": "Senior Manager, Product Management - Enterprise Services Risk",
       "location": "McLean, VA",
@@ -690,18 +1644,6 @@
       "title": "Lead Data Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
       "location": "New York, NY",
       "datePosted": "07/16/2026"
-    },
-    {
-      "id": "97747878720",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Plano, TX",
-      "datePosted": "07/13/2026"
-    },
-    {
-      "id": "91589940128",
-      "title": "Sr. Staff Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "06/05/2026"
     },
     {
       "id": "100456528384",
@@ -746,18 +1688,6 @@
       "datePosted": "09/10/2026"
     },
     {
-      "id": "98110348256",
-      "title": "Senior Associate, Product Manager, Small Business Bank Fraud Decisioning",
-      "location": "McLean, VA",
-      "datePosted": "07/21/2026"
-    },
-    {
-      "id": "100456527840",
-      "title": "Senior AI Engineer",
-      "location": "New York, NY",
-      "datePosted": "09/10/2026"
-    },
-    {
       "id": "100456527760",
       "title": "Part Time Branch Ambassador - Blalock",
       "location": "Houston, TX",
@@ -786,12 +1716,6 @@
       "title": "Lead Software Engineer, Full Stack",
       "location": "Richmond, VA",
       "datePosted": "04/30/2026"
-    },
-    {
-      "id": "97783205344",
-      "title": "Manager, Product Manager-Small Business Bank Digital Servicing",
-      "location": "New York, NY",
-      "datePosted": "07/14/2026"
     },
     {
       "id": "100456527408",
@@ -868,12 +1792,6 @@
     {
       "id": "100456526832",
       "title": "Senior Manager, Card Risk: Vertical Risk Manager",
-      "location": "McLean, VA",
-      "datePosted": "09/10/2026"
-    },
-    {
-      "id": "100456526784",
-      "title": "Lead Machine Learning Engineer",
       "location": "McLean, VA",
       "datePosted": "09/10/2026"
     },
@@ -1020,12 +1938,6 @@
       "title": "Senior Lead Software Engineer, Full Stack (Java, Spring Boot, AWS, CI/CD) (Enterprise Platforms Technology)",
       "location": "McLean, VA",
       "datePosted": "09/10/2026"
-    },
-    {
-      "id": "99447500176",
-      "title": "Manager, Product Manager- Move & Manage Decisioning",
-      "location": "New York, NY",
-      "datePosted": "08/19/2026"
     },
     {
       "id": "100443655952",
@@ -1260,18 +2172,6 @@
       "title": "Manager, Product Management, Card Intelligence",
       "location": "McLean, VA",
       "datePosted": "09/09/2026"
-    },
-    {
-      "id": "100399472864",
-      "title": "Senior Director, AI Engineering -Agentic AI Platform",
-      "location": "San Jose, CA",
-      "datePosted": "09/09/2026"
-    },
-    {
-      "id": "100364149600",
-      "title": "Lead AI Engineer (IFX)",
-      "location": "New York, NY",
-      "datePosted": "09/08/2026"
     },
     {
       "id": "100398232128",
@@ -1583,12 +2483,6 @@
       "id": "100388134432",
       "title": "Director, Special Assets",
       "location": "New York, NY",
-      "datePosted": "09/09/2026"
-    },
-    {
-      "id": "100388134416",
-      "title": "Senior AI Engineer (AI Foundations)",
-      "location": "McLean, VA",
       "datePosted": "09/09/2026"
     },
     {
@@ -1940,12 +2834,6 @@
       "datePosted": "09/03/2026"
     },
     {
-      "id": "100352508752",
-      "title": "Senior Lead AI Engineering (GenAI Platform Services: Agentic Systems)",
-      "location": "San Francisco, CA",
-      "datePosted": "09/08/2026"
-    },
-    {
       "id": "100352508736",
       "title": "Senior Associate, Card Risk",
       "location": "Richmond, VA",
@@ -2006,27 +2894,9 @@
       "datePosted": "09/08/2026"
     },
     {
-      "id": "100352508576",
-      "title": "Lead Machine Learning Engineer (Python, GoLang, AWS)",
-      "location": "McLean, VA",
-      "datePosted": "09/08/2026"
-    },
-    {
       "id": "99806094896",
       "title": "Senior Counsel, Senior Manager - Capital Markets Legal (Corporate)",
       "location": "McLean, VA",
-      "datePosted": "09/08/2026"
-    },
-    {
-      "id": "100341360912",
-      "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
-      "location": "New York, NY",
-      "datePosted": "09/08/2026"
-    },
-    {
-      "id": "100341360880",
-      "title": "Current Master's, AI Engineering Internship Program - Summer 2027",
-      "location": "New York, NY",
       "datePosted": "09/08/2026"
     },
     {
@@ -2230,12 +3100,6 @@
     {
       "id": "100341245696",
       "title": "Lead Software Engineer, Full Stack (Scala, React, AWS)",
-      "location": "New York, NY",
-      "datePosted": "09/08/2026"
-    },
-    {
-      "id": "100341245648",
-      "title": "Current PhD, Applied Research Internship Program - Summer 2027",
       "location": "New York, NY",
       "datePosted": "09/08/2026"
     },
@@ -2570,18 +3434,6 @@
       "datePosted": "09/04/2026"
     },
     {
-      "id": "100175949600",
-      "title": "Staff AI Engineer",
-      "location": "San Francisco, CA",
-      "datePosted": "09/04/2026"
-    },
-    {
-      "id": "100175949504",
-      "title": "Senior Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "09/04/2026"
-    },
-    {
       "id": "98634904496",
       "title": "Data Analysis Manager - Analytics & Transformation",
       "location": "McLean, VA",
@@ -2706,12 +3558,6 @@
       "title": "Senior Associate, Product Manager - Credit Management",
       "location": "McLean, VA",
       "datePosted": "09/01/2026"
-    },
-    {
-      "id": "99448990000",
-      "title": "Senior Associate, Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "08/19/2026"
     },
     {
       "id": "100155633536",
@@ -2888,12 +3734,6 @@
       "datePosted": "09/03/2026"
     },
     {
-      "id": "93265680064",
-      "title": "Sr. Lead, Machine Learning Engineer (Enterprise Platforms Technology)",
-      "location": "New York, NY",
-      "datePosted": "03/27/2026"
-    },
-    {
       "id": "99120455248",
       "title": "Sr. Analyst, Capital Markets & Risk",
       "location": "McLean, VA",
@@ -2942,21 +3782,9 @@
       "datePosted": "09/03/2026"
     },
     {
-      "id": "100129600080",
-      "title": "Senior Lead AI Engineer (LLM Gateway, FM Hosting)",
-      "location": "San Jose, CA",
-      "datePosted": "09/03/2026"
-    },
-    {
       "id": "100129600064",
       "title": "Sr Process Manager, PULSE",
       "location": "Houston, TX",
-      "datePosted": "09/03/2026"
-    },
-    {
-      "id": "100129600048",
-      "title": "Manager, Corporate Communications",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "09/03/2026"
     },
     {
@@ -2970,12 +3798,6 @@
       "title": "Business Director, Strategy",
       "location": "McLean, VA",
       "datePosted": "08/28/2026"
-    },
-    {
-      "id": "100129599952",
-      "title": "Senior Lead AI Engineer (AI Foundations, VLM Customization)",
-      "location": "New York, NY",
-      "datePosted": "09/03/2026"
     },
     {
       "id": "100119664464",
@@ -3006,18 +3828,6 @@
       "title": "Principal Coordinator - Admin Support Assistant",
       "location": "Bengaluru, Karnataka",
       "datePosted": "07/14/2026"
-    },
-    {
-      "id": "100107626816",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
-      "location": "New York, NY",
-      "datePosted": "09/03/2026"
-    },
-    {
-      "id": "100107626000",
-      "title": "Senior Manager, AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)",
-      "location": "New York, NY",
-      "datePosted": "09/03/2026"
     },
     {
       "id": "97747877632",
@@ -3110,12 +3920,6 @@
       "datePosted": "08/26/2026"
     },
     {
-      "id": "100095709920",
-      "title": "Applied Researcher I (AI Foundations, VLM)",
-      "location": "New York, NY",
-      "datePosted": "09/02/2026"
-    },
-    {
       "id": "98043070704",
       "title": "Principal Auditor (Experienced Senior Auditor), Consumer Lending (Hybrid)",
       "location": "Richmond, VA",
@@ -3194,12 +3998,6 @@
       "datePosted": "09/02/2026"
     },
     {
-      "id": "100081971424",
-      "title": "Senior Lead AI Engineer (GenAI Platform Services, Agentic)",
-      "location": "San Jose, CA",
-      "datePosted": "09/02/2026"
-    },
-    {
       "id": "100081971360",
       "title": "Sr. Manager, Data Analyst - Compliance Risk",
       "location": "McLean, VA",
@@ -3242,12 +4040,6 @@
       "datePosted": "09/02/2026"
     },
     {
-      "id": "94268141072",
-      "title": "Applied Researcher I",
-      "location": "New York, NY",
-      "datePosted": "09/02/2026"
-    },
-    {
       "id": "99120455376",
       "title": "Senior Manager, Regulatory Affairs - International Advocacy",
       "location": "McLean, VA",
@@ -3258,12 +4050,6 @@
       "title": "Full Time Branch Ambassador - Larose Cutoff (21/hr)",
       "location": "Larose, LA",
       "datePosted": "08/18/2026"
-    },
-    {
-      "id": "100081971056",
-      "title": "Lead AI Engineer (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)",
-      "location": "New York, NY",
-      "datePosted": "09/02/2026"
     },
     {
       "id": "100081970992",
@@ -3348,12 +4134,6 @@
       "title": "Staff Software Engineer CI/CD",
       "location": "Plano, TX",
       "datePosted": "07/28/2026"
-    },
-    {
-      "id": "100071486864",
-      "title": "Lead Machine Learning Engineer",
-      "location": "New York, NY",
-      "datePosted": "09/02/2026"
     },
     {
       "id": "100071486800",
@@ -3446,12 +4226,6 @@
       "datePosted": "09/01/2026"
     },
     {
-      "id": "100045810688",
-      "title": "Senior Staff AI Engineer",
-      "location": "San Francisco, CA",
-      "datePosted": "09/01/2026"
-    },
-    {
       "id": "100045810640",
       "title": "Sr. Staff Software Engineer - Card Tech",
       "location": "San Francisco, CA",
@@ -3474,12 +4248,6 @@
       "title": "Senior Staff Engineer",
       "location": "McLean, VA",
       "datePosted": "07/21/2026"
-    },
-    {
-      "id": "93385540096",
-      "title": "Distinguished AI Engineer",
-      "location": "San Francisco, CA",
-      "datePosted": "03/30/2026"
     },
     {
       "id": "100045810288",
@@ -3536,12 +4304,6 @@
       "datePosted": "09/01/2026"
     },
     {
-      "id": "100033485504",
-      "title": "Staff AI Engineer (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "09/01/2026"
-    },
-    {
       "id": "100033485456",
       "title": "Manager, Process Manager - Consumer Behavior Analytics",
       "location": "McLean, VA",
@@ -3569,12 +4331,6 @@
       "id": "100033485280",
       "title": "Senior Manager, Commercial Credit Review",
       "location": "Charlotte, NC",
-      "datePosted": "09/01/2026"
-    },
-    {
-      "id": "90553986752",
-      "title": "Applied Researcher II",
-      "location": "McLean, VA",
       "datePosted": "09/01/2026"
     },
     {
@@ -3690,12 +4446,6 @@
       "title": "Relationship Manager",
       "location": "Downers Grove, IL",
       "datePosted": "08/31/2026"
-    },
-    {
-      "id": "99544269152",
-      "title": "Staff AI Engineer (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "08/21/2026"
     },
     {
       "id": "99996780528",
@@ -3914,12 +4664,6 @@
       "datePosted": "08/31/2026"
     },
     {
-      "id": "94848949808",
-      "title": "Senior Staff Engineer, AI Compute (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "05/08/2026"
-    },
-    {
       "id": "99983711712",
       "title": "Manager, Data Analysis - US Card",
       "location": "McLean, VA",
@@ -3965,12 +4709,6 @@
       "id": "95426226384",
       "title": "Lead Platform Engineer - Palo Alto (Cloud Operations Resilience Engineering)",
       "location": "Riverwoods, IL",
-      "datePosted": "08/31/2026"
-    },
-    {
-      "id": "99983711584",
-      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
-      "location": "San Francisco, CA",
       "datePosted": "08/31/2026"
     },
     {
@@ -4037,12 +4775,6 @@
       "id": "99973059040",
       "title": "Business Director, International Pricing Strategy and Operations (Global Payment Network)",
       "location": "McLean, VA",
-      "datePosted": "08/31/2026"
-    },
-    {
-      "id": "99973058688",
-      "title": "Lead Machine Learning Engineer - Intelligent Foundations and Experiences (IFX)",
-      "location": "New York, NY",
       "datePosted": "08/31/2026"
     },
     {
@@ -4124,12 +4856,6 @@
       "datePosted": "08/28/2026"
     },
     {
-      "id": "99867465184",
-      "title": "Staff AI Engineer - Enterprise Analysis Platform (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "08/28/2026"
-    },
-    {
       "id": "99867465152",
       "title": "Manager, Data Analysis- Commercial  Underwriting and Portfolio Management org",
       "location": "Richmond, VA",
@@ -4178,12 +4904,6 @@
       "datePosted": "08/28/2026"
     },
     {
-      "id": "99867464528",
-      "title": "Lead AI Engineer (Gen AI Platform Services: Agentic AI, Agent Guardrails, Agent Evaluation, Agent Memory)",
-      "location": "San Francisco, CA",
-      "datePosted": "08/28/2026"
-    },
-    {
       "id": "99073584496",
       "title": "Sr. Staff Software Engineer, Full Stack - Finance Tech",
       "location": "Remote, USA",
@@ -4218,12 +4938,6 @@
       "title": "Lead Software Engineer Full Stack (Bank Tech)",
       "location": "McLean, VA",
       "datePosted": "07/21/2026"
-    },
-    {
-      "id": "99856140080",
-      "title": "Staff AI Engineer role  (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "08/28/2026"
     },
     {
       "id": "98106883104",
@@ -4364,12 +5078,6 @@
       "datePosted": "08/27/2026"
     },
     {
-      "id": "99820974928",
-      "title": "Senior Lead AI Engineer (GenAI Platform Services, Agentic Platform)",
-      "location": "San Jose, CA",
-      "datePosted": "08/27/2026"
-    },
-    {
       "id": "99817713344",
       "title": "Principal Associate, Recruiter",
       "location": "McLean, VA",
@@ -4406,12 +5114,6 @@
       "datePosted": "08/27/2026"
     },
     {
-      "id": "86825844704",
-      "title": "Sr. Staff Applied Researcher",
-      "location": "McLean, VA",
-      "datePosted": "10/02/2025"
-    },
-    {
       "id": "99817712368",
       "title": "Lead Software Engineer, Full Stack",
       "location": "McLean, VA",
@@ -4428,12 +5130,6 @@
       "title": "Sr. Staff Engineer - Global Payment Network (Remote Eligible)",
       "location": "Chicago, IL",
       "datePosted": "08/13/2026"
-    },
-    {
-      "id": "95633896880",
-      "title": "Sr Director, AI Engineering",
-      "location": "San Francisco, CA",
-      "datePosted": "08/27/2026"
     },
     {
       "id": "96608334656",
@@ -4458,18 +5154,6 @@
       "title": "Senior Manager Enterprise SaaS Sales - Capital One Software (Remote)",
       "location": "Richmond, VA",
       "datePosted": "08/27/2026"
-    },
-    {
-      "id": "93650794080",
-      "title": "Sr. Staff Machine Learning Engineer (Remote-Eligible)",
-      "location": "McLean, VA",
-      "datePosted": "04/06/2026"
-    },
-    {
-      "id": "92312419520",
-      "title": "Staff Applied Researcher",
-      "location": "McLean, VA",
-      "datePosted": "03/02/2026"
     },
     {
       "id": "97792460640",
@@ -4706,12 +5390,6 @@
       "datePosted": "08/25/2026"
     },
     {
-      "id": "99773353520",
-      "title": "Senior Lead AI Engineer (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)",
-      "location": "New York, NY",
-      "datePosted": "08/26/2026"
-    },
-    {
       "id": "94828676064",
       "title": "Manager, Cyber Technical SailPoint",
       "location": "McLean, VA",
@@ -4835,12 +5513,6 @@
       "id": "99761824976",
       "title": "Senior Manager, Software Engineering",
       "location": "Chicago, IL",
-      "datePosted": "08/26/2026"
-    },
-    {
-      "id": "99761824880",
-      "title": "Lead AI Engineer (AI Foundations, VLM Customization)",
-      "location": "New York, NY",
       "datePosted": "08/26/2026"
     },
     {
@@ -5090,12 +5762,6 @@
       "datePosted": "08/24/2026"
     },
     {
-      "id": "97792461376",
-      "title": "Lead Machine Learning Engineer (Finance Tech - AI Enablement)",
-      "location": "Cambridge, MA",
-      "datePosted": "07/14/2026"
-    },
-    {
       "id": "99676163152",
       "title": "Senior Business Banker - Phoenix",
       "location": "Phoenix, AZ",
@@ -5132,21 +5798,9 @@
       "datePosted": "08/24/2026"
     },
     {
-      "id": "99676162960",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Chicago, IL",
-      "datePosted": "08/24/2026"
-    },
-    {
       "id": "99676162928",
       "title": "Principal Associate, Retail Bank Campaign Project Manager",
       "location": "McLean, VA",
-      "datePosted": "08/24/2026"
-    },
-    {
-      "id": "99676162896",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Chicago, IL",
       "datePosted": "08/24/2026"
     },
     {
@@ -5201,12 +5855,6 @@
       "id": "99666130704",
       "title": "Sr. Administrative Assistant- Global Network Risk",
       "location": "McLean, VA",
-      "datePosted": "08/24/2026"
-    },
-    {
-      "id": "98563866192",
-      "title": "Lead AI Engineer",
-      "location": "Bengaluru, Karnataka",
       "datePosted": "08/24/2026"
     },
     {
@@ -5270,12 +5918,6 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "99544268944",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "08/21/2026"
-    },
-    {
       "id": "95857653664",
       "title": "Manager, Data Scientist, Travel Intelligence, Hotels",
       "location": "McLean, VA",
@@ -5288,12 +5930,6 @@
       "datePosted": "08/15/2026"
     },
     {
-      "id": "92131829760",
-      "title": "Applied Researcher I (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "08/21/2026"
-    },
-    {
       "id": "99543046256",
       "title": "Market Manager - Queens",
       "location": "Whitestone, NY",
@@ -5304,18 +5940,6 @@
       "title": "Senior Staff Auditor, Finance (Hybrid)",
       "location": "Richmond, VA",
       "datePosted": "08/14/2026"
-    },
-    {
-      "id": "88080157328",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "08/21/2026"
-    },
-    {
-      "id": "88080156704",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "08/21/2026"
     },
     {
       "id": "99543045936",
@@ -5396,12 +6020,6 @@
       "datePosted": "08/06/2026"
     },
     {
-      "id": "99516612848",
-      "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "08/20/2026"
-    },
-    {
       "id": "92064909216",
       "title": "Senior Software Engineer - Backend",
       "location": "Mexico City, Mexico City",
@@ -5438,12 +6056,6 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "90567703184",
-      "title": "Sr. Distinguished Engineer",
-      "location": "McLean, VA",
-      "datePosted": "01/13/2026"
-    },
-    {
       "id": "99500036240",
       "title": "Lead Software Engineer, Back End",
       "location": "Plano, TX",
@@ -5456,27 +6068,9 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "99498713984",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "08/20/2026"
-    },
-    {
       "id": "99462922752",
       "title": "Sr. Associate, Project Management - Partnerships (Hybrid)",
       "location": "Richmond, VA",
-      "datePosted": "08/20/2026"
-    },
-    {
-      "id": "92195849728",
-      "title": "Applied Researcher II (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "08/20/2026"
-    },
-    {
-      "id": "99498713712",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services: Distributed Systems)",
-      "location": "Cambridge, MA",
       "datePosted": "08/20/2026"
     },
     {
@@ -5489,12 +6083,6 @@
       "id": "99498713536",
       "title": "Senior Product Manager - Card Partnerships",
       "location": "Chicago, IL",
-      "datePosted": "08/20/2026"
-    },
-    {
-      "id": "99498713488",
-      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
-      "location": "New York, NY",
       "datePosted": "08/20/2026"
     },
     {
@@ -5586,12 +6174,6 @@
       "title": "Senior Associate, Enterprise Valuation Group (EVG)",
       "location": "Chicago, IL",
       "datePosted": "08/11/2026"
-    },
-    {
-      "id": "99462922336",
-      "title": "Sr. Lead AI Engineer (AI Foundations)",
-      "location": "San Jose, CA",
-      "datePosted": "08/19/2026"
     },
     {
       "id": "95667300864",
@@ -5768,12 +6350,6 @@
       "datePosted": "08/18/2026"
     },
     {
-      "id": "97982748752",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "07/18/2026"
-    },
-    {
       "id": "94298042864",
       "title": "Lead Software Engineer, Full Stack",
       "location": "Richmond, VA",
@@ -5945,12 +6521,6 @@
       "id": "99354650448",
       "title": "Senior Manager, Tech Recruiting",
       "location": "McLean, VA",
-      "datePosted": "08/17/2026"
-    },
-    {
-      "id": "99354650272",
-      "title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
       "datePosted": "08/17/2026"
     },
     {
@@ -6146,12 +6716,6 @@
       "datePosted": "08/14/2026"
     },
     {
-      "id": "99216129392",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Plano, TX",
-      "datePosted": "08/14/2026"
-    },
-    {
       "id": "99216129344",
       "title": "Sr Manager, Wage & Hour Compliance and Risk",
       "location": "McLean, VA",
@@ -6257,12 +6821,6 @@
       "id": "99173227520",
       "title": "Lead Software Engineer, DevOps",
       "location": "Richmond, VA",
-      "datePosted": "08/13/2026"
-    },
-    {
-      "id": "99173227440",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
       "datePosted": "08/13/2026"
     },
     {
@@ -6468,12 +7026,6 @@
       "title": "Senior Associate, Governance, Valuations, & Innovation",
       "location": "McLean, VA",
       "datePosted": "07/16/2026"
-    },
-    {
-      "id": "99120455632",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "08/12/2026"
     },
     {
       "id": "99120455520",
@@ -6860,12 +7412,6 @@
       "datePosted": "08/10/2026"
     },
     {
-      "id": "99029111904",
-      "title": "Senior Lead AI Engineer - (Gen AI Platform Services, Agentic AI)",
-      "location": "McLean, VA",
-      "datePosted": "08/10/2026"
-    },
-    {
       "id": "99029111840",
       "title": "Senior Manager, Product Manager- Global Payment Network",
       "location": "McLean, VA",
@@ -6972,450 +7518,6 @@
       "title": "Lead Software Engineer, Full Stack (Enterprise Platforms Technology)",
       "location": "Plano, TX",
       "datePosted": "07/23/2026"
-    },
-    {
-      "id": "91053153680",
-      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "McLean, VA",
-      "datePosted": "08/03/2026"
-    },
-    {
-      "id": "97201957872",
-      "title": "Lead AI Engineer",
-      "location": "McLean, VA",
-      "datePosted": "08/03/2026"
-    },
-    {
-      "id": "98486192016",
-      "title": "Senior Lead AI Engineer (MLXT)",
-      "location": "McLean, VA",
-      "datePosted": "07/29/2026"
-    },
-    {
-      "id": "96786788352",
-      "title": "Senior Lead AI Engineer (GenAI Platform, Agentic Infrastructure)",
-      "location": "New York, NY",
-      "datePosted": "07/29/2026"
-    },
-    {
-      "id": "98436292208",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "McLean, VA",
-      "datePosted": "07/28/2026"
-    },
-    {
-      "id": "96846031728",
-      "title": "Distinguished AI Engineer - Agentic AI Platform (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "06/23/2026"
-    },
-    {
-      "id": "94298043968",
-      "title": "Senior Director, Applied Research",
-      "location": "San Francisco, CA",
-      "datePosted": "07/27/2026"
-    },
-    {
-      "id": "98251329600",
-      "title": "Sr. Lead AI Engineer (GenAI Platform)",
-      "location": "San Jose, CA",
-      "datePosted": "07/24/2026"
-    },
-    {
-      "id": "93177762736",
-      "title": "Lead AI Engineer (MLX)",
-      "location": "New York, NY",
-      "datePosted": "03/25/2026"
-    },
-    {
-      "id": "92348739088",
-      "title": "Applied Researcher II (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "03/03/2026"
-    },
-    {
-      "id": "91904716160",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "07/24/2026"
-    },
-    {
-      "id": "98197008272",
-      "title": "Applied Researcher II",
-      "location": "San Jose, CA",
-      "datePosted": "07/23/2026"
-    },
-    {
-      "id": "92348739136",
-      "title": "Applied Researcher I (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "03/03/2026"
-    },
-    {
-      "id": "88015279248",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "11/03/2025"
-    },
-    {
-      "id": "87914721168",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "10/31/2025"
-    },
-    {
-      "id": "93138394688",
-      "title": "Applied Researcher II",
-      "location": "New York, NY",
-      "datePosted": "03/24/2026"
-    },
-    {
-      "id": "98137566240",
-      "title": "Senior Director, AI Engineering -Agentic AI Platform(Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "07/22/2026"
-    },
-    {
-      "id": "98137565920",
-      "title": "Sr. Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "07/22/2026"
-    },
-    {
-      "id": "93138394976",
-      "title": "Applied Researcher I",
-      "location": "New York, NY",
-      "datePosted": "03/24/2026"
-    },
-    {
-      "id": "98113847904",
-      "title": "Applied Researcher I",
-      "location": "San Jose, CA",
-      "datePosted": "07/21/2026"
-    },
-    {
-      "id": "98097296880",
-      "title": "Senior Lead AI Engineer (SDK's: Gen AI Evaluation and MCP)",
-      "location": "McLean, VA",
-      "datePosted": "07/21/2026"
-    },
-    {
-      "id": "93482740288",
-      "title": "Lead AI Engineer (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "04/02/2026"
-    },
-    {
-      "id": "95091807248",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "05/14/2026"
-    },
-    {
-      "id": "97721160432",
-      "title": "Senior Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "McLean, VA",
-      "datePosted": "07/12/2026"
-    },
-    {
-      "id": "93482740720",
-      "title": "Sr. Lead AI Engineer (AI Foundations)",
-      "location": "New York, NY",
-      "datePosted": "04/02/2026"
-    },
-    {
-      "id": "95091807360",
-      "title": "Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "05/14/2026"
-    },
-    {
-      "id": "97936013664",
-      "title": "Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)",
-      "location": "McLean, VA",
-      "datePosted": "07/17/2026"
-    },
-    {
-      "id": "96890760608",
-      "title": "Senior. Distinguished AI Engineer - Agentic AI Platform (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "06/24/2026"
-    },
-    {
-      "id": "97627387888",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "07/10/2026"
-    },
-    {
-      "id": "97237807680",
-      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "07/02/2026"
-    },
-    {
-      "id": "97191343504",
-      "title": "Sr. Distinguished AI Engineer (Remote Eligible)",
-      "location": "San Francisco, CA",
-      "datePosted": "07/01/2026"
-    },
-    {
-      "id": "96359806720",
-      "title": "Senior Lead AI Engineer (GenAI Platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "06/12/2026"
-    },
-    {
-      "id": "94828675648",
-      "title": "Lead AI Engineer (AI Foundations, LLM Customization and Finetuning)",
-      "location": "Cambridge, MA",
-      "datePosted": "05/07/2026"
-    },
-    {
-      "id": "93118130192",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "New York, NY",
-      "datePosted": "03/23/2026"
-    },
-    {
-      "id": "92130106464",
-      "title": "Senior Lead AI Engineer,(MLX, Agentic AI, Gen AI platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "02/25/2026"
-    },
-    {
-      "id": "90589088672",
-      "title": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)",
-      "location": "New York, NY",
-      "datePosted": "06/09/2026"
-    },
-    {
-      "id": "96216662208",
-      "title": "Lead AI Engineer (Vision model customization, VLM)",
-      "location": "New York, NY",
-      "datePosted": "06/09/2026"
-    },
-    {
-      "id": "95939085792",
-      "title": "Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)",
-      "location": "San Jose, CA",
-      "datePosted": "06/03/2026"
-    },
-    {
-      "id": "95869625376",
-      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "06/01/2026"
-    },
-    {
-      "id": "95869625152",
-      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "06/01/2026"
-    },
-    {
-      "id": "95722186608",
-      "title": "Lead AI Engineer (GenAI Platform, AI Foundations, LLM Core and Agentic AI)",
-      "location": "McLean, VA",
-      "datePosted": "05/29/2026"
-    },
-    {
-      "id": "94848949888",
-      "title": "Senior Lead AI Engineer",
-      "location": "San Jose, CA",
-      "datePosted": "05/08/2026"
-    },
-    {
-      "id": "94982107088",
-      "title": "Sr. Lead AI Engineer (GenAI Platform)",
-      "location": "San Jose, CA",
-      "datePosted": "05/11/2026"
-    },
-    {
-      "id": "94779281216",
-      "title": "Lead AI/ML Engineer (Platform, kubeflow)",
-      "location": "San Jose, CA",
-      "datePosted": "05/06/2026"
-    },
-    {
-      "id": "94534914784",
-      "title": "Applied Researcher I",
-      "location": "New York, NY",
-      "datePosted": "04/29/2026"
-    },
-    {
-      "id": "94298044288",
-      "title": "Applied Researcher II",
-      "location": "New York, NY",
-      "datePosted": "04/23/2026"
-    },
-    {
-      "id": "94268142208",
-      "title": "Senior Lead AI Engineer",
-      "location": "New York, NY",
-      "datePosted": "04/22/2026"
-    },
-    {
-      "id": "94268141936",
-      "title": "Lead AI Engineer",
-      "location": "New York, NY",
-      "datePosted": "04/22/2026"
-    },
-    {
-      "id": "93138394800",
-      "title": "Lead AI Engineer ( MLX, Gen AI Platform Services, Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "03/24/2026"
-    },
-    {
-      "id": "93698172720",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "04/07/2026"
-    },
-    {
-      "id": "92217063744",
-      "title": "Sr. Lead AI Engineer (Gen AI Platform Services)",
-      "location": "San Jose, CA",
-      "datePosted": "02/27/2026"
-    },
-    {
-      "id": "93665155376",
-      "title": "Senior Lead AI Engineer (Gen AI Platform Services, Agentic AI)",
-      "location": "Cambridge, MA",
-      "datePosted": "04/06/2026"
-    },
-    {
-      "id": "93501459392",
-      "title": "Senior Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "04/02/2026"
-    },
-    {
-      "id": "93501459360",
-      "title": "Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)",
-      "location": "McLean, VA",
-      "datePosted": "04/02/2026"
-    },
-    {
-      "id": "92627124256",
-      "title": "Applied Researcher I",
-      "location": "McLean, VA",
-      "datePosted": "03/10/2026"
-    },
-    {
-      "id": "92474028032",
-      "title": "Applied Researcher II (AI Foundations)",
-      "location": "San Jose, CA",
-      "datePosted": "03/06/2026"
-    },
-    {
-      "id": "92219156768",
-      "title": "Lead AI Engineer",
-      "location": "San Jose, CA",
-      "datePosted": "02/27/2026"
-    },
-    {
-      "id": "92168538672",
-      "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92168538528",
-      "title": "Applied Researcher I",
-      "location": "New York, NY",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92168538464",
-      "title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92168538416",
-      "title": "Applied Researcher II",
-      "location": "McLean, VA",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92168538400",
-      "title": "Applied Researcher I (AI Foundations)",
-      "location": "San Jose, CA",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92168538208",
-      "title": "Applied Researcher II",
-      "location": "McLean, VA",
-      "datePosted": "02/26/2026"
-    },
-    {
-      "id": "92067548992",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "02/23/2026"
-    },
-    {
-      "id": "88175972992",
-      "title": "Senior Lead AI Engineer (FM Hosting)",
-      "location": "New York, NY",
-      "datePosted": "11/07/2025"
-    },
-    {
-      "id": "87905567072",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "Cambridge, MA",
-      "datePosted": "10/31/2025"
-    },
-    {
-      "id": "91350494320",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "San Jose, CA",
-      "datePosted": "02/03/2026"
-    },
-    {
-      "id": "89198368640",
-      "title": "Sr. Lead AI Engineer",
-      "location": "McLean, VA",
-      "datePosted": "12/05/2025"
-    },
-    {
-      "id": "87905566864",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "10/31/2025"
-    },
-    {
-      "id": "91350493856",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "Cambridge, MA",
-      "datePosted": "02/03/2026"
-    },
-    {
-      "id": "90965409648",
-      "title": "Lead AI Engineer (FM Hosting, LLM Inference)",
-      "location": "New York, NY",
-      "datePosted": "01/23/2026"
-    },
-    {
-      "id": "87914720832",
-      "title": "Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "10/31/2025"
-    },
-    {
-      "id": "87914721088",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "01/15/2026"
-    },
-    {
-      "id": "88043855808",
-      "title": "Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)",
-      "location": "New York, NY",
-      "datePosted": "11/04/2025"
     },
     {
       "id": "98891971024",
@@ -7656,12 +7758,6 @@
       "title": "Senior Associate, Data Scientist -  Business Cards Marketing Data Science",
       "location": "New York, NY",
       "datePosted": "08/05/2026"
-    },
-    {
-      "id": "94042209776",
-      "title": "Lead Machine Learning Engineer",
-      "location": "New York, NY",
-      "datePosted": "04/16/2026"
     },
     {
       "id": "98801815216",
@@ -8066,12 +8162,6 @@
       "datePosted": "07/30/2026"
     },
     {
-      "id": "96184839808",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Cambridge, MA",
-      "datePosted": "06/08/2026"
-    },
-    {
       "id": "97847092896",
       "title": "Lead Software Engineer, Full stack",
       "location": "McLean, VA",
@@ -8250,12 +8340,6 @@
       "title": "Lead Data Engineer (Java, Python, AWS)",
       "location": "Plano, TX",
       "datePosted": "06/02/2026"
-    },
-    {
-      "id": "96821031184",
-      "title": "Sr Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "06/23/2026"
     },
     {
       "id": "98424204224",
@@ -8672,12 +8756,6 @@
       "datePosted": "07/24/2026"
     },
     {
-      "id": "98233422256",
-      "title": "Sr. Lead Machine Learning Engineer (IC)",
-      "location": "McLean, VA",
-      "datePosted": "07/24/2026"
-    },
-    {
       "id": "98233422048",
       "title": "Distinguished Engineer (Message Delivery & Dispatch)",
       "location": "McLean, VA",
@@ -8706,12 +8784,6 @@
       "title": "Director, Technical Program Management",
       "location": "McLean, VA",
       "datePosted": "07/23/2026"
-    },
-    {
-      "id": "94779280784",
-      "title": "Senior Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "05/06/2026"
     },
     {
       "id": "98197007904",
@@ -8894,12 +8966,6 @@
       "datePosted": "07/21/2026"
     },
     {
-      "id": "98106882672",
-      "title": "Sr. Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "07/21/2026"
-    },
-    {
       "id": "98106882448",
       "title": "Senior Lead Software Engineer, Full Stack (Cyber)",
       "location": "McLean, VA",
@@ -9062,12 +9128,6 @@
       "datePosted": "07/20/2026"
     },
     {
-      "id": "96173809296",
-      "title": "Lead Machine Learning Engineer (Manager IC)",
-      "location": "Cambridge, MA",
-      "datePosted": "06/08/2026"
-    },
-    {
       "id": "98052317792",
       "title": "Manager, Product Management - Enterprise Document Management Platform",
       "location": "McLean, VA",
@@ -9197,12 +9257,6 @@
       "id": "97793796912",
       "title": "Senior Product Manager, Flights Inventory",
       "location": "New York, NY",
-      "datePosted": "07/15/2026"
-    },
-    {
-      "id": "97837229792",
-      "title": "Senior Lead Machine Learning Engineer",
-      "location": "McLean, VA",
       "datePosted": "07/15/2026"
     },
     {
@@ -9650,12 +9704,6 @@
       "datePosted": "07/08/2026"
     },
     {
-      "id": "97520528384",
-      "title": "Lead Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "datePosted": "07/08/2026"
-    },
-    {
       "id": "97251985968",
       "title": "Lead Software Engineer (Full Stack) - Intelligent Foundations and Experiences (IFX)",
       "location": "Richmond, VA",
@@ -9671,12 +9719,6 @@
       "id": "91957579552",
       "title": "Senior Associate, Quantitative Analyst - Commercial Credit Modeling Team",
       "location": "McLean, VA",
-      "datePosted": "07/07/2026"
-    },
-    {
-      "id": "97491496256",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Plano, TX",
       "datePosted": "07/07/2026"
     },
     {
@@ -9754,12 +9796,6 @@
     {
       "id": "97201958208",
       "title": "Sr. Business Analyst, Premium Products",
-      "location": "McLean, VA",
-      "datePosted": "07/01/2026"
-    },
-    {
-      "id": "97201958176",
-      "title": "Sr. Lead Machine Learning Engineer",
       "location": "McLean, VA",
       "datePosted": "07/01/2026"
     },
@@ -10166,21 +10202,9 @@
       "datePosted": "06/12/2026"
     },
     {
-      "id": "96359807552",
-      "title": "Sr. Lead Machine Learning Engineer",
-      "location": "New York, NY",
-      "datePosted": "06/12/2026"
-    },
-    {
       "id": "96359807392",
       "title": "Full Time Branch Ambassador - Baton Rouge Area",
       "location": "Baton Rouge, LA",
-      "datePosted": "06/12/2026"
-    },
-    {
-      "id": "96359807344",
-      "title": "Sr. Lead Machine Learning Engineer",
-      "location": "New York, NY",
       "datePosted": "06/12/2026"
     },
     {
@@ -10259,18 +10283,6 @@
       "id": "96262041264",
       "title": "Part Time Branch Ambassador Bronx Area",
       "location": "White Plains, NY",
-      "datePosted": "06/10/2026"
-    },
-    {
-      "id": "96250438272",
-      "title": "Sr. Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "datePosted": "06/10/2026"
-    },
-    {
-      "id": "96250438048",
-      "title": "Sr. Lead Machine Learning Engineer",
-      "location": "McLean, VA",
       "datePosted": "06/10/2026"
     },
     {
@@ -10380,12 +10392,6 @@
       "title": "Sr. Director, Technical Program Management (Associate Experience Tech)",
       "location": "Richmond, VA",
       "datePosted": "06/01/2026"
-    },
-    {
-      "id": "93265680560",
-      "title": "Senior Manager, Machine Learning Engineering",
-      "location": "McLean, VA",
-      "datePosted": "03/27/2026"
     },
     {
       "id": "95685658496",
@@ -10512,12 +10518,6 @@
       "title": "Sr. Distinguished Engineer, Front End (Angular)",
       "location": "New York, NY",
       "datePosted": "05/16/2026"
-    },
-    {
-      "id": "95133423520",
-      "title": "Lead Software Engineer, Back End (Java, AWS) (Enterprise Platforms Technology)",
-      "location": "McLean, VA",
-      "datePosted": "05/15/2026"
     },
     {
       "id": "95124047008",
@@ -10728,12 +10728,6 @@
       "title": "Senior Business Banker - Greater DC/Northern VA Market",
       "location": "McLean, VA",
       "datePosted": "04/14/2026"
-    },
-    {
-      "id": "93736800944",
-      "title": "Lead Machine Learning Engineer (Enterprise Platforms Technology)",
-      "location": "New York, NY",
-      "datePosted": "04/08/2026"
     },
     {
       "id": "93234357456",

@@ -11,7 +11,22 @@ interface Job {
 
 const { scrapedAt, jobs } = jobsData as unknown as { scrapedAt: string; jobs: Job[] }
 
-const locations = [...new Set(jobs.map((j) => j.location))].sort()
+const locations = [...new Set(jobs.map((j) => j.location))]
+
+// Sort by state first, then city
+locations.sort((a,b) => {
+  const aStrings = a.split(",");
+  const bStrings = b.split(",");
+
+  const aCity = aStrings[0].trim();
+  const bCity = bStrings[0].trim();
+
+  const aState = aStrings[aStrings.length - 1].trim();
+  const bState = bStrings[bStrings.length - 1].trim();
+
+  return aState.localeCompare(bState) || aCity.localeCompare(bCity)
+});
+
 const EXCLUDE_KEYWORDS = ['senior', 'lead', 'director', 'manager'] as const
 
 function App() {

@@ -1,6 +1,48 @@
 {
-  "scrapedAt": "2026-09-26T15:54:30.424Z",
+  "scrapedAt": "2026-09-27T16:30:12.342Z",
   "jobs": [
+    {
+      "id": "98765606880",
+      "title": "Senior Associate, Product Manager-Small Business Bank",
+      "location": "New York, NY",
+      "datePosted": "09/03/2026"
+    },
+    {
+      "id": "100626351488",
+      "title": "Manager, Product Manager-Small Business Bank",
+      "location": "Richmond, VA",
+      "datePosted": "09/14/2026"
+    },
+    {
+      "id": "101042091392",
+      "title": "Network Engineer 5",
+      "location": "Plano, TX",
+      "datePosted": "09/23/2026"
+    },
+    {
+      "id": "101180891952",
+      "title": "Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "location": "New York, NY",
+      "datePosted": "09/26/2026"
+    },
+    {
+      "id": "101180891936",
+      "title": "Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "location": "New York, NY",
+      "datePosted": "09/26/2026"
+    },
+    {
+      "id": "101180891920",
+      "title": "Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology)",
+      "location": "New York, NY",
+      "datePosted": "09/26/2026"
+    },
+    {
+      "id": "101126479840",
+      "title": "Senior Director, Tax Accounting (Remote- Eligible)",
+      "location": "McLean, VA",
+      "datePosted": "09/25/2026"
+    },
     {
       "id": "101152228352",
       "title": "Full Stack Engineer 4",
@@ -515,12 +557,6 @@
       "id": "101126479856",
       "title": "Integration Engineer 3 - Application Control",
       "location": "Plano, TX",
-      "datePosted": "09/25/2026"
-    },
-    {
-      "id": "101126479840",
-      "title": "Senior Director, Tax Accounting (Remote- Eligible)",
-      "location": "McLean, VA",
       "datePosted": "09/25/2026"
     },
     {
@@ -1688,12 +1724,6 @@
       "datePosted": "09/23/2026"
     },
     {
-      "id": "98765606880",
-      "title": "Senior Associate, Product Manager-Small Business Bank",
-      "location": "New York, NY",
-      "datePosted": "09/03/2026"
-    },
-    {
       "id": "101042091520",
       "title": "Full-stack Engineer 4",
       "location": "Chicago, IL",
@@ -1712,12 +1742,6 @@
       "datePosted": "09/23/2026"
     },
     {
-      "id": "100626351488",
-      "title": "Manager, Product Manager-Small Business Bank",
-      "location": "Richmond, VA",
-      "datePosted": "09/14/2026"
-    },
-    {
       "id": "101042091456",
       "title": "Principal Associate Campaign Project Manager | Retail Bank",
       "location": "McLean, VA",
@@ -1733,12 +1757,6 @@
       "id": "101042091424",
       "title": "Principal Associate, Financial Analysis - GPN",
       "location": "McLean, VA",
-      "datePosted": "09/23/2026"
-    },
-    {
-      "id": "101042091392",
-      "title": "Network Engineer 5",
-      "location": "Plano, TX",
       "datePosted": "09/23/2026"
     },
     {
@@ -6626,12 +6644,6 @@
       "datePosted": "09/10/2026"
     },
     {
-      "id": "97925521936",
-      "title": "Director, Enterprise Risk Management Issues & Events",
-      "location": "McLean, VA",
-      "datePosted": "09/12/2026"
-    },
-    {
       "id": "99731263520",
       "title": "Staff Engineer",
       "location": "McLean, VA",
@@ -10146,12 +10158,6 @@
       "title": "Senior Administrative Assistant (Administrative Support Assistant III) - AI Foundations",
       "location": "New York, NY",
       "datePosted": "05/19/2026"
-    },
-    {
-      "id": "95257941904",
-      "title": "Lead Counsel- Capital One Shopping",
-      "location": "McLean, VA",
-      "datePosted": "05/18/2026"
     },
     {
       "id": "95066504944",

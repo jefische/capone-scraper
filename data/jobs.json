@@ -1,6 +1,90 @@
 {
-  "scrapedAt": "2026-10-11T17:25:01.808Z",
+  "scrapedAt": "2026-10-12T20:58:17.375Z",
   "jobs": [
+    {
+      "id": "99086803328",
+      "title": "Manager, Product Management - Anti Money Laundering Investigations",
+      "location": "Richmond, VA",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "98469710432",
+      "title": "Business Analysis Manager - Retail and Small Business Bank Orgs",
+      "location": "McLean, VA",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "101869908752",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC)",
+      "location": "McLean, VA",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "99761825792",
+      "title": "Senior Manager,  Risk Data Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "08/26/2026"
+    },
+    {
+      "id": "99752512576",
+      "title": "Senior Director, Product Management",
+      "location": "McLean, VA",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "97615798096",
+      "title": "Manager, Risk Data Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "07/10/2026"
+    },
+    {
+      "id": "101861288784",
+      "title": "Principal Associate, Business Analysis",
+      "location": "Bengaluru, Karnataka",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "96030558928",
+      "title": "Principal Risk Specialist, Control Testing",
+      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
+      "datePosted": "10/12/2026"
+    },
+    {
+      "id": "101840066400",
+      "title": "Full-stack Engineer 4 (Mainframe Systems & z/OS Systems) (Cloud Operations Resilience Engineering)",
+      "location": "Riverwoods, IL",
+      "datePosted": "10/11/2026"
+    },
+    {
+      "id": "100769327088",
+      "title": "Senior Manager, Product Manager, Customer Restrictions-Product Manager",
+      "location": "McLean, VA",
+      "datePosted": "09/17/2026"
+    },
+    {
+      "id": "97783205344",
+      "title": "Manager, Product Manager-Small Business Bank Digital Servicing",
+      "location": "New York, NY",
+      "datePosted": "07/14/2026"
+    },
+    {
+      "id": "101405879712",
+      "title": "Senior Manager, Product Manager-Data Analysis & Governance",
+      "location": "New York, NY",
+      "datePosted": "10/01/2026"
+    },
+    {
+      "id": "101089241440",
+      "title": "Manager, Product Manager, Customer Restrictions",
+      "location": "McLean, VA",
+      "datePosted": "09/24/2026"
+    },
+    {
+      "id": "100950228752",
+      "title": "Full-stack Engineer 5",
+      "location": "McLean, VA",
+      "datePosted": "09/21/2026"
+    },
     {
       "id": "101237316016",
       "title": "Full-stack Engineer 4",
@@ -474,12 +558,6 @@
       "title": "Sr Manager, Product Management",
       "location": "McLean, VA",
       "datePosted": "10/08/2026"
-    },
-    {
-      "id": "101405879712",
-      "title": "Senior Manager, Product Manager-Data Analysis & Governance",
-      "location": "New York, NY",
-      "datePosted": "10/01/2026"
     },
     {
       "id": "101715988960",
@@ -1262,18 +1340,6 @@
       "datePosted": "10/01/2026"
     },
     {
-      "id": "97783205344",
-      "title": "Manager, Product Manager-Small Business Bank Digital Servicing",
-      "location": "New York, NY",
-      "datePosted": "07/14/2026"
-    },
-    {
-      "id": "101089241440",
-      "title": "Manager, Product Manager, Customer Restrictions",
-      "location": "McLean, VA",
-      "datePosted": "09/24/2026"
-    },
-    {
       "id": "101633008704",
       "title": "Data Engineer 4 - Intelligent Foundations and Experiences (IFX)",
       "location": "Richmond, VA",
@@ -1858,12 +1924,6 @@
     {
       "id": "100802977520",
       "title": "Sr. Director Product Management",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "10/06/2026"
-    },
-    {
-      "id": "97771349568",
-      "title": "Admin Assistant",
       "location": "Bengaluru, Karnataka",
       "datePosted": "10/06/2026"
     },
@@ -3500,12 +3560,6 @@
       "datePosted": "09/25/2026"
     },
     {
-      "id": "100871864512",
-      "title": "Full-stack Engineer 4 (Manager, IC)",
-      "location": "Richmond, VA",
-      "datePosted": "09/19/2026"
-    },
-    {
       "id": "101148509216",
       "title": "Full-stack Engineer 4",
       "location": "McLean, VA",
@@ -4922,12 +4976,6 @@
       "datePosted": "09/21/2026"
     },
     {
-      "id": "100950228752",
-      "title": "Full-stack Engineer 5",
-      "location": "McLean, VA",
-      "datePosted": "09/21/2026"
-    },
-    {
       "id": "100950228592",
       "title": "Staff Full-stack Engineer",
       "location": "Riverwoods, IL",
@@ -5436,12 +5484,6 @@
       "title": "Manager, Product Manager-Small Business Bank",
       "location": "Richmond, VA",
       "datePosted": "09/14/2026"
-    },
-    {
-      "id": "99951089216",
-      "title": "Senior Manager, Product Manager-Retail Bank Platform Enablement",
-      "location": "New York, NY",
-      "datePosted": "08/30/2026"
     },
     {
       "id": "98765606880",
@@ -7922,12 +7964,6 @@
       "datePosted": "08/28/2025"
     },
     {
-      "id": "100769327088",
-      "title": "Senior Manager, Product Manager, Customer Restrictions-Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "09/17/2026"
-    },
-    {
       "id": "100769327024",
       "title": "Senior Manager, Product Design",
       "location": "New York, NY",
@@ -9386,12 +9422,6 @@
       "datePosted": "08/18/2026"
     },
     {
-      "id": "99761825792",
-      "title": "Senior Manager,  Risk Data Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "08/26/2026"
-    },
-    {
       "id": "100083510160",
       "title": "Principal Associate, Operational Risk Management, Third Party Risk Manager (TPRM)",
       "location": "Richmond, VA",
@@ -10680,12 +10710,6 @@
       "title": "Senior Manager, Product Management: Capital One Shopping (Remote-Eligible)",
       "location": "McLean, VA",
       "datePosted": "07/09/2026"
-    },
-    {
-      "id": "97615798096",
-      "title": "Manager, Risk Data Product Manager",
-      "location": "McLean, VA",
-      "datePosted": "07/10/2026"
     },
     {
       "id": "97570473488",

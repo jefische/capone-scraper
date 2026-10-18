@@ -1,6 +1,12 @@
 {
-  "scrapedAt": "2026-10-17T15:03:09.094Z",
+  "scrapedAt": "2026-10-18T15:27:49.750Z",
   "jobs": [
+    {
+      "id": "102083563792",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC)",
+      "location": "McLean, VA",
+      "datePosted": "10/17/2026"
+    },
     {
       "id": "102074733280",
       "title": "Senior Manager, Risk Management - International and Access Risk",
@@ -1640,12 +1646,6 @@
       "datePosted": "10/09/2026"
     },
     {
-      "id": "101748776048",
-      "title": "Sr Associate, Business Analyst",
-      "location": "McLean, VA",
-      "datePosted": "10/09/2026"
-    },
-    {
       "id": "101748776000",
       "title": "Café Ambassador- Delray Beach - Part Time",
       "location": "Delray Beach, FL",
@@ -2990,34 +2990,10 @@
       "datePosted": "07/09/2026"
     },
     {
-      "id": "101024481376",
-      "title": "Senior Manager, Associate Relations",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "10/06/2026"
-    },
-    {
-      "id": "100287040480",
-      "title": "Director - HR Operations and Risk",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "10/06/2026"
-    },
-    {
-      "id": "100287040240",
-      "title": "Director, HR Business Partner",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "10/06/2026"
-    },
-    {
       "id": "97576313600",
       "title": "Manager, Product Management - AI/ML",
       "location": "McLean, VA",
       "datePosted": "08/07/2026"
-    },
-    {
-      "id": "100287040320",
-      "title": "Senior Manager, HRBP",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "10/06/2026"
     },
     {
       "id": "101589396016",
@@ -8735,12 +8711,6 @@
       "id": "100757836048",
       "title": "Compliance Advisor Senior Manager",
       "location": "McLean, VA",
-      "datePosted": "09/17/2026"
-    },
-    {
-      "id": "100757835232",
-      "title": "Senior Manager - Retail Learning and Development",
-      "location": "Richmond, VA",
       "datePosted": "09/17/2026"
     },
     {

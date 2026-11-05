@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-05T00:46:25.625Z",
+  "scrapedAt": "2026-11-05T01:04:06.299Z",
   "jobs": [
     {
       "id": "446721826862",
@@ -74,6 +74,12 @@
       "datePosted": "10/30/2026"
     },
     {
+      "id": "446721912919",
+      "title": "Part Time Field Researcher - Zonda - Buckeye, AZ",
+      "location": "Remote, AZ",
+      "datePosted": "10/29/2026"
+    },
+    {
       "id": "446721912917",
       "title": "Part Time Field Researcher - Zonda - Prescott, AZ",
       "location": "Remote, AZ",
@@ -95,12 +101,6 @@
       "id": "446721862305",
       "title": "Associate Research Consultant",
       "location": "Richmond, VA",
-      "datePosted": "10/29/2026"
-    },
-    {
-      "id": "446721912919",
-      "title": "Part Time Field Researcher - Zonda - Buckeye, AZ",
-      "location": "Remote, AZ",
       "datePosted": "10/29/2026"
     },
     {
@@ -152,6 +152,12 @@
       "datePosted": "10/21/2026"
     },
     {
+      "id": "446721691225",
+      "title": "Senior Sales Associate-Homes.com, Inside Sales",
+      "location": "Richmond, VA",
+      "datePosted": "10/20/2026"
+    },
+    {
       "id": "446721648772",
       "title": "Senior Data Engineer - Apartments.com",
       "location": "Irvine, CA",
@@ -167,12 +173,6 @@
       "id": "446721663437",
       "title": "Senior Software Engineer",
       "location": "San Diego, CA",
-      "datePosted": "10/20/2026"
-    },
-    {
-      "id": "446721691225",
-      "title": "Senior Sales Associate-Homes.com, Inside Sales",
-      "location": "Richmond, VA",
       "datePosted": "10/20/2026"
     },
     {
@@ -242,6 +242,12 @@
       "datePosted": "10/14/2026"
     },
     {
+      "id": "446721577709",
+      "title": "Director of Business Development, Listings/Digital Solutions - Zonda - Houston, TX",
+      "location": "Houston, TX",
+      "datePosted": "10/13/2026"
+    },
+    {
       "id": "446721552409",
       "title": "Senior Associate Technical Project Manager, CoStar Real Estate Manager - Atlanta, GA",
       "location": "Atlanta, GA",
@@ -272,22 +278,10 @@
       "datePosted": "10/13/2026"
     },
     {
-      "id": "446721577709",
-      "title": "Director of Business Development, Listings/Digital Solutions - Zonda - Houston, TX",
-      "location": "Houston, TX",
-      "datePosted": "10/13/2026"
-    },
-    {
       "id": "446721555480",
       "title": "Content & Asset Marketing Specialist – Ten-X – Irvine, CA",
       "location": "Irvine, CA",
       "datePosted": "10/12/2026"
-    },
-    {
-      "id": "446721520876",
-      "title": "Debt Solutions - Lead Software Engineer",
-      "location": "San Diego, CA",
-      "datePosted": "10/09/2026"
     },
     {
       "id": "446721489749",
@@ -299,6 +293,12 @@
       "id": "446721522041",
       "title": "Account Executive, CoStar Data & Analytics - Dallas, TX",
       "location": "Dallas, TX",
+      "datePosted": "10/09/2026"
+    },
+    {
+      "id": "446721520876",
+      "title": "Debt Solutions - Lead Software Engineer",
+      "location": "San Diego, CA",
       "datePosted": "10/09/2026"
     },
     {
@@ -482,10 +482,10 @@
       "datePosted": "10/01/2026"
     },
     {
-      "id": "446721369336",
-      "title": "Account Executive, CoStar Data & Analytics – Charlotte, NC",
-      "location": "Charlotte, NC",
-      "datePosted": "10/01/2026"
+      "id": "446721359071",
+      "title": "Associate Photographer - Fort Wayne, IN",
+      "location": "Remote, IN",
+      "datePosted": "09/30/2026"
     },
     {
       "id": "446721359484",
@@ -498,90 +498,6 @@
       "title": "Director of Business Development, Building Products, Cincinnati OH",
       "location": "Cincinnati, OH",
       "datePosted": "09/30/2026"
-    },
-    {
-      "id": "446721359071",
-      "title": "Associate Photographer - Fort Wayne, IN",
-      "location": "Remote, IN",
-      "datePosted": "09/30/2026"
-    },
-    {
-      "id": "446721341474",
-      "title": "Sales Associate, Apartments.com - Columbus, OH",
-      "location": "Columbus, OH",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328539",
-      "title": "Sales Associate, Apartments.com - Portland, OR",
-      "location": "Portland, OR",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328865",
-      "title": "Regional Sales Director, Apartments.com - Boston, MA",
-      "location": "Boston, MA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721329174",
-      "title": "Regional Sales Director, Apartments.com - San Diego, CA",
-      "location": "San Diego, CA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721369342",
-      "title": "Sales Executive, Mid-Market - Real Estate Manager/Visual Lease - Century City, Irvine or San Diego",
-      "location": "Los Angeles, CA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328553",
-      "title": "Sales Associate, Apartments.com - Seattle, WA",
-      "location": "Seattle, WA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328917",
-      "title": "Sales Associate, Apartments.com - Washington D.C.",
-      "location": "Arlington, VA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721341448",
-      "title": "Sales Associate, Apartments.com - Cincinnati, OH",
-      "location": "Cincinnati, OH",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721342758",
-      "title": "Sales Associate, Apartments.com - Denver, CO",
-      "location": "Denver, CO",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328884",
-      "title": "Sales Associate, Apartments.com - Boston, MA",
-      "location": "Boston, MA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721329159",
-      "title": "Sales Associate, Apartments.com - Greater Inland Empire",
-      "location": "Ontario, CA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721329173",
-      "title": "Sales Associate, Apartments.com - Los Angeles, CA",
-      "location": "Los Angeles, CA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721329194",
-      "title": "Sales Associate, Apartments.com - Orange County, CA",
-      "location": "Irvine, CA",
-      "datePosted": "09/29/2026"
     },
     {
       "id": "446721328364",
@@ -620,6 +536,18 @@
       "datePosted": "09/29/2026"
     },
     {
+      "id": "446721328917",
+      "title": "Sales Associate, Apartments.com - Washington D.C.",
+      "location": "Arlington, VA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721342758",
+      "title": "Sales Associate, Apartments.com - Denver, CO",
+      "location": "Denver, CO",
+      "datePosted": "09/29/2026"
+    },
+    {
       "id": "446721346031",
       "title": "Sales Associate, Apartments.com - San Antonio, TX",
       "location": "San Antonio, TX",
@@ -644,9 +572,39 @@
       "datePosted": "09/29/2026"
     },
     {
+      "id": "446721328884",
+      "title": "Sales Associate, Apartments.com - Boston, MA",
+      "location": "Boston, MA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721329159",
+      "title": "Sales Associate, Apartments.com - Greater Inland Empire",
+      "location": "Ontario, CA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721329173",
+      "title": "Sales Associate, Apartments.com - Los Angeles, CA",
+      "location": "Los Angeles, CA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721329194",
+      "title": "Sales Associate, Apartments.com - Orange County, CA",
+      "location": "Irvine, CA",
+      "datePosted": "09/29/2026"
+    },
+    {
       "id": "446721328361",
       "title": "Sales Associate, Apartments.com - Dallas, TX",
       "location": "Dallas, TX",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721341448",
+      "title": "Sales Associate, Apartments.com - Cincinnati, OH",
+      "location": "Cincinnati, OH",
       "datePosted": "09/29/2026"
     },
     {
@@ -974,15 +932,15 @@
       "datePosted": "08/26/2026"
     },
     {
-      "id": "446720767706",
-      "title": "Lead Software Engineer, AI Automation",
-      "location": "Richmond, VA",
-      "datePosted": "08/24/2026"
-    },
-    {
       "id": "446720713338",
       "title": "Lead Financial Analyst (Commercial Real Estate) - Arlington, VA",
       "location": "Arlington, VA",
+      "datePosted": "08/24/2026"
+    },
+    {
+      "id": "446720767706",
+      "title": "Lead Software Engineer, AI Automation",
+      "location": "Richmond, VA",
       "datePosted": "08/24/2026"
     },
     {
@@ -1016,21 +974,15 @@
       "datePosted": "08/19/2026"
     },
     {
-      "id": "446720511919",
-      "title": "Associate Photographer- Tallahassee, FL",
-      "location": "Remote, FL",
+      "id": "446720512244",
+      "title": "Senior Sales Associate-Homes.com, Inside Sales",
+      "location": "Richmond, VA",
       "datePosted": "08/18/2026"
     },
     {
       "id": "446720563143",
       "title": "Senior Manager, Product Marketing - CoStar - Arlington, VA",
       "location": "Arlington, VA",
-      "datePosted": "08/18/2026"
-    },
-    {
-      "id": "446720512244",
-      "title": "Senior Sales Associate-Homes.com, Inside Sales",
-      "location": "Richmond, VA",
       "datePosted": "08/18/2026"
     },
     {
@@ -1604,12 +1556,6 @@
       "datePosted": "05/06/2026"
     },
     {
-      "id": "446718349940",
-      "title": "Homes.com Senior Field Sales Associate - Chicago, IL",
-      "location": "Chicago, IL",
-      "datePosted": "04/28/2026"
-    },
-    {
       "id": "446718349959",
       "title": "Homes.com Senior Field Sales Associate - Atlanta, GA",
       "location": "Atlanta, GA",
@@ -1619,6 +1565,12 @@
       "id": "446718349931",
       "title": "Homes.com Senior Field Sales Associate - Tampa, FL",
       "location": "Tampa, FL",
+      "datePosted": "04/28/2026"
+    },
+    {
+      "id": "446718349940",
+      "title": "Homes.com Senior Field Sales Associate - Chicago, IL",
+      "location": "Chicago, IL",
       "datePosted": "04/28/2026"
     },
     {
@@ -1928,18 +1880,6 @@
       "datePosted": "09/16/2026"
     },
     {
-      "id": "446721100971",
-      "title": "Associate Photographer",
-      "location": "Cremorne, Victoria, Australia",
-      "datePosted": "09/15/2026"
-    },
-    {
-      "id": "446721143162",
-      "title": "Senior Data Platform Engineer - Zonda - Toronto, Ontario",
-      "location": "Toronto, Ontario, Canada",
-      "datePosted": "09/15/2026"
-    },
-    {
       "id": "446721143161",
       "title": "Senior Data Quality Engineer - Zonda - Toronto, Ontario",
       "location": "Toronto, Ontario, Canada",
@@ -1948,6 +1888,18 @@
     {
       "id": "446721143163",
       "title": "Senior Data Engineer - Zonda - Toronto, Ontario",
+      "location": "Toronto, Ontario, Canada",
+      "datePosted": "09/15/2026"
+    },
+    {
+      "id": "446721100971",
+      "title": "Associate Photographer",
+      "location": "Cremorne, Victoria, Australia",
+      "datePosted": "09/15/2026"
+    },
+    {
+      "id": "446721143162",
+      "title": "Senior Data Platform Engineer - Zonda - Toronto, Ontario",
       "location": "Toronto, Ontario, Canada",
       "datePosted": "09/15/2026"
     },

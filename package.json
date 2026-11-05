@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "scrape": "tsx src/scraper.ts"
+    "scrape": "tsx src/scraper.ts",
+    "scrape:costar": "tsx src/costar-scraper.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0",

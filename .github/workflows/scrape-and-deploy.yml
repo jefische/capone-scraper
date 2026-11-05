@@ -38,11 +38,16 @@ jobs:
       - name: Scrape jobs
         run: pnpm scrape
 
+      # CoStar uses an unofficial Eightfold API — if it breaks, keep yesterday's data and still deploy
+      - name: Scrape CoStar jobs
+        run: pnpm scrape:costar
+        continue-on-error: true
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json
+          git add data/jobs.json data/costar-jobs.json
           git diff --cached --quiet || git commit -m "chore: update scraped jobs data"
           git push
 

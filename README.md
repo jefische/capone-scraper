@@ -16,6 +16,8 @@ I never typed the implementation myself. No filling in the tricky part, no "let 
 
 The point was to find out how far that can actually go, and how fast. The answer, so far: half an hour to a working end-to-end product — data collection, a deployed UI, and automated daily infrastructure — none of which I hand-wrote.
 
+**Adding a second company took 10 minutes.** I asked whether [CoStar's careers site](https://careers.costargroup.com/careers) could be scraped too. CoStar runs on a completely different platform (Eightfold), so it needed its own approach. Claude found Eightfold's JSON API, wrote a new scraper, moved the UI into a shared job board with a tab for each company, and added the new scrape to the daily workflow.
+
 ### What that looked like in practice
 
 - **Reverse-engineering the data source.** I didn't know what endpoint the careers site used. I described the goal, Claude found the results endpoint and worked out the query parameters and pagination.
@@ -31,7 +33,9 @@ Read the repo as an artifact of that process. Anything you'd critique in it is a
 
 **Scraper** ([src/scraper.ts](src/scraper.ts)) — Hits the Capital One careers results endpoint 100 records at a time, parses each page of HTML with Cheerio, and walks the pagination until it runs out. Rate-limited to one request every 1.5s. Writes `{ scrapedAt, jobs[] }` to [data/jobs.json](data/jobs.json) (~1,600 listings at last run).
 
-**Web app** ([src/App.tsx](src/App.tsx)) — Reads the scraped JSON at build time, so the site is fully static. Features:
+**CoStar scraper** ([src/costar-scraper.ts](src/costar-scraper.ts)) — CoStar's [careers site](https://careers.costargroup.com/careers) runs on Eightfold, which serves listings from a JSON API, so no HTML parsing is needed. Pages through 10 jobs per request (Eightfold's cap), normalizes US locations to `City, ST` to match the Capital One data, and writes [data/costar-jobs.json](data/costar-jobs.json).
+
+**Web app** ([src/App.tsx](src/App.tsx), [src/JobBoard.tsx](src/JobBoard.tsx)) — Reads the scraped JSON at build time, so the site is fully static. Capital One and CoStar each get a tab (`#capitalone` / `#costar`) sharing the same job board. Features:
 
 - Free-text search across title, location, and job ID
 - Multi-select location filter, sorted by state then city
@@ -39,7 +43,7 @@ Read the repo as an artifact of that process. Anything you'd critique in it is a
 - Sortable columns, with proper date parsing on Date Posted
 - Direct links to each posting
 
-**Automation** ([.github/workflows/scrape-and-deploy.yml](.github/workflows/scrape-and-deploy.yml)) — Daily at 12:00 UTC (and on manual dispatch): scrape → commit the updated data → build → deploy to GitHub Pages. The `chore: update scraped jobs data` commits in the history are the bot.
+**Automation** ([.github/workflows/scrape-and-deploy.yml](.github/workflows/scrape-and-deploy.yml)) — Daily at 12:00 UTC (and on manual dispatch): scrape both sites → commit the updated data → build → deploy to GitHub Pages. If the CoStar scrape fails, the run continues with the previous day's CoStar data. The `chore: update scraped jobs data` commits in the history are the bot.
 
 ## Stack
 
@@ -49,8 +53,9 @@ React 19 · TypeScript · Vite 8 · Cheerio · GitHub Actions · GitHub Pages
 
 ```bash
 pnpm install
-pnpm scrape   # refresh data/jobs.json
-pnpm dev      # start the dev server
+pnpm scrape          # refresh data/jobs.json
+pnpm scrape:costar   # refresh data/costar-jobs.json
+pnpm dev             # start the dev server
 pnpm build    # typecheck + production build
 ```
 

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T19:37:00.907Z",
+  "scrapedAt": "2026-11-13T19:17:28.326Z",
   "jobs": [
     {
       "id": "446721862305",
@@ -92,15 +92,15 @@
       "datePosted": "11/10/2026"
     },
     {
-      "id": "446722057425",
-      "title": "Field Sales Account Executive - Matterport - New York, NY",
-      "location": "New York, NY",
-      "datePosted": "11/10/2026"
-    },
-    {
       "id": "446722062402",
       "title": "Account Executive, CoStar Data & Analytics - San Francisco, CA",
       "location": "San Francisco, CA",
+      "datePosted": "11/10/2026"
+    },
+    {
+      "id": "446722057425",
+      "title": "Field Sales Account Executive - Matterport - New York, NY",
+      "location": "New York, NY",
       "datePosted": "11/10/2026"
     },
     {
@@ -110,15 +110,15 @@
       "datePosted": "11/10/2026"
     },
     {
-      "id": "446722062405",
-      "title": "Account Executive, CoStar Data & Analytics- Austin, TX",
-      "location": "Austin, TX",
-      "datePosted": "11/09/2026"
-    },
-    {
       "id": "446722058507",
       "title": "Part Time Field Researcher - Zonda - Orlando, FL",
       "location": "Remote, FL",
+      "datePosted": "11/09/2026"
+    },
+    {
+      "id": "446722062405",
+      "title": "Account Executive, CoStar Data & Analytics- Austin, TX",
+      "location": "Austin, TX",
       "datePosted": "11/09/2026"
     },
     {
@@ -128,21 +128,9 @@
       "datePosted": "11/09/2026"
     },
     {
-      "id": "446722038576",
-      "title": "Sales Associate, Apartments.com - Minneapolis,, MN",
-      "location": "Minneapolis, MN",
-      "datePosted": "11/06/2026"
-    },
-    {
       "id": "446722030927",
       "title": "Technical Manager (C#/API) - CoStar Group - San Diego, CA",
       "location": "San Diego, CA",
-      "datePosted": "11/06/2026"
-    },
-    {
-      "id": "446722031453",
-      "title": "Senior Analyst, Marketing Analytics",
-      "location": "Atlanta, GA",
       "datePosted": "11/06/2026"
     },
     {
@@ -152,10 +140,28 @@
       "datePosted": "11/06/2026"
     },
     {
+      "id": "446722031453",
+      "title": "Senior Analyst, Marketing Analytics",
+      "location": "Atlanta, GA",
+      "datePosted": "11/06/2026"
+    },
+    {
+      "id": "446722038576",
+      "title": "Sales Associate, Apartments.com - Minneapolis,, MN",
+      "location": "Minneapolis, MN",
+      "datePosted": "11/06/2026"
+    },
+    {
       "id": "446722040849",
       "title": "Marketing Coordinator - Zonda - Arlington, VA",
       "location": "Arlington, VA",
       "datePosted": "11/05/2026"
+    },
+    {
+      "id": "446721974623",
+      "title": "Workplace Specialist",
+      "location": "Arlington, VA",
+      "datePosted": "11/04/2026"
     },
     {
       "id": "446721987360",
@@ -167,30 +173,6 @@
       "id": "446722003066",
       "title": "Sales Associate, Land.com - Upstate New York",
       "location": "Remote, NY",
-      "datePosted": "11/04/2026"
-    },
-    {
-      "id": "446722003067",
-      "title": "Sales Associate, Land.com- Illinois",
-      "location": "Remote, IL",
-      "datePosted": "11/04/2026"
-    },
-    {
-      "id": "446722031454",
-      "title": "Account Executive, CoStar Data & Analytics - Pittsburgh , PA",
-      "location": "Pittsburgh, PA",
-      "datePosted": "11/04/2026"
-    },
-    {
-      "id": "446722058691",
-      "title": "Sales Associate, Apartments.com - Irvine, CA",
-      "location": "Irvine, CA",
-      "datePosted": "11/04/2026"
-    },
-    {
-      "id": "446721974623",
-      "title": "Workplace Specialist",
-      "location": "Arlington, VA",
       "datePosted": "11/04/2026"
     },
     {
@@ -206,6 +188,24 @@
       "datePosted": "11/04/2026"
     },
     {
+      "id": "446722058691",
+      "title": "Sales Associate, Apartments.com - Irvine, CA",
+      "location": "Irvine, CA",
+      "datePosted": "11/04/2026"
+    },
+    {
+      "id": "446722003067",
+      "title": "Sales Associate, Land.com- Illinois",
+      "location": "Remote, IL",
+      "datePosted": "11/04/2026"
+    },
+    {
+      "id": "446722031454",
+      "title": "Account Executive, CoStar Data & Analytics - Pittsburgh , PA",
+      "location": "Pittsburgh, PA",
+      "datePosted": "11/04/2026"
+    },
+    {
       "id": "446721947144",
       "title": "Sales Executive - LoopNet - Seattle, WA",
       "location": "Seattle, WA",
@@ -218,15 +218,15 @@
       "datePosted": "11/03/2026"
     },
     {
-      "id": "446721992349",
-      "title": "Senior Technical Business Analyst- Arlington, VA",
-      "location": "Arlington, VA",
-      "datePosted": "11/03/2026"
-    },
-    {
       "id": "446721972545",
       "title": "Product Designer, Visual Lease & Costar Real Estate Manager",
       "location": "Richmond, VA",
+      "datePosted": "11/03/2026"
+    },
+    {
+      "id": "446721992349",
+      "title": "Senior Technical Business Analyst- Arlington, VA",
+      "location": "Arlington, VA",
       "datePosted": "11/03/2026"
     },
     {
@@ -254,9 +254,9 @@
       "datePosted": "10/30/2026"
     },
     {
-      "id": "446721912919",
-      "title": "Part Time Field Researcher - Zonda - Buckeye, AZ",
-      "location": "Remote, AZ",
+      "id": "446721861432",
+      "title": "Account Executive, CoStar Data & Analytics - Phoenix, AZ",
+      "location": "Phoenix, AZ",
       "datePosted": "10/29/2026"
     },
     {
@@ -266,26 +266,26 @@
       "datePosted": "10/29/2026"
     },
     {
-      "id": "446721861432",
-      "title": "Account Executive, CoStar Data & Analytics - Phoenix, AZ",
-      "location": "Phoenix, AZ",
-      "datePosted": "10/29/2026"
-    },
-    {
       "id": "446721861547",
       "title": "Software Engineer I (C#/.NET)",
       "location": "Arlington, VA",
       "datePosted": "10/29/2026"
     },
     {
-      "id": "446721830310",
-      "title": "Senior Product Designer, Homes.com",
-      "location": "Arlington, VA",
-      "datePosted": "10/28/2026"
+      "id": "446721912919",
+      "title": "Part Time Field Researcher - Zonda - Buckeye, AZ",
+      "location": "Remote, AZ",
+      "datePosted": "10/29/2026"
     },
     {
       "id": "446721830530",
       "title": "Product Designer, Homes.com",
+      "location": "Arlington, VA",
+      "datePosted": "10/28/2026"
+    },
+    {
+      "id": "446721830310",
+      "title": "Senior Product Designer, Homes.com",
       "location": "Arlington, VA",
       "datePosted": "10/28/2026"
     },
@@ -302,15 +302,15 @@
       "datePosted": "10/27/2026"
     },
     {
-      "id": "446721825148",
-      "title": "Sales Associate - Apartments.com - Gainesville, FL",
-      "location": "Remote, FL",
-      "datePosted": "10/23/2026"
-    },
-    {
       "id": "446721716490",
       "title": "Debt Solutions - Senior Software Engineer",
       "location": "San Diego, CA",
+      "datePosted": "10/23/2026"
+    },
+    {
+      "id": "446721825148",
+      "title": "Sales Associate - Apartments.com - Gainesville, FL",
+      "location": "Remote, FL",
       "datePosted": "10/23/2026"
     },
     {
@@ -320,21 +320,27 @@
       "datePosted": "10/21/2026"
     },
     {
+      "id": "446721761105",
+      "title": "Vision & Learning Intern",
+      "location": "Sunnyvale, CA",
+      "datePosted": "10/21/2026"
+    },
+    {
       "id": "446721659167",
       "title": "Senior Workday Engineer",
       "location": "Arlington, VA",
       "datePosted": "10/20/2026"
     },
     {
-      "id": "446721691225",
-      "title": "Senior Sales Associate-Homes.com, Inside Sales",
-      "location": "Richmond, VA",
-      "datePosted": "10/20/2026"
-    },
-    {
       "id": "446721663437",
       "title": "Senior Software Engineer",
       "location": "San Diego, CA",
+      "datePosted": "10/20/2026"
+    },
+    {
+      "id": "446721691225",
+      "title": "Senior Sales Associate-Homes.com, Inside Sales",
+      "location": "Richmond, VA",
       "datePosted": "10/20/2026"
     },
     {
@@ -368,12 +374,6 @@
       "datePosted": "10/15/2026"
     },
     {
-      "id": "446721637585",
-      "title": "Lead Detection & Response Platform Engineer",
-      "location": "Arlington, VA",
-      "datePosted": "10/14/2026"
-    },
-    {
       "id": "446721580208",
       "title": "Regional Director, Sales - CoStar Data & Analytics - Dallas, TX",
       "location": "Dallas, TX",
@@ -386,15 +386,21 @@
       "datePosted": "10/14/2026"
     },
     {
-      "id": "446721580211",
-      "title": "Account Executive, CoStar Data & Analytics - San Francisco, CA",
-      "location": "San Francisco, CA",
+      "id": "446721637585",
+      "title": "Lead Detection & Response Platform Engineer",
+      "location": "Arlington, VA",
       "datePosted": "10/14/2026"
     },
     {
       "id": "446721553711",
       "title": "Field Sales Account Executive - Matterport - Sunnyvale or San Francisco, CA",
       "location": "Sunnyvale, CA",
+      "datePosted": "10/13/2026"
+    },
+    {
+      "id": "446721580207",
+      "title": "Account Executive, CoStar Data & Analytics - Salt Lake City, UT",
+      "location": "Salt Lake City, UT",
       "datePosted": "10/13/2026"
     },
     {
@@ -416,22 +422,10 @@
       "datePosted": "10/13/2026"
     },
     {
-      "id": "446721580207",
-      "title": "Account Executive, CoStar Data & Analytics - Salt Lake City, UT",
-      "location": "Salt Lake City, UT",
-      "datePosted": "10/13/2026"
-    },
-    {
       "id": "446721555480",
       "title": "Content & Asset Marketing Specialist – Ten-X – Irvine, CA",
       "location": "Irvine, CA",
       "datePosted": "10/12/2026"
-    },
-    {
-      "id": "446721489749",
-      "title": "Associate Photographer - Fayetteville NC",
-      "location": "Remote, NC",
-      "datePosted": "10/09/2026"
     },
     {
       "id": "446721522035",
@@ -443,6 +437,12 @@
       "id": "446721522041",
       "title": "Account Executive, CoStar Data & Analytics - Dallas, TX",
       "location": "Dallas, TX",
+      "datePosted": "10/09/2026"
+    },
+    {
+      "id": "446721489749",
+      "title": "Associate Photographer - Fayetteville NC",
+      "location": "Remote, NC",
       "datePosted": "10/09/2026"
     },
     {
@@ -488,6 +488,12 @@
       "datePosted": "10/08/2026"
     },
     {
+      "id": "446721461380",
+      "title": "Sales Associate, Land.com - Oklahoma",
+      "location": "Remote, OK",
+      "datePosted": "10/07/2026"
+    },
+    {
       "id": "446721451554",
       "title": "Sales Executive - LoopNet - New York City, NY",
       "location": "New York, NY",
@@ -497,12 +503,6 @@
       "id": "446721453484",
       "title": "Sales Associate, Apartments.com - Peoria, IL",
       "location": "Remote, IL",
-      "datePosted": "10/07/2026"
-    },
-    {
-      "id": "446721461380",
-      "title": "Sales Associate, Land.com - Oklahoma",
-      "location": "Remote, OK",
       "datePosted": "10/07/2026"
     },
     {
@@ -524,6 +524,12 @@
       "datePosted": "10/07/2026"
     },
     {
+      "id": "446721462100",
+      "title": "Associate Implementation Consultant, CoStar Real Estate Manager - Iselin, NJ",
+      "location": "Iselin, NJ",
+      "datePosted": "10/06/2026"
+    },
+    {
       "id": "446721431529",
       "title": "Senior Zero Trust Network Access (ZTNA) Engineer- Arlington, VA",
       "location": "Arlington, VA",
@@ -542,27 +548,9 @@
       "datePosted": "10/06/2026"
     },
     {
-      "id": "446721462100",
-      "title": "Associate Implementation Consultant, CoStar Real Estate Manager - Iselin, NJ",
-      "location": "Iselin, NJ",
-      "datePosted": "10/06/2026"
-    },
-    {
-      "id": "446721448965",
-      "title": "Senior Edge Security Engineer",
-      "location": "Arlington, VA",
-      "datePosted": "10/05/2026"
-    },
-    {
-      "id": "446721453486",
-      "title": "Sales Associate, Apartments.com - Salt Lake City, UT",
-      "location": "Salt Lake City, UT",
-      "datePosted": "10/05/2026"
-    },
-    {
-      "id": "446721450049",
-      "title": "Account Executive, CoStar Data & Analytics - San Antonio, TX",
-      "location": "San Antonio, TX",
+      "id": "446721414095",
+      "title": "Sales Associate, STR - Nashville, TN",
+      "location": "Nashville, TN",
       "datePosted": "10/05/2026"
     },
     {
@@ -578,16 +566,22 @@
       "datePosted": "10/05/2026"
     },
     {
-      "id": "446721414095",
-      "title": "Sales Associate, STR - Nashville, TN",
-      "location": "Nashville, TN",
+      "id": "446721448965",
+      "title": "Senior Edge Security Engineer",
+      "location": "Arlington, VA",
       "datePosted": "10/05/2026"
     },
     {
-      "id": "446721396926",
-      "title": "Data Operations Associate, STR - Nashville, TN",
-      "location": "Nashville, TN",
-      "datePosted": "10/02/2026"
+      "id": "446721450049",
+      "title": "Account Executive, CoStar Data & Analytics - San Antonio, TX",
+      "location": "San Antonio, TX",
+      "datePosted": "10/05/2026"
+    },
+    {
+      "id": "446721453486",
+      "title": "Sales Associate, Apartments.com - Salt Lake City, UT",
+      "location": "Salt Lake City, UT",
+      "datePosted": "10/05/2026"
     },
     {
       "id": "446721478372",
@@ -596,27 +590,15 @@
       "datePosted": "10/02/2026"
     },
     {
-      "id": "446721369336",
-      "title": "Account Executive, CoStar Data & Analytics – Charlotte, NC",
-      "location": "Charlotte, NC",
-      "datePosted": "10/01/2026"
+      "id": "446721396926",
+      "title": "Data Operations Associate, STR - Nashville, TN",
+      "location": "Nashville, TN",
+      "datePosted": "10/02/2026"
     },
     {
-      "id": "446721423509",
-      "title": "Commercial Counsel",
-      "location": "Irvine, CA",
-      "datePosted": "10/01/2026"
-    },
-    {
-      "id": "446721371702",
-      "title": "Associate Photographer-S. Maryland/S. Delaware (Salisbury, MD)",
-      "location": "Remote, MD",
-      "datePosted": "10/01/2026"
-    },
-    {
-      "id": "446721362425",
-      "title": "Sales Associate, Apartments.com - Chicago, IL",
-      "location": "Remote, IL",
+      "id": "446721360952",
+      "title": "Sales Associate, Apartments.com - Houston, TX",
+      "location": "Houston, TX",
       "datePosted": "10/01/2026"
     },
     {
@@ -632,21 +614,39 @@
       "datePosted": "10/01/2026"
     },
     {
-      "id": "446721360952",
-      "title": "Sales Associate, Apartments.com - Houston, TX",
-      "location": "Houston, TX",
+      "id": "446721369336",
+      "title": "Account Executive, CoStar Data & Analytics – Charlotte, NC",
+      "location": "Charlotte, NC",
       "datePosted": "10/01/2026"
     },
     {
-      "id": "446721359484",
-      "title": "New Business Development Sales Associate, Feed Pro - Apartments.com - Richmond, VA",
-      "location": "Richmond, VA",
-      "datePosted": "09/30/2026"
+      "id": "446721423509",
+      "title": "Commercial Counsel",
+      "location": "Irvine, CA",
+      "datePosted": "10/01/2026"
+    },
+    {
+      "id": "446721362425",
+      "title": "Sales Associate, Apartments.com - Chicago, IL",
+      "location": "Remote, IL",
+      "datePosted": "10/01/2026"
+    },
+    {
+      "id": "446721371702",
+      "title": "Associate Photographer-S. Maryland/S. Delaware (Salisbury, MD)",
+      "location": "Remote, MD",
+      "datePosted": "10/01/2026"
     },
     {
       "id": "446721359071",
       "title": "Associate Photographer - Fort Wayne, IN",
       "location": "Remote, IN",
+      "datePosted": "09/30/2026"
+    },
+    {
+      "id": "446721359484",
+      "title": "New Business Development Sales Associate, Feed Pro - Apartments.com - Richmond, VA",
+      "location": "Richmond, VA",
       "datePosted": "09/30/2026"
     },
     {
@@ -656,39 +656,15 @@
       "datePosted": "09/30/2026"
     },
     {
-      "id": "446721328867",
-      "title": "Sales Associate, Apartments.com - Richmond, VA",
-      "location": "Richmond, VA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328364",
-      "title": "Sales Associate, Apartments.com - Philadelphia, PA",
-      "location": "Philadelphia, PA",
-      "datePosted": "09/29/2026"
-    },
-    {
       "id": "446721328512",
       "title": "Sales Associate, Apartments.com - Northern New Jersey",
       "location": "Iselin, NJ",
       "datePosted": "09/29/2026"
     },
     {
-      "id": "446721328553",
-      "title": "Sales Associate, Apartments.com - Seattle, WA",
-      "location": "Seattle, WA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328865",
-      "title": "Regional Sales Director, Apartments.com - Boston, MA",
-      "location": "Boston, MA",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328884",
-      "title": "Sales Associate, Apartments.com - Boston, MA",
-      "location": "Boston, MA",
+      "id": "446721328867",
+      "title": "Sales Associate, Apartments.com - Richmond, VA",
+      "location": "Richmond, VA",
       "datePosted": "09/29/2026"
     },
     {
@@ -716,24 +692,6 @@
       "datePosted": "09/29/2026"
     },
     {
-      "id": "446721341448",
-      "title": "Sales Associate, Apartments.com - Cincinnati, OH",
-      "location": "Cincinnati, OH",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721341459",
-      "title": "Sales Associate, Apartments.com - Indianapolis, IN",
-      "location": "Indianapolis, IN",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721328539",
-      "title": "Sales Associate, Apartments.com - Portland, OR",
-      "location": "Portland, OR",
-      "datePosted": "09/29/2026"
-    },
-    {
       "id": "446721329194",
       "title": "Sales Associate, Apartments.com - Orange County, CA",
       "location": "Irvine, CA",
@@ -743,6 +701,12 @@
       "id": "446721341447",
       "title": "Sales Associate, Apartments.com - Detroit, MI",
       "location": "Southfield, MI",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721341448",
+      "title": "Sales Associate, Apartments.com - Cincinnati, OH",
+      "location": "Cincinnati, OH",
       "datePosted": "09/29/2026"
     },
     {
@@ -758,18 +722,6 @@
       "datePosted": "09/29/2026"
     },
     {
-      "id": "446721346031",
-      "title": "Sales Associate, Apartments.com - San Antonio, TX",
-      "location": "San Antonio, TX",
-      "datePosted": "09/29/2026"
-    },
-    {
-      "id": "446721350832",
-      "title": "Sales Associate, Apartments.com - Fargo, North Dakota",
-      "location": "Remote, ND",
-      "datePosted": "09/29/2026"
-    },
-    {
       "id": "446721350833",
       "title": "Sales Associate, Apartments.com - Omaha, Nebraska",
       "location": "Remote, NE",
@@ -779,6 +731,54 @@
       "id": "446721369342",
       "title": "Sales Executive, Mid-Market - Real Estate Manager/Visual Lease - Century City, Irvine or San Diego",
       "location": "Los Angeles, CA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721328364",
+      "title": "Sales Associate, Apartments.com - Philadelphia, PA",
+      "location": "Philadelphia, PA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721328539",
+      "title": "Sales Associate, Apartments.com - Portland, OR",
+      "location": "Portland, OR",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721328553",
+      "title": "Sales Associate, Apartments.com - Seattle, WA",
+      "location": "Seattle, WA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721328865",
+      "title": "Regional Sales Director, Apartments.com - Boston, MA",
+      "location": "Boston, MA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721328884",
+      "title": "Sales Associate, Apartments.com - Boston, MA",
+      "location": "Boston, MA",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721341459",
+      "title": "Sales Associate, Apartments.com - Indianapolis, IN",
+      "location": "Indianapolis, IN",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721346031",
+      "title": "Sales Associate, Apartments.com - San Antonio, TX",
+      "location": "San Antonio, TX",
+      "datePosted": "09/29/2026"
+    },
+    {
+      "id": "446721350832",
+      "title": "Sales Associate, Apartments.com - Fargo, North Dakota",
+      "location": "Remote, ND",
       "datePosted": "09/29/2026"
     },
     {
@@ -797,6 +797,12 @@
       "id": "446721323624",
       "title": "Senior Manager, Technical Accounting",
       "location": "Arlington, VA",
+      "datePosted": "09/28/2026"
+    },
+    {
+      "id": "446721326080",
+      "title": "Regional Director, Sales, Ten-X - West Coast",
+      "location": "Irvine, CA",
       "datePosted": "09/28/2026"
     },
     {
@@ -824,27 +830,21 @@
       "datePosted": "09/28/2026"
     },
     {
-      "id": "446721326080",
-      "title": "Regional Director, Sales, Ten-X - West Coast",
-      "location": "Irvine, CA",
-      "datePosted": "09/28/2026"
-    },
-    {
       "id": "446721326118",
       "title": "Regional Director, Sales, Ten-X - East Coast",
       "location": "New York, NY",
       "datePosted": "09/28/2026"
     },
     {
-      "id": "446721321860",
-      "title": "Associate Product Manager - Sunnyvale, CA",
-      "location": "Sunnyvale, CA",
-      "datePosted": "09/25/2026"
-    },
-    {
       "id": "446721293514",
       "title": "Account Executive, CoStar Data & Analytics – Century City, CA",
       "location": "Los Angeles, CA",
+      "datePosted": "09/25/2026"
+    },
+    {
+      "id": "446721321860",
+      "title": "Associate Product Manager - Sunnyvale, CA",
+      "location": "Sunnyvale, CA",
       "datePosted": "09/25/2026"
     },
     {
@@ -908,22 +908,16 @@
       "datePosted": "09/17/2026"
     },
     {
-      "id": "446721139102",
-      "title": "Field Sales Account Executive - Matterport - San Diego, CA",
-      "location": "San Diego, CA",
-      "datePosted": "09/16/2026"
-    },
-    {
       "id": "446721129614",
       "title": "Financial Analyst, CoStar Group - Arlington, VA",
       "location": "Arlington, VA",
       "datePosted": "09/16/2026"
     },
     {
-      "id": "446721125914",
-      "title": "Account Executive, CoStar Data & Analytics – Iselin, New Jersey",
-      "location": "Iselin, NJ",
-      "datePosted": "09/15/2026"
+      "id": "446721139102",
+      "title": "Field Sales Account Executive - Matterport - San Diego, CA",
+      "location": "San Diego, CA",
+      "datePosted": "09/16/2026"
     },
     {
       "id": "446721106978",
@@ -935,6 +929,12 @@
       "id": "446721109989",
       "title": "Associate Photographer - Salem/Eugene, OR",
       "location": "Remote, OR",
+      "datePosted": "09/15/2026"
+    },
+    {
+      "id": "446721125914",
+      "title": "Account Executive, CoStar Data & Analytics – Iselin, New Jersey",
+      "location": "Iselin, NJ",
       "datePosted": "09/15/2026"
     },
     {
@@ -950,15 +950,15 @@
       "datePosted": "09/14/2026"
     },
     {
-      "id": "446721128078",
-      "title": "Part Time Field Researcher - Zonda - Miami FL",
-      "location": "Miami, FL",
-      "datePosted": "09/14/2026"
-    },
-    {
       "id": "446721244632",
       "title": "Senior DevOps Engineer - Matterport",
       "location": "Sunnyvale, CA",
+      "datePosted": "09/14/2026"
+    },
+    {
+      "id": "446721128078",
+      "title": "Part Time Field Researcher - Zonda - Miami FL",
+      "location": "Miami, FL",
       "datePosted": "09/14/2026"
     },
     {
@@ -1028,15 +1028,15 @@
       "datePosted": "09/02/2026"
     },
     {
-      "id": "446720955069",
-      "title": "Account Executive, CoStar Data & Analytics - Miami, FL",
-      "location": "Miami, FL",
-      "datePosted": "09/01/2026"
-    },
-    {
       "id": "446720923800",
       "title": "Field Sales Account Executive - Matterport - Cleveland, OH",
       "location": "Cleveland, OH",
+      "datePosted": "09/01/2026"
+    },
+    {
+      "id": "446720955069",
+      "title": "Account Executive, CoStar Data & Analytics - Miami, FL",
+      "location": "Miami, FL",
       "datePosted": "09/01/2026"
     },
     {
@@ -1082,18 +1082,6 @@
       "datePosted": "08/20/2026"
     },
     {
-      "id": "446720541178",
-      "title": "Regional Vice President - LoopNet - West",
-      "location": "Irvine, CA",
-      "datePosted": "08/19/2026"
-    },
-    {
-      "id": "446720557920",
-      "title": "Senior Data Engineer",
-      "location": "Richmond, VA",
-      "datePosted": "08/19/2026"
-    },
-    {
       "id": "446720556062",
       "title": "Associate Photographer - Birmingham, AL",
       "location": "Remote, AL",
@@ -1102,6 +1090,18 @@
     {
       "id": "446720557923",
       "title": "Team Lead, Software Engineering - Full-Stack",
+      "location": "Richmond, VA",
+      "datePosted": "08/19/2026"
+    },
+    {
+      "id": "446720541178",
+      "title": "Regional Vice President - LoopNet - West",
+      "location": "Irvine, CA",
+      "datePosted": "08/19/2026"
+    },
+    {
+      "id": "446720557920",
+      "title": "Senior Data Engineer",
       "location": "Richmond, VA",
       "datePosted": "08/19/2026"
     },
@@ -1166,15 +1166,15 @@
       "datePosted": "08/12/2026"
     },
     {
-      "id": "446720391066",
-      "title": "DevOps Engineer",
-      "location": "Irvine, CA",
-      "datePosted": "08/11/2026"
-    },
-    {
       "id": "446720375733",
       "title": "Associate Photographer - Madison, WI",
       "location": "Remote, WI",
+      "datePosted": "08/11/2026"
+    },
+    {
+      "id": "446720391066",
+      "title": "DevOps Engineer",
+      "location": "Irvine, CA",
       "datePosted": "08/11/2026"
     },
     {
@@ -1214,15 +1214,15 @@
       "datePosted": "08/06/2026"
     },
     {
-      "id": "446720461072",
-      "title": "Senior DevOps Engineer",
-      "location": "Irvine, CA",
-      "datePosted": "08/05/2026"
-    },
-    {
       "id": "446720298277",
       "title": "Sales Associate, Apartments. com - Fresno, CA",
       "location": "Remote, CA",
+      "datePosted": "08/05/2026"
+    },
+    {
+      "id": "446720461072",
+      "title": "Senior DevOps Engineer",
+      "location": "Irvine, CA",
       "datePosted": "08/05/2026"
     },
     {
@@ -1298,12 +1298,6 @@
       "datePosted": "07/10/2026"
     },
     {
-      "id": "446719722589",
-      "title": "Associate Photographer- South Florida",
-      "location": "Remote, FL",
-      "datePosted": "07/10/2026"
-    },
-    {
       "id": "446719725777",
       "title": "Account Executive, CoStar Data & Analytics - Orange County, CA",
       "location": "Irvine, CA",
@@ -1316,18 +1310,6 @@
       "datePosted": "07/09/2026"
     },
     {
-      "id": "446719717150",
-      "title": "Sales Executive - LoopNet - Cleveland, OH",
-      "location": "Cleveland, OH",
-      "datePosted": "07/09/2026"
-    },
-    {
-      "id": "446719874073",
-      "title": "CRE & Client Solutions Analyst, CoStar Debt Solutions",
-      "location": "Boston, MA",
-      "datePosted": "07/09/2026"
-    },
-    {
       "id": "446719664093",
       "title": "Account Executive, CoStar Data & Analytics - Sacramento, CA",
       "location": "Sacramento, CA",
@@ -1337,6 +1319,18 @@
       "id": "446719668293",
       "title": "Director, Product Management, Searcher Experience, LoopNet",
       "location": "Arlington, VA",
+      "datePosted": "07/09/2026"
+    },
+    {
+      "id": "446719717150",
+      "title": "Sales Executive - LoopNet - Cleveland, OH",
+      "location": "Cleveland, OH",
+      "datePosted": "07/09/2026"
+    },
+    {
+      "id": "446719874073",
+      "title": "CRE & Client Solutions Analyst, CoStar Debt Solutions",
+      "location": "Boston, MA",
       "datePosted": "07/09/2026"
     },
     {
@@ -1370,6 +1364,12 @@
       "datePosted": "06/29/2026"
     },
     {
+      "id": "446719380933",
+      "title": "Associate Photographer- Brick, NJ",
+      "location": "Remote, NJ",
+      "datePosted": "06/26/2026"
+    },
+    {
       "id": "446719380947",
       "title": "Associate Photographer - Albuquerque",
       "location": "Remote, NM",
@@ -1379,12 +1379,6 @@
       "id": "446719380950",
       "title": "Associate Photographer - Gastonia/Lincolnton",
       "location": "Remote, NC",
-      "datePosted": "06/26/2026"
-    },
-    {
-      "id": "446719380933",
-      "title": "Associate Photographer- Brick, NJ",
-      "location": "Remote, NJ",
       "datePosted": "06/26/2026"
     },
     {
@@ -1496,9 +1490,9 @@
       "datePosted": "05/27/2026"
     },
     {
-      "id": "446718704281",
-      "title": "Field Sales Account Executive - Matterport - Irvine, CA",
-      "location": "Irvine, CA",
+      "id": "446718704327",
+      "title": "Field Sales Account Executive - Matterport - Los Angeles, CA",
+      "location": "Los Angeles, CA",
       "datePosted": "05/27/2026"
     },
     {
@@ -1508,21 +1502,21 @@
       "datePosted": "05/27/2026"
     },
     {
-      "id": "446718704327",
-      "title": "Field Sales Account Executive - Matterport - Los Angeles, CA",
-      "location": "Los Angeles, CA",
+      "id": "446718704281",
+      "title": "Field Sales Account Executive - Matterport - Irvine, CA",
+      "location": "Irvine, CA",
       "datePosted": "05/27/2026"
-    },
-    {
-      "id": "446718641376",
-      "title": "Senior Inside Sales Associate, Matterport - Arlington, VA",
-      "location": "Arlington, VA",
-      "datePosted": "05/22/2026"
     },
     {
       "id": "446718669593",
       "title": "Account Executive, CoStar Data & Analytics – San Diego, CA",
       "location": "San Diego, CA",
+      "datePosted": "05/22/2026"
+    },
+    {
+      "id": "446718641376",
+      "title": "Senior Inside Sales Associate, Matterport - Arlington, VA",
+      "location": "Arlington, VA",
       "datePosted": "05/22/2026"
     },
     {
@@ -1544,15 +1538,15 @@
       "datePosted": "05/21/2026"
     },
     {
-      "id": "446718612013",
-      "title": "Senior Security Engineer",
-      "location": "Arlington, VA",
-      "datePosted": "05/20/2026"
-    },
-    {
       "id": "446718604241",
       "title": "Major Accounts Sales Executive - Matterport - Dallas, TX",
       "location": "Dallas, TX",
+      "datePosted": "05/20/2026"
+    },
+    {
+      "id": "446718612013",
+      "title": "Senior Security Engineer",
+      "location": "Arlington, VA",
       "datePosted": "05/20/2026"
     },
     {
@@ -1580,9 +1574,9 @@
       "datePosted": "05/14/2026"
     },
     {
-      "id": "446718602839",
-      "title": "Search Engine Optimization (SEO) Manager, Homes.com",
-      "location": "Irvine, CA",
+      "id": "446718504160",
+      "title": "Senior Director, HR Business Partner – Costar Group – Richmond, VA",
+      "location": "Richmond, VA",
       "datePosted": "05/12/2026"
     },
     {
@@ -1592,9 +1586,9 @@
       "datePosted": "05/12/2026"
     },
     {
-      "id": "446718504160",
-      "title": "Senior Director, HR Business Partner – Costar Group – Richmond, VA",
-      "location": "Richmond, VA",
+      "id": "446718602839",
+      "title": "Search Engine Optimization (SEO) Manager, Homes.com",
+      "location": "Irvine, CA",
       "datePosted": "05/12/2026"
     },
     {
@@ -1616,15 +1610,15 @@
       "datePosted": "05/11/2026"
     },
     {
-      "id": "446718449843",
-      "title": "Field Researcher - South Florida",
-      "location": "Remote, FL",
-      "datePosted": "05/06/2026"
-    },
-    {
       "id": "446718443836",
       "title": "Sales Associate, Apartments.com - Seattle, WA",
       "location": "Seattle, WA",
+      "datePosted": "05/06/2026"
+    },
+    {
+      "id": "446718449843",
+      "title": "Field Researcher - South Florida",
+      "location": "Remote, FL",
       "datePosted": "05/06/2026"
     },
     {
@@ -1688,12 +1682,6 @@
       "datePosted": "03/30/2026"
     },
     {
-      "id": "446717701966",
-      "title": "Photographer - Honolulu, HI",
-      "location": "Remote, HI",
-      "datePosted": "03/27/2026"
-    },
-    {
       "id": "446717730047",
       "title": "Workplace Design Lead, Corporate Real Estate - CoStar Group - Richmond, VA",
       "location": "Richmond, VA",
@@ -1703,6 +1691,12 @@
       "id": "446717793654",
       "title": "Senior Product Manager, Owners & Funds",
       "location": "Richmond, VA",
+      "datePosted": "03/27/2026"
+    },
+    {
+      "id": "446717701966",
+      "title": "Photographer - Honolulu, HI",
+      "location": "Remote, HI",
       "datePosted": "03/27/2026"
     },
     {
@@ -1736,15 +1730,15 @@
       "datePosted": "03/06/2026"
     },
     {
-      "id": "446717244833",
-      "title": "Major Accounts Sales Executive - Matterport -  New York, NY",
-      "location": "New York, NY",
-      "datePosted": "02/26/2026"
-    },
-    {
       "id": "446717101106",
       "title": "Major Accounts Sales Executive - Matterport -  Minneapolis, MN",
       "location": "Minneapolis, MN",
+      "datePosted": "02/26/2026"
+    },
+    {
+      "id": "446717244833",
+      "title": "Major Accounts Sales Executive - Matterport -  New York, NY",
+      "location": "New York, NY",
       "datePosted": "02/26/2026"
     },
     {
@@ -1778,6 +1772,18 @@
       "datePosted": "05/09/2025"
     },
     {
+      "id": "446722084188",
+      "title": "Customer Experience Specialist- CoStar",
+      "location": "Pyrmont, New South Wales, Australia",
+      "datePosted": "11/12/2026"
+    },
+    {
+      "id": "446722099790",
+      "title": "Lifecycle Marketing Operations Manager",
+      "location": "Pyrmont, New South Wales, Australia",
+      "datePosted": "11/12/2026"
+    },
+    {
       "id": "446722026871",
       "title": "Senior Marketing Insights Manager",
       "location": "Sydney, New South Wales, Australia",
@@ -1796,15 +1802,15 @@
       "datePosted": "10/30/2026"
     },
     {
-      "id": "446721880185",
-      "title": "Senior Sales Executive, Residential (contract)",
-      "location": "Cremorne, Victoria, Australia",
-      "datePosted": "10/30/2026"
-    },
-    {
       "id": "446721883502",
       "title": "Bilingual Sales Associate, Apartments.com/ Associé(e) aux ventes bilingue, Apartments.com - Montréal, Québec",
       "location": "Montreal, Quebec, Canada",
+      "datePosted": "10/30/2026"
+    },
+    {
+      "id": "446721880185",
+      "title": "Senior Sales Executive, Residential (contract)",
+      "location": "Cremorne, Victoria, Australia",
       "datePosted": "10/30/2026"
     },
     {
@@ -1820,15 +1826,15 @@
       "datePosted": "10/29/2026"
     },
     {
-      "id": "446721823445",
-      "title": "Account Executive, Matterport - Madrid",
-      "location": "Madrid, Spain",
-      "datePosted": "10/28/2026"
-    },
-    {
       "id": "446721849975",
       "title": "Inside Sales Account Executive (German speaking), Matterport - London",
       "location": "London, United Kingdom",
+      "datePosted": "10/28/2026"
+    },
+    {
+      "id": "446721823445",
+      "title": "Account Executive, Matterport - Madrid",
+      "location": "Madrid, Spain",
       "datePosted": "10/28/2026"
     },
     {
@@ -1856,27 +1862,27 @@
       "datePosted": "10/20/2026"
     },
     {
-      "id": "446721647785",
-      "title": "Business Development Consultant, Patch: South Coast, Bournemouth, Southampton, Dorset, OnTheMarket - London",
-      "location": "London, United Kingdom",
-      "datePosted": "10/19/2026"
-    },
-    {
       "id": "446721634375",
       "title": "Sales Engineer, Real Estate Manager & Visual Lease – London",
       "location": "London, United Kingdom",
       "datePosted": "10/19/2026"
     },
     {
-      "id": "446721616485",
-      "title": "Sales Executive - Lower North Shore (contract)",
-      "location": "Sydney, New South Wales, Australia",
-      "datePosted": "10/16/2026"
+      "id": "446721647785",
+      "title": "Business Development Consultant, Patch: South Coast, Bournemouth, Southampton, Dorset, OnTheMarket - London",
+      "location": "London, United Kingdom",
+      "datePosted": "10/19/2026"
     },
     {
       "id": "446721605776",
       "title": "Customer Experience Partner",
       "location": "Makati, National Capital Region (Manila), Philippines",
+      "datePosted": "10/16/2026"
+    },
+    {
+      "id": "446721616485",
+      "title": "Sales Executive - Lower North Shore (contract)",
+      "location": "Sydney, New South Wales, Australia",
       "datePosted": "10/16/2026"
     },
     {
@@ -1934,27 +1940,27 @@
       "datePosted": "10/01/2026"
     },
     {
-      "id": "446721245156",
-      "title": "Inside Sales Associate, STR - London",
-      "location": "London, United Kingdom",
-      "datePosted": "09/24/2026"
-    },
-    {
       "id": "446721234743",
       "title": "Customer Experience Director",
       "location": "Sydney, New South Wales, Australia",
       "datePosted": "09/24/2026"
     },
     {
-      "id": "446721159429",
-      "title": "Senior Software Engineer - Audience Amplification",
-      "location": "Sydney, New South Wales, Australia",
-      "datePosted": "09/18/2026"
+      "id": "446721245156",
+      "title": "Inside Sales Associate, STR - London",
+      "location": "London, United Kingdom",
+      "datePosted": "09/24/2026"
     },
     {
       "id": "446721188770",
       "title": "Customer Experience Partner - Matterport",
       "location": "Pyrmont, New South Wales, Australia",
+      "datePosted": "09/18/2026"
+    },
+    {
+      "id": "446721159429",
+      "title": "Senior Software Engineer - Audience Amplification",
+      "location": "Sydney, New South Wales, Australia",
       "datePosted": "09/18/2026"
     },
     {
@@ -1988,14 +1994,14 @@
       "datePosted": "09/15/2026"
     },
     {
-      "id": "446721143163",
-      "title": "Senior Data Engineer - Zonda - Toronto, Ontario",
+      "id": "446721143162",
+      "title": "Senior Data Platform Engineer - Zonda - Toronto, Ontario",
       "location": "Toronto, Ontario, Canada",
       "datePosted": "09/15/2026"
     },
     {
-      "id": "446721143162",
-      "title": "Senior Data Platform Engineer - Zonda - Toronto, Ontario",
+      "id": "446721143163",
+      "title": "Senior Data Engineer - Zonda - Toronto, Ontario",
       "location": "Toronto, Ontario, Canada",
       "datePosted": "09/15/2026"
     },
@@ -2022,12 +2028,6 @@
       "title": "Senior DevOps Engineer - Operations",
       "location": "Pyrmont, New South Wales, Australia",
       "datePosted": "08/24/2026"
-    },
-    {
-      "id": "446720556101",
-      "title": "Field Research Photographer, CoStar - Newcastle",
-      "location": "Home-based  - Newcastle-upon-Tyne, United Kingdom",
-      "datePosted": "08/19/2026"
     },
     {
       "id": "446720702491",
@@ -2144,14 +2144,14 @@
       "datePosted": "06/03/2026"
     },
     {
-      "id": "446718797894",
-      "title": "Reportero Sector Inmobiliario Comercial, CoStar - Madrid",
+      "id": "446718797892",
+      "title": "Analista de Mercado Sector Inmobilario Comercial, CoStar - Madrid",
       "location": "Madrid, Spain",
       "datePosted": "06/02/2026"
     },
     {
-      "id": "446718797892",
-      "title": "Analista de Mercado Sector Inmobilario Comercial, CoStar - Madrid",
+      "id": "446718797894",
+      "title": "Reportero Sector Inmobiliario Comercial, CoStar - Madrid",
       "location": "Madrid, Spain",
       "datePosted": "06/02/2026"
     },

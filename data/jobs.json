@@ -1,6 +1,12 @@
 {
-  "scrapedAt": "2026-11-21T18:45:22.239Z",
+  "scrapedAt": "2026-11-22T19:06:33.073Z",
   "jobs": [
+    {
+      "id": "101318745904",
+      "title": "Machine Learning Engineer 4 (IC)",
+      "location": "San Jose, CA",
+      "datePosted": "11/22/2026"
+    },
     {
       "id": "101089241440",
       "title": "Manager, Product Manager, Customer Restrictions",
@@ -1565,12 +1571,6 @@
       "id": "103431122736",
       "title": "Manager Data Analysis - Global Payment Network",
       "location": "Chicago, IL",
-      "datePosted": "11/17/2026"
-    },
-    {
-      "id": "101053646848",
-      "title": "Manager, Product Management - AI/ML, Enterprise Feature Platform",
-      "location": "McLean, VA",
       "datePosted": "11/17/2026"
     },
     {
@@ -3530,12 +3530,6 @@
       "datePosted": "11/05/2026"
     },
     {
-      "id": "102902768736",
-      "title": "Area Sales Manager - Baton Rouge, Louisiana",
-      "location": "Baton Rouge, LA",
-      "datePosted": "11/05/2026"
-    },
-    {
       "id": "100431817120",
       "title": "Manager, Product Management- Bedrock Payments Team",
       "location": "New York, NY",
@@ -3581,12 +3575,6 @@
       "id": "102902768480",
       "title": "Senior Manager, Know Your Customer (KYC) Advisory Program Oversight",
       "location": "McLean, VA",
-      "datePosted": "11/05/2026"
-    },
-    {
-      "id": "102902768448",
-      "title": "Area Sales Manager - Jackson, Mississippi",
-      "location": "Jackson, MS",
       "datePosted": "11/05/2026"
     },
     {

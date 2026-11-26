@@ -1,6 +1,36 @@
 {
-  "scrapedAt": "2026-11-25T21:08:16.757Z",
+  "scrapedAt": "2026-11-26T20:59:17.057Z",
   "jobs": [
+    {
+      "id": "102482506320",
+      "title": "Manager, Product Manager, Bank Modernization",
+      "location": "New York, NY",
+      "datePosted": "10/26/2026"
+    },
+    {
+      "id": "103693943168",
+      "title": "Associate, Recruiting Coordinator",
+      "location": "Mexico City, Mexico City",
+      "datePosted": "11/26/2026"
+    },
+    {
+      "id": "99687972272",
+      "title": "Senior Associate - Direct Marketing (Partnerships) Hybrid",
+      "location": "McLean, VA",
+      "datePosted": "11/26/2026"
+    },
+    {
+      "id": "103791416400",
+      "title": "Manager, Project Management - Commercial Bank",
+      "location": "Richmond, VA",
+      "datePosted": "11/25/2026"
+    },
+    {
+      "id": "101620405008",
+      "title": "Security Engineer 4 - Akamai",
+      "location": "Riverwoods, IL",
+      "datePosted": "10/06/2026"
+    },
     {
       "id": "103080946352",
       "title": "Full Stack Engineer 5 (AI & Emerging Tech)",
@@ -17,12 +47,6 @@
       "id": "103780588928",
       "title": "Full Time Branch Ambassador - Oakton",
       "location": "Oakton, VA",
-      "datePosted": "11/25/2026"
-    },
-    {
-      "id": "99040494800",
-      "title": "Business Manager",
-      "location": "Plano, TX",
       "datePosted": "11/25/2026"
     },
     {
@@ -692,12 +716,6 @@
       "datePosted": "11/23/2026"
     },
     {
-      "id": "103693943168",
-      "title": "Associate, Recruiting Coordinator",
-      "location": "Mexico City, Mexico City",
-      "datePosted": "11/23/2026"
-    },
-    {
       "id": "103693943136",
       "title": "Full-stack Engineer 4 (Python, Vue, AWS)",
       "location": "New York, NY",
@@ -1052,12 +1070,6 @@
       "datePosted": "10/16/2026"
     },
     {
-      "id": "98512512896",
-      "title": "Director, Control Management Shared Services",
-      "location": "City of Muntinlupa, Southern Manila District, Metro Manila",
-      "datePosted": "07/30/2026"
-    },
-    {
       "id": "102167798144",
       "title": "Manager, Product Management - Account Opening Decisioning",
       "location": "New York, NY",
@@ -1248,12 +1260,6 @@
       "title": "Senior Manager, Full-Stack Engineer (People Leader)",
       "location": "McLean, VA",
       "datePosted": "10/21/2026"
-    },
-    {
-      "id": "103537142816",
-      "title": "Manager, Project Management, Design Operations",
-      "location": "Plano, TX",
-      "datePosted": "11/19/2026"
     },
     {
       "id": "103431123232",
@@ -4244,12 +4250,6 @@
       "datePosted": "11/05/2026"
     },
     {
-      "id": "101893496272",
-      "title": "Sr. Lead Software Engineer",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "11/05/2026"
-    },
-    {
       "id": "102882664560",
       "title": "Senior Manager, Product Management - Consumer & Developer Experience",
       "location": "McLean, VA",
@@ -4676,12 +4676,6 @@
       "datePosted": "11/03/2026"
     },
     {
-      "id": "102482506320",
-      "title": "Manager, Product Manager, Bank Modernization",
-      "location": "New York, NY",
-      "datePosted": "10/26/2026"
-    },
-    {
       "id": "102826235616",
       "title": "Director, Risk Advisory - Global Payment Network",
       "location": "Houston, TX",
@@ -4926,12 +4920,6 @@
       "title": "Triple Tree - Investment Banking Analyst (Experienced Hire)",
       "location": "Bloomington, MN",
       "datePosted": "10/20/2026"
-    },
-    {
-      "id": "101620405008",
-      "title": "Security Engineer 4",
-      "location": "Riverwoods, IL",
-      "datePosted": "10/06/2026"
     },
     {
       "id": "102052107120",
@@ -5980,12 +5968,6 @@
     {
       "id": "102482506592",
       "title": "Senior Director, Data Scientist - US Card",
-      "location": "McLean, VA",
-      "datePosted": "10/26/2026"
-    },
-    {
-      "id": "102482506544",
-      "title": "Sr. Administrative Assistant",
       "location": "McLean, VA",
       "datePosted": "10/26/2026"
     },
@@ -10382,12 +10364,6 @@
       "datePosted": "06/30/2026"
     },
     {
-      "id": "96944331712",
-      "title": "Lead Software Engineer",
-      "location": "Bengaluru, Karnataka",
-      "datePosted": "06/26/2026"
-    },
-    {
       "id": "96786788384",
       "title": "Principal Data Analyst - Business Cards & Payments - Field Strategy",
       "location": "Richmond, VA",
@@ -11458,12 +11434,6 @@
     {
       "id": "97576313664",
       "title": "Senior Manager, Product Management - Enterprise Product & Experience",
-      "location": "McLean, VA",
-      "datePosted": "07/15/2026"
-    },
-    {
-      "id": "97576313904",
-      "title": "Manager, Product Management - Enterprise Product & Experience",
       "location": "McLean, VA",
       "datePosted": "07/15/2026"
     },
